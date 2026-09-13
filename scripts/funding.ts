@@ -193,7 +193,15 @@ function mergeGroup(group: Array<FundingEvent & { _indian?: 0 | 1 | 2 }>): Fundi
   const name = [...group].map((g) => g.company).sort((a, b) => score(b) - score(a))[0]!;
   const descriptor = group.map((g) => g.descriptor).filter((d): d is string => !!d).sort((a, b) => b.length - a.length)[0] ?? null;
   const round = group.map((g) => g.round).find((r) => r) ?? null;
-  const investors = [...new Set(group.flatMap((g) => g.investors))].slice(0, 6);
+  // Case-insensitive, prefix-aware: "Nvidia" and "NVIDIA", "Peak XV" and "Peak XV Partners".
+  const investors: string[] = [];
+  for (const n of group.flatMap((g) => g.investors)) {
+    const k = n.toLowerCase();
+    const idx = investors.findIndex((o) => o.toLowerCase() === k || o.toLowerCase().startsWith(k + " ") || k.startsWith(o.toLowerCase() + " "));
+    if (idx === -1) investors.push(n);
+    else if (n.length > investors[idx]!.length) investors[idx] = n;
+  }
+  investors.splice(6);
   const sources = dedupeSources(group.flatMap((g) => g.sources));
   const date = group[0]!.date;
   return {

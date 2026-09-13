@@ -541,7 +541,6 @@
   "round": "Pre-seed",
   "investors": [
    "Chimera VC",
-   "MIXI Global",
    "MIXI Global Investments"
   ],
   "date": "2026-09-08",
@@ -724,8 +723,7 @@
   "round": "Series C",
   "investors": [
    "Peak XV Partners",
-   "Filter Capital",
-   "Peak XV"
+   "Filter Capital"
   ],
   "date": "2026-09-07",
   "sources": [
@@ -762,7 +760,6 @@
   "usd": 24000000,
   "round": null,
   "investors": [
-   "Bertelsmann India",
    "Bertelsmann India Investments",
    "BII",
    "Accel",
@@ -964,8 +961,7 @@
   "usd": 19318181.81818182,
   "round": "Series C",
   "investors": [
-   "Sauce.Vc",
-   "Sauce.VC"
+   "Sauce.Vc"
   ],
   "date": "2026-09-05",
   "sources": [
@@ -1169,8 +1165,7 @@
   "round": "Series A",
   "investors": [
    "3one4 Capital",
-   "Prudent Investment",
-   "3One4 Capital"
+   "Prudent Investment"
   ],
   "date": "2026-09-03",
   "sources": [
@@ -1376,9 +1371,7 @@
   "usd": 35000000,
   "round": "Series A",
   "investors": [
-   "Magna International Inc",
-   "Magna International",
-   "Magna"
+   "Magna International Inc"
   ],
   "date": "2026-09-01",
   "sources": [
@@ -1656,8 +1649,7 @@
   "usd": 2272727.272727273,
   "round": "Series A",
   "investors": [
-   "Info Edge Ventures",
-   "Info Edge"
+   "Info Edge Ventures"
   ],
   "date": "2026-08-31",
   "sources": [
@@ -1947,8 +1939,6 @@
   "usd": 21000000,
   "round": "Series A",
   "investors": [
-   "Susquehanna",
-   "Nexus",
    "Susquehanna Venture Capital",
    "Nexus Venture Partners"
   ],
@@ -2111,7 +2101,6 @@
   "usd": 10000000,
   "round": "Series A extension",
   "investors": [
-   "Peak XV",
    "Peak XV Partners",
    "Arkam Ventures"
   ],
@@ -2425,8 +2414,7 @@
   "usd": 7000000,
   "round": "Series A",
   "investors": [
-   "Chiratae Ventures",
-   "Chiratae"
+   "Chiratae Ventures"
   ],
   "date": "2026-08-20",
   "sources": [
@@ -2522,8 +2510,7 @@
   "usd": null,
   "round": "Pre-seed",
   "investors": [
-   "Sportskeeda founder Porush Jain",
-   "Sportskeeda Founder Porush Jain"
+   "Sportskeeda founder Porush Jain"
   ],
   "date": "2026-08-20",
   "sources": [
@@ -3221,10 +3208,9 @@
   "usd": 9000000,
   "round": "Seed",
   "investors": [
-   "Lightspeed",
+   "Lightspeed India Partners",
    "Paul Graham",
-   "Peak XV",
-   "Lightspeed India Partners"
+   "Peak XV"
   ],
   "date": "2026-08-10",
   "sources": [
@@ -3281,7 +3267,6 @@
   "usd": 18181818.181818184,
   "round": "Series B",
   "investors": [
-   "Singularity",
    "Singularity AMC"
   ],
   "date": "2026-08-07",
@@ -3455,7 +3440,6 @@
   "investors": [
    "Elev8",
    "Claypond Capital",
-   "Claypond",
    "Anicut"
   ],
   "date": "2026-08-05",
@@ -3759,10 +3743,8 @@
   "round": null,
   "investors": [
    "Sorin Investments",
-   "Sorin",
    "Razorpay",
-   "Wyser Capital",
-   "Wyser"
+   "Wyser Capital"
   ],
   "date": "2026-08-04",
   "sources": [
@@ -3863,7 +3845,6 @@
   "round": null,
   "investors": [
    "Nvidia",
-   "NVIDIA",
    "Activate"
   ],
   "date": "2026-08-03",
@@ -4204,7 +4185,6 @@
   "round": "Seed",
   "investors": [
    "Transition VC",
-   "IIMA",
    "IIMA Ventures"
   ],
   "date": "2026-07-30",
@@ -4303,10 +4283,8 @@
   "round": null,
   "investors": [
    "Battery Ventures",
-   "NewRoad",
-   "Nexus",
    "NewRoad Capital Partners",
-   "NewRoad Capital"
+   "Nexus"
   ],
   "date": "2026-07-29",
   "sources": [
@@ -4344,11 +4322,8 @@
   "round": "Seed",
   "investors": [
    "Accel",
-   "Fireside",
-   "Lightspeed India",
    "Fireside Ventures",
-   "Lightspeed India Partners",
-   "Lightspeed"
+   "Lightspeed India Partners"
   ],
   "date": "2026-07-29",
   "sources": [
@@ -4517,8 +4492,7 @@
   "usd": 40000000,
   "round": "Series C",
   "investors": [
-   "ServiceNow Ventures",
-   "ServiceNow"
+   "ServiceNow Ventures"
   ],
   "date": "2026-07-23",
   "sources": [
@@ -4875,8 +4849,6 @@
   "round": "Series A",
   "investors": [
    "Accel",
-   "Elevation",
-   "Nexus",
    "Elevation Capital",
    "Nexus Venture Partners"
   ],
@@ -4915,8 +4887,7 @@
   "usd": 6931818.181818182,
   "round": "Series A",
   "investors": [
-   "Bessemer Venture Partners",
-   "Bessemer Venture"
+   "Bessemer Venture Partners"
   ],
   "date": "2026-07-20",
   "sources": [
@@ -5163,7 +5134,6 @@
   "usd": 8000000,
   "round": "Pre-series B",
   "investors": [
-   "IvyCap",
    "IvyCap Ventures"
   ],
   "date": "2026-07-16",
@@ -5338,8 +5308,7 @@
   "usd": 11363636.363636363,
   "round": "Debt",
   "investors": [
-   "BluVenture Holdings",
-   "BluVenture"
+   "BluVenture Holdings"
   ],
   "date": "2026-07-15",
   "sources": [
@@ -6828,7 +6797,6 @@
   "usd": 22727272.727272727,
   "round": "Series B",
   "investors": [
-   "Bessemer",
    "Bessemer Venture Partners"
   ],
   "date": "2026-06-26",
@@ -7164,8 +7132,7 @@
   "usd": 15000000,
   "round": "Series B",
   "investors": [
-   "Bessemer Venture Partners",
-   "Bessemer"
+   "Bessemer Venture Partners"
   ],
   "date": "2026-06-23",
   "sources": [
@@ -7370,7 +7337,6 @@
   "usd": 40000000,
   "round": null,
   "investors": [
-   "Bessemer",
    "Bessemer Venture Partners"
   ],
   "date": "2026-06-18",
@@ -7669,7 +7635,6 @@
   "usd": 30000000,
   "round": "Series B",
   "investors": [
-   "OrbiMed",
    "OrbiMed Advisors"
   ],
   "date": "2026-06-16",
@@ -8183,9 +8148,7 @@
   "round": "Series B",
   "investors": [
    "Prosus Ventures",
-   "Tomales Bay Capital",
-   "Tomales Bay",
-   "Prosus"
+   "Tomales Bay Capital"
   ],
   "date": "2026-06-11",
   "sources": [
@@ -8588,7 +8551,6 @@
   "usd": 8181818.181818182,
   "round": null,
   "investors": [
-   "Peak XV",
    "Peak XV Partners"
   ],
   "date": "2026-06-09",
@@ -8626,7 +8588,6 @@
   "usd": 5681818.181818182,
   "round": "Debt",
   "investors": [
-   "BlackSoil",
    "BlackSoil Capital"
   ],
   "date": "2026-06-09",
@@ -8869,8 +8830,7 @@
   "round": "Series A",
   "investors": [
    "Baring PE India",
-   "Z3Partners",
-   "Baring PE"
+   "Z3Partners"
   ],
   "date": "2026-06-04",
   "sources": [
@@ -8964,9 +8924,8 @@
   "usd": 25568181.81818182,
   "round": "Growth",
   "investors": [
-   "Nexus",
-   "Rainmatter",
-   "Nexus Venture Partners"
+   "Nexus Venture Partners",
+   "Rainmatter"
   ],
   "date": "2026-06-03",
   "sources": [
@@ -9123,7 +9082,6 @@
    "Zoho",
    "Uber",
    "Paytm",
-   "BSE",
    "BSE Technologies"
   ],
   "date": "2026-06-02",
@@ -9332,7 +9290,6 @@
   "usd": 17045454.545454547,
   "round": "Series B",
   "investors": [
-   "Vertex Ventures",
    "Vertex Ventures Southeast Asia",
    "India"
   ],
@@ -9496,9 +9453,7 @@
   "round": "Series A",
   "investors": [
    "Bertelsmann India Investments",
-   "BII",
-   "Bertelsmann",
-   "Bertelsmann India"
+   "BII"
   ],
   "date": "2026-05-26",
   "sources": [
@@ -9695,8 +9650,7 @@
   "usd": 5681818.181818182,
   "round": "Growth",
   "investors": [
-   "Info Edge Growth",
-   "Info Edge"
+   "Info Edge Growth"
   ],
   "date": "2026-05-25",
   "sources": [
@@ -9775,9 +9729,8 @@
   "usd": 13000000,
   "round": null,
   "investors": [
-   "Prime Venture",
-   "Leo Capital",
-   "Prime Venture Partners"
+   "Prime Venture Partners",
+   "Leo Capital"
   ],
   "date": "2026-05-24",
   "sources": [
@@ -10101,8 +10054,7 @@
   "round": "Seed",
   "investors": [
    "Lightspeed",
-   "Info Edge Ventures",
-   "Info Edge"
+   "Info Edge Ventures"
   ],
   "date": "2026-05-18",
   "sources": [

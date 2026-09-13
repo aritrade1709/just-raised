@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: refresh
@@ -41,4 +42,9 @@ jobs:
           else
             git commit -m "data: refresh $(date -u +%Y-%m-%d)"
             git push
+            # A push made with GITHUB_TOKEN does not trigger other workflows,
+            # so the deploy is dispatched explicitly.
+            gh workflow run deploy.yml --ref main
           fi
+        env:
+          GH_TOKEN: ${{ github.token }}

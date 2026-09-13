@@ -19,5 +19,15 @@
   "built": {
     "noSite": true,
     "_why": "Name-only lookup cannot find the Inc42 'AI Infra Play, BUILT' company; the site it landed on is not it."
+  },
+  "sarvam": {
+    "domain": "sarvam.ai",
+    "board": {
+      "provider": "ashby",
+      "slug": "sarvam",
+      "url": "https://jobs.ashbyhq.com/sarvam"
+    },
+    "careersUrl": "https://www.sarvam.ai/careers",
+    "_why": "The key migration kept the record whose domain was sarvam.co.in (a different Sarvam). The AI company is sarvam.ai; its Ashby board was verified by hand."
   }
 }
