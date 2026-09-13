@@ -1,0 +1,23 @@
+{
+  "_comment": "Hand-set fixes keyed by the company key (lowercase alphanumerics, see normaliseKey in src/shared/headline.ts). Fields: domain, board {provider, slug, url}, careersUrl, noBoard (resolver found somebody else's board), exclude (not an Indian startup). Anything here beats what the resolver finds.",
+  "piston": {
+    "noBoard": true,
+    "_why": "Name-only lookup lands on piston.com (Piston Technologies, US). The Indian cardless-payments Piston has no findable site yet."
+  },
+  "homerun": {
+    "noSite": true,
+    "_why": "Name-only lookup lands on homerun.co, a Dutch ATS vendor. The Indian construction-materials HomeRun is not it."
+  },
+  "diageo": {
+    "exclude": true,
+    "_why": "Diageo India is a listed multinational, not a startup."
+  },
+  "space": {
+    "exclude": true,
+    "_why": "\"Space.\" is Future plc's space.com; the headline was about the sector."
+  },
+  "built": {
+    "noSite": true,
+    "_why": "Name-only lookup cannot find the Inc42 'AI Infra Play, BUILT' company; the site it landed on is not it."
+  }
+}
