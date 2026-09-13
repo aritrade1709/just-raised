@@ -834,7 +834,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-13T15:22:21.773Z",
+  "checkedAt": "2026-09-13T15:27:04.108Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1355,6 +1355,15 @@
   "india": null,
   "checkedAt": "2026-09-13T15:00:09.273Z",
   "note": "no site found (36 candidates)"
+ },
+ "ideaforge": {
+  "key": "ideaforge",
+  "company": "ideaForge",
+  "domain": "ideaforgetech.com",
+  "board": null,
+  "careersUrl": "https://ideaforgetech.com/career",
+  "india": true,
+  "checkedAt": "2026-09-13T15:27:04.108Z"
  },
  "ikinglobal": {
   "key": "ikinglobal",
@@ -2357,6 +2366,16 @@
   "india": null,
   "checkedAt": "2026-09-13T14:49:51.303Z"
  },
+ "rivvun": {
+  "key": "rivvun",
+  "company": "Rivvun AI",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-13T15:27:04.109Z",
+  "note": "no site found (36 candidates)"
+ },
  "rize": {
   "key": "rize",
   "company": "Rize",
@@ -2562,6 +2581,15 @@
   "india": null,
   "checkedAt": "2026-09-13T14:44:05.253Z"
  },
+ "sortmyprep": {
+  "key": "sortmyprep",
+  "company": "Sortmyprep",
+  "domain": "sortmyprep.com",
+  "board": null,
+  "careersUrl": "https://sortmyprep.com/careers",
+  "india": false,
+  "checkedAt": "2026-09-13T15:27:04.108Z"
+ },
  "speedioo": {
   "key": "speedioo",
   "company": "Speedioo",
@@ -2579,6 +2607,16 @@
   "careersUrl": null,
   "india": false,
   "checkedAt": "2026-09-13T14:55:59.838Z"
+ },
+ "startuptheindusvalley": {
+  "key": "startuptheindusvalley",
+  "company": "Startup The Indus Valley",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-13T15:27:04.108Z",
+  "note": "no site found (36 candidates)"
  },
  "strainxbioworks": {
   "key": "strainxbioworks",
