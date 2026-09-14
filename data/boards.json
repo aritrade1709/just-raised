@@ -92,6 +92,15 @@
   "india": false,
   "checkedAt": "2026-09-13T14:50:33.737Z"
  },
+ "aina": {
+  "key": "aina",
+  "company": "Aina",
+  "domain": "aina.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-14T00:21:00.915Z"
+ },
  "airbound": {
   "key": "airbound",
   "company": "Airbound",
@@ -834,7 +843,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-13T15:27:04.108Z",
+  "checkedAt": "2026-09-14T00:21:00.914Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -955,6 +964,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:47:20.172Z"
+ },
+ "emergent": {
+  "key": "emergent",
+  "company": "Emergent",
+  "domain": "emergent.sh",
+  "board": null,
+  "careersUrl": "https://emergent.sh/careers",
+  "india": true,
+  "checkedAt": "2026-09-14T00:21:00.915Z"
  },
  "endureair": {
   "key": "endureair",
@@ -2797,6 +2815,16 @@
   "india": true,
   "checkedAt": "2026-09-13T15:02:24.107Z"
  },
+ "travelfintechscapia": {
+  "key": "travelfintechscapia",
+  "company": "Travel-Fintech Scapia",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-14T00:21:00.915Z",
+  "note": "no site found (36 candidates)"
+ },
  "trevel": {
   "key": "trevel",
   "company": "Trevel",
@@ -3008,6 +3036,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:56:39.823Z"
+ },
+ "vorflux": {
+  "key": "vorflux",
+  "company": "Vorflux",
+  "domain": "vorflux.com",
+  "board": null,
+  "careersUrl": "https://vorflux.com/careers",
+  "india": true,
+  "checkedAt": "2026-09-14T00:21:00.914Z"
  },
  "water": {
   "key": "water",
