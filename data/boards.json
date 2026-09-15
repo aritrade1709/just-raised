@@ -451,6 +451,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:50:52.249Z"
  },
+ "biryanibees": {
+  "key": "biryanibees",
+  "company": "Biryani Bees",
+  "domain": "biryanibees.com",
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-15T00:47:30.668Z"
+ },
  "blissclub": {
   "key": "blissclub",
   "company": "BlissClub",
@@ -827,6 +836,16 @@
   "india": true,
   "checkedAt": "2026-09-13T14:44:25.276Z"
  },
+ "deepsector": {
+  "key": "deepsector",
+  "company": "Deep-Tech Sector",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-15T00:47:30.667Z",
+  "note": "no site found (36 candidates)"
+ },
  "dehaathonestfarms": {
   "key": "dehaathonestfarms",
   "company": "DeHaat Honest Farms",
@@ -843,7 +862,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-14T00:21:00.914Z",
+  "checkedAt": "2026-09-15T00:47:41.922Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1205,6 +1224,15 @@
   "careersUrl": "https://fundly.ai/careers",
   "india": true,
   "checkedAt": "2026-09-13T14:44:23.556Z"
+ },
+ "furnishka": {
+  "key": "furnishka",
+  "company": "Furnishka",
+  "domain": "furnishka.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-15T00:47:30.668Z"
  },
  "gabit": {
   "key": "gabit",
@@ -1867,6 +1895,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:44:26.565Z"
  },
+ "moonshot": {
+  "key": "moonshot",
+  "company": "Moonshot AI",
+  "domain": "moonshotai.in",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-15T00:47:41.493Z"
+ },
  "mowito": {
   "key": "mowito",
   "company": "Mowito",
@@ -1976,6 +2013,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:48:12.888Z"
  },
+ "noccarc": {
+  "key": "noccarc",
+  "company": "Noccarc",
+  "domain": "noccarc.com",
+  "board": null,
+  "careersUrl": "https://www.noccarc.com/careers",
+  "india": true,
+  "checkedAt": "2026-09-15T00:47:35.083Z"
+ },
  "nua": {
   "key": "nua",
   "company": "Nua",
@@ -2031,6 +2077,15 @@
   "india": false,
   "checkedAt": "2026-09-13T14:54:06.622Z"
  },
+ "opensecret": {
+  "key": "opensecret",
+  "company": "Open Secret",
+  "domain": "opensecret.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-15T00:47:41.922Z"
+ },
  "oppex": {
   "key": "oppex",
   "company": "Oppex AI",
@@ -2066,6 +2121,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:48:10.631Z"
+ },
+ "peepbeauty": {
+  "key": "peepbeauty",
+  "company": "Peep Beauty",
+  "domain": "peepbeauty.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-15T00:47:30.668Z"
  },
  "phab": {
   "key": "phab",
@@ -2551,6 +2615,20 @@
   "checkedAt": "2026-09-13T10:23:26.880Z",
   "via": "site"
  },
+ "snitch": {
+  "key": "snitch",
+  "company": "Snitch",
+  "domain": "snitch.co.in",
+  "board": {
+   "provider": "keka",
+   "slug": "snitch",
+   "url": "https://snitch.keka.com/careers/"
+  },
+  "careersUrl": "https://snitch.keka.com/careers/",
+  "india": true,
+  "checkedAt": "2026-09-15T00:47:45.817Z",
+  "via": "probe"
+ },
  "solarsquare": {
   "key": "solarsquare",
   "company": "SolarSquare",
@@ -2936,6 +3014,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:43:42.257Z",
   "via": "site"
+ },
+ "uniqyou": {
+  "key": "uniqyou",
+  "company": "UniqYou",
+  "domain": "uniqyou.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-15T00:47:30.668Z"
  },
  "uniseoul": {
   "key": "uniseoul",
