@@ -1,4 +1,13 @@
 {
+ "1312interactive": {
+  "key": "1312interactive",
+  "company": "1312 Interactive",
+  "domain": "1312interactive.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-16T00:39:45.837Z"
+ },
  "30sundays": {
   "key": "30sundays",
   "company": "30 Sundays",
@@ -506,6 +515,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:48:39.584Z"
  },
+ "brkz": {
+  "key": "brkz",
+  "company": "BRKZ",
+  "domain": "brkz.pl",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-16T00:39:45.837Z"
+ },
  "brunomilano": {
   "key": "brunomilano",
   "company": "Bruno Milano",
@@ -601,15 +619,6 @@
   "india": null,
   "checkedAt": "2026-09-13T15:00:10.126Z",
   "note": "no site found (36 candidates)"
- },
- "cellogentherapeutics": {
-  "key": "cellogentherapeutics",
-  "company": "Cellogen Therapeutics",
-  "domain": "cellogentherapeutics.com",
-  "board": null,
-  "careersUrl": "https://www.cellogentherapeutics.com/careers.php",
-  "india": true,
-  "checkedAt": "2026-09-13T15:02:25.631Z"
  },
  "centricity": {
   "key": "centricity",
@@ -862,7 +871,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-15T00:47:41.922Z",
+  "checkedAt": "2026-09-16T00:39:53.736Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1099,15 +1108,6 @@
   "india": true,
   "checkedAt": "2026-09-13T14:56:50.222Z"
  },
- "finspring": {
-  "key": "finspring",
-  "company": "Finspring.ai",
-  "domain": "finspring.ai",
-  "board": null,
-  "careersUrl": "https://finspring.ai/careers/",
-  "india": true,
-  "checkedAt": "2026-09-13T15:02:28.504Z"
- },
  "fireai": {
   "key": "fireai",
   "company": "FireAI",
@@ -1144,6 +1144,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:50:38.758Z"
+ },
+ "flam": {
+  "key": "flam",
+  "company": "Flam",
+  "domain": "flam.club",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-16T00:39:45.838Z"
  },
  "flexprice": {
   "key": "flexprice",
@@ -1839,6 +1848,24 @@
   "india": true,
   "checkedAt": "2026-09-13T14:45:03.256Z"
  },
+ "metafashion": {
+  "key": "metafashion",
+  "company": "Meta Fashion",
+  "domain": "meta-fashion.com",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-16T00:39:53.736Z"
+ },
+ "micob": {
+  "key": "micob",
+  "company": "MiCoB",
+  "domain": "micob.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-16T00:39:45.837Z"
+ },
  "milodrive": {
   "key": "milodrive",
   "company": "Milo Drive",
@@ -2040,6 +2067,16 @@
   "india": true,
   "checkedAt": "2026-09-13T14:50:12.597Z"
  },
+ "odishaaicoe": {
+  "key": "odishaaicoe",
+  "company": "Odisha AI CoE",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-16T00:39:45.838Z",
+  "note": "no site found (36 candidates)"
+ },
  "omegaseikimobility": {
   "key": "omegaseikimobility",
   "company": "Omega Seiki Mobility",
@@ -2094,15 +2131,6 @@
   "careersUrl": null,
   "india": false,
   "checkedAt": "2026-09-13T14:46:03.412Z"
- },
- "ownersid": {
-  "key": "ownersid",
-  "company": "Owners ID",
-  "domain": "ownersid.com",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-09-13T15:02:28.134Z"
  },
  "oxmiq": {
   "key": "oxmiq",
@@ -2334,20 +2362,6 @@
   "india": null,
   "checkedAt": "2026-09-13T14:51:08.209Z",
   "note": "no site found (36 candidates)"
- },
- "rapido": {
-  "key": "rapido",
-  "company": "Rapido",
-  "domain": "rapido.bike",
-  "board": {
-   "provider": "darwinbox",
-   "slug": "rapido",
-   "url": "https://rapido.darwinbox.in/ms/candidate/careers"
-  },
-  "careersUrl": "https://rapido.bike/Careers",
-  "india": true,
-  "checkedAt": "2026-09-13T15:02:22.354Z",
-  "via": "site"
  },
  "rawbare": {
   "key": "rawbare",
@@ -3182,6 +3196,20 @@
   "india": true,
   "checkedAt": "2026-09-13T10:20:02.144Z",
   "via": "site"
+ },
+ "wonderful": {
+  "key": "wonderful",
+  "company": "Wonderful",
+  "domain": "wonderful.com",
+  "board": {
+   "provider": "ashby",
+   "slug": "wonderful",
+   "url": "https://jobs.ashbyhq.com/wonderful"
+  },
+  "careersUrl": "https://careers.wonderful.com/",
+  "india": true,
+  "checkedAt": "2026-09-16T00:39:49.741Z",
+  "via": "probe"
  },
  "xtovia": {
   "key": "xtovia",
