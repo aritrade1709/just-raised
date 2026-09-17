@@ -63,6 +63,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:45:45.372Z"
  },
+ "affordplan": {
+  "key": "affordplan",
+  "company": "AffordPlan",
+  "domain": "affordplan.com",
+  "board": null,
+  "careersUrl": "https://affordplan.com/careers",
+  "india": true,
+  "checkedAt": "2026-09-17T00:47:00.192Z"
+ },
  "agecare": {
   "key": "agecare",
   "company": "Age Care Labs",
@@ -178,6 +187,15 @@
   "careersUrl": "https://allsecurex.com/careers.html",
   "india": true,
   "checkedAt": "2026-09-13T14:43:51.536Z"
+ },
+ "almabetter": {
+  "key": "almabetter",
+  "company": "AlmaBetter",
+  "domain": "almabetter.com",
+  "board": null,
+  "careersUrl": "https://angel.co/company/almabetter/jobs",
+  "india": true,
+  "checkedAt": "2026-09-17T00:47:13.061Z"
  },
  "alteon": {
   "key": "alteon",
@@ -592,6 +610,15 @@
   "checkedAt": "2026-09-13T15:00:47.526Z",
   "note": "no site found (36 candidates)"
  },
+ "carbonstrong": {
+  "key": "carbonstrong",
+  "company": "CarbonStrong",
+  "domain": "carbonstrong.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-17T00:47:07.531Z"
+ },
  "carpl": {
   "key": "carpl",
   "company": "CARPL.ai",
@@ -656,6 +683,16 @@
   "careersUrl": "https://www.clairva.ai/careers",
   "india": true,
   "checkedAt": "2026-09-13T14:56:28.036Z"
+ },
+ "cloudcounselage": {
+  "key": "cloudcounselage",
+  "company": "Cloud Counselage",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-17T00:46:57.178Z",
+  "note": "no site found (36 candidates)"
  },
  "club": {
   "key": "club",
@@ -818,6 +855,20 @@
   "india": false,
   "checkedAt": "2026-09-13T14:59:31.151Z"
  },
+ "darwinbox": {
+  "key": "darwinbox",
+  "company": "Darwinbox",
+  "domain": "darwinbox.com",
+  "board": {
+   "provider": "darwinbox",
+   "slug": "dbx",
+   "url": "https://dbx.darwinbox.in/ms/candidate/careers"
+  },
+  "careersUrl": "https://darwinbox.com/careers",
+  "india": true,
+  "checkedAt": "2026-09-17T00:46:57.178Z",
+  "via": "site"
+ },
  "datasciencewizards": {
   "key": "datasciencewizards",
   "company": "Data Science Wizards",
@@ -871,7 +922,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-16T00:39:53.736Z",
+  "checkedAt": "2026-09-17T00:47:09.033Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1108,6 +1159,16 @@
   "india": true,
   "checkedAt": "2026-09-13T14:56:50.222Z"
  },
+ "finnovatefinancialservices": {
+  "key": "finnovatefinancialservices",
+  "company": "Finnovate Financial Services",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-17T00:47:09.033Z",
+  "note": "no site found (36 candidates)"
+ },
  "fireai": {
   "key": "fireai",
   "company": "FireAI",
@@ -1116,6 +1177,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:51:03.974Z"
+ },
+ "firi": {
+  "key": "firi",
+  "company": "Firi",
+  "domain": "firi.com",
+  "board": null,
+  "careersUrl": "https://firi.com/career",
+  "india": false,
+  "checkedAt": "2026-09-17T00:47:04.200Z"
  },
  "firstclub": {
   "key": "firstclub",
@@ -1325,6 +1395,16 @@
   "india": true,
   "checkedAt": "2026-09-13T14:53:04.492Z"
  },
+ "he": {
+  "key": "he",
+  "company": "he",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-17T00:47:07.329Z",
+  "note": "no site found (5 candidates)"
+ },
  "heatronics": {
   "key": "heatronics",
   "company": "Heatronics",
@@ -1400,6 +1480,20 @@
   "careersUrl": "https://hoolahealth.in/careers",
   "india": true,
   "checkedAt": "2026-09-13T14:59:38.953Z"
+ },
+ "humanarchive": {
+  "key": "humanarchive",
+  "company": "Human Archive",
+  "domain": "humanarchive.in",
+  "board": {
+   "provider": "ashby",
+   "slug": "humanarchive",
+   "url": "https://jobs.ashbyhq.com/humanarchive"
+  },
+  "careersUrl": "https://jobs.ashbyhq.com/humanarchive",
+  "india": true,
+  "checkedAt": "2026-09-17T00:47:21.285Z",
+  "via": "probe"
  },
  "hypernorm": {
   "key": "hypernorm",
@@ -1820,6 +1914,15 @@
   "checkedAt": "2026-09-13T14:47:49.644Z",
   "note": "no site found (36 candidates)"
  },
+ "maya": {
+  "key": "maya",
+  "company": "Maya",
+  "domain": "maya.ph",
+  "board": null,
+  "careersUrl": "https://www.maya.ph/careers",
+  "india": false,
+  "checkedAt": "2026-09-17T00:47:11.363Z"
+ },
  "mayaresearch": {
   "key": "mayaresearch",
   "company": "Maya Research",
@@ -1968,15 +2071,6 @@
   "india": true,
   "checkedAt": "2026-09-13T14:56:24.586Z"
  },
- "mythik": {
-  "key": "mythik",
-  "company": "Mythik",
-  "domain": "mythik.com",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-09-13T15:01:13.874Z"
- },
  "naptapgo": {
   "key": "naptapgo",
   "company": "NapTapGo",
@@ -2095,15 +2189,6 @@
   "india": null,
   "checkedAt": "2026-09-13T15:00:44.419Z",
   "note": "no site found (36 candidates)"
- },
- "ono": {
-  "key": "ono",
-  "company": "ONO",
-  "domain": "getono.com",
-  "board": null,
-  "careersUrl": "https://getono.com/blogs/careers",
-  "india": true,
-  "checkedAt": "2026-09-13T15:01:35.734Z"
  },
  "onpoint": {
   "key": "onpoint",
@@ -2606,6 +2691,15 @@
   "checkedAt": "2026-09-13T15:00:45.974Z",
   "note": "no site found (36 candidates)"
  },
+ "slayd": {
+  "key": "slayd",
+  "company": "Slayd",
+  "domain": "slayd.in",
+  "board": null,
+  "careersUrl": "https://slayd.in/careers",
+  "india": true,
+  "checkedAt": "2026-09-17T00:46:57.178Z"
+ },
  "slice": {
   "key": "slice",
   "company": "Slice",
@@ -2880,6 +2974,15 @@
   "checkedAt": "2026-09-13T15:00:49.075Z",
   "note": "no site found (36 candidates)"
  },
+ "tistmedia": {
+  "key": "tistmedia",
+  "company": "TIST Media",
+  "domain": "tistmedia.in",
+  "board": null,
+  "careersUrl": "https://tistmedia.in/careers",
+  "india": true,
+  "checkedAt": "2026-09-17T00:47:23.182Z"
+ },
  "tocal": {
   "key": "tocal",
   "company": "Tocal",
@@ -2897,15 +3000,6 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:58:18.537Z"
- },
- "trackk": {
-  "key": "trackk",
-  "company": "Trackk",
-  "domain": "trackk.in",
-  "board": null,
-  "careersUrl": "https://trackk.in/careers",
-  "india": true,
-  "checkedAt": "2026-09-13T15:02:24.107Z"
  },
  "travelfintechscapia": {
   "key": "travelfintechscapia",
@@ -2925,6 +3019,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:58:57.720Z"
+ },
+ "tringbox": {
+  "key": "tringbox",
+  "company": "Tringbox",
+  "domain": "tringbox.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-17T00:47:10.844Z"
  },
  "tringboxinstoreaimusic": {
   "key": "tringboxinstoreaimusic",
@@ -2954,6 +3057,15 @@
   "india": null,
   "checkedAt": "2026-09-13T14:47:12.645Z",
   "note": "no site found (36 candidates)"
+ },
+ "trueartis": {
+  "key": "trueartis",
+  "company": "TRUE ARTIS",
+  "domain": "trueartis.com",
+  "board": null,
+  "careersUrl": "https://trueartis.com/careers",
+  "india": true,
+  "checkedAt": "2026-09-17T00:46:57.178Z"
  },
  "truefan": {
   "key": "truefan",
@@ -3092,6 +3204,15 @@
   "careersUrl": "https://vectonai.com/careers",
   "india": false,
   "checkedAt": "2026-09-13T14:48:45.952Z"
+ },
+ "verifaix": {
+  "key": "verifaix",
+  "company": "VerifAIX",
+  "domain": "verifaix.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-17T00:46:57.178Z"
  },
  "veriqus": {
   "key": "veriqus",
