@@ -295,6 +295,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:44:02.765Z"
  },
+ "arohan": {
+  "key": "arohan",
+  "company": "Arohan",
+  "domain": "arohan.org",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-18T00:40:57.032Z"
+ },
  "asaya": {
   "key": "asaya",
   "company": "Asaya",
@@ -810,6 +819,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:58:02.946Z"
  },
+ "crowwd": {
+  "key": "crowwd",
+  "company": "Crowwd",
+  "domain": "crowwd.io",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-18T00:38:05.205Z"
+ },
  "cunin": {
   "key": "cunin",
   "company": "CUNIN",
@@ -915,6 +933,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:48:33.792Z"
  },
+ "dheyatech": {
+  "key": "dheyatech",
+  "company": "DheyaTech",
+  "domain": "dheyatech.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-18T00:37:56.099Z"
+ },
  "diageo": {
   "key": "diageo",
   "company": "Diageo India",
@@ -922,7 +949,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-17T00:47:09.033Z",
+  "checkedAt": "2026-09-18T00:40:57.032Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1017,6 +1044,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:54:02.259Z"
  },
+ "ecosys": {
+  "key": "ecosys",
+  "company": "Ecosys",
+  "domain": "ecosys.co.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-18T00:37:56.099Z"
+ },
  "edgeverse": {
   "key": "edgeverse",
   "company": "Edgeverse",
@@ -1053,15 +1089,6 @@
   "india": true,
   "checkedAt": "2026-09-14T00:21:00.915Z"
  },
- "endureair": {
-  "key": "endureair",
-  "company": "EndureAir",
-  "domain": "endureair.com",
-  "board": null,
-  "careersUrl": "https://www.endureair.com/jobs/",
-  "india": true,
-  "checkedAt": "2026-09-13T15:01:30.421Z"
- },
  "enliferesearch": {
   "key": "enliferesearch",
   "company": "eNLife Research",
@@ -1071,6 +1098,15 @@
   "india": null,
   "checkedAt": "2026-09-13T14:53:40.405Z",
   "note": "no site found (36 candidates)"
+ },
+ "enlightmetals": {
+  "key": "enlightmetals",
+  "company": "Enlight Metals",
+  "domain": "enlightmetals.com",
+  "board": null,
+  "careersUrl": "https://enlightmetals.com/career/",
+  "india": true,
+  "checkedAt": "2026-09-18T00:37:56.099Z"
  },
  "equal": {
   "key": "equal",
@@ -1130,6 +1166,15 @@
   "note": "board found on site but unreadable: no Keka embed id in careers page",
   "via": "site"
  },
+ "factrika": {
+  "key": "factrika",
+  "company": "Factrika",
+  "domain": "factrika.com",
+  "board": null,
+  "careersUrl": "https://factrika.com/careers",
+  "india": true,
+  "checkedAt": "2026-09-18T00:37:56.099Z"
+ },
  "fairdealmarket": {
   "key": "fairdealmarket",
   "company": "Fairdeal.Market",
@@ -1149,6 +1194,15 @@
   "india": null,
   "checkedAt": "2026-09-13T14:50:45.944Z",
   "note": "no site found (36 candidates)"
+ },
+ "fibroheal": {
+  "key": "fibroheal",
+  "company": "Fibroheal",
+  "domain": "fibroheal.com",
+  "board": null,
+  "careersUrl": "https://fibroheal.com/career-opportunities/",
+  "india": true,
+  "checkedAt": "2026-09-18T00:40:58.159Z"
  },
  "finnovate": {
   "key": "finnovate",
@@ -1675,15 +1729,6 @@
   "india": true,
   "checkedAt": "2026-09-13T14:50:19.454Z"
  },
- "kalpi": {
-  "key": "kalpi",
-  "company": "Kalpi",
-  "domain": "kalpi.co.in",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-09-13T15:02:05.285Z"
- },
  "kapturecx": {
   "key": "kapturecx",
   "company": "Kapture CX",
@@ -1736,6 +1781,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:50:11.770Z"
+ },
+ "kissht": {
+  "key": "kissht",
+  "company": "Kissht",
+  "domain": "kissht.com",
+  "board": null,
+  "careersUrl": "https://www.kissht.com/career",
+  "india": true,
+  "checkedAt": "2026-09-18T00:37:56.099Z"
  },
  "kiwi": {
   "key": "kiwi",
@@ -2225,6 +2279,15 @@
   "careersUrl": "https://oxmiqlabs.ai/careers",
   "india": false,
   "checkedAt": "2026-09-13T14:55:31.996Z"
+ },
+ "paymatrix": {
+  "key": "paymatrix",
+  "company": "PayMatrix",
+  "domain": "paymatrix.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-18T00:40:55.825Z"
  },
  "peeko": {
   "key": "peeko",
@@ -2752,15 +2815,6 @@
   "note": "board found on site but unreadable: no Keka embed id in careers page",
   "via": "site"
  },
- "solfin": {
-  "key": "solfin",
-  "company": "Solfin",
-  "domain": "solfin.co.in",
-  "board": null,
-  "careersUrl": "https://solfin.co.in/careers",
-  "india": true,
-  "checkedAt": "2026-09-13T15:01:10.865Z"
- },
  "solinas": {
   "key": "solinas",
   "company": "Solinas",
@@ -2927,15 +2981,6 @@
   "careersUrl": "https://www.switchonpower.co.uk/services/lv-hv-jointing-terminations/",
   "india": true,
   "checkedAt": "2026-09-13T14:52:15.563Z"
- },
- "sychedelic": {
-  "key": "sychedelic",
-  "company": "Sychedelic",
-  "domain": "sychedelic.com",
-  "board": null,
-  "careersUrl": "https://sychedelic.com/careers",
-  "india": true,
-  "checkedAt": "2026-09-13T15:01:23.785Z"
  },
  "theater": {
   "key": "theater",
@@ -3413,6 +3458,15 @@
   "careersUrl": "https://www.yuma-energy.com/careers",
   "india": false,
   "checkedAt": "2026-09-13T14:45:30.841Z"
+ },
+ "zakhost": {
+  "key": "zakhost",
+  "company": "Zakhost",
+  "domain": "zakhost.com",
+  "board": null,
+  "careersUrl": "https://zakhost.com/careers",
+  "india": true,
+  "checkedAt": "2026-09-18T00:41:03.527Z"
  },
  "zave": {
   "key": "zave",
