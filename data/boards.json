@@ -949,7 +949,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-18T00:40:57.032Z",
+  "checkedAt": "2026-09-19T00:30:14.261Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1448,6 +1448,15 @@
   "careersUrl": "https://www.hakimo.ai/careers",
   "india": true,
   "checkedAt": "2026-09-13T14:53:04.492Z"
+ },
+ "hangten": {
+  "key": "hangten",
+  "company": "Hang Ten",
+  "domain": "hangten.com",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-19T00:30:14.260Z"
  },
  "he": {
   "key": "he",
@@ -2088,6 +2097,15 @@
   "india": false,
   "checkedAt": "2026-09-15T00:47:41.493Z"
  },
+ "moromaa": {
+  "key": "moromaa",
+  "company": "MoroMaa",
+  "domain": "moromaa.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-19T00:30:14.261Z"
+ },
  "mowito": {
   "key": "mowito",
   "company": "Mowito",
@@ -2326,6 +2344,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:50:26.381Z"
  },
+ "physioplushealthcare": {
+  "key": "physioplushealthcare",
+  "company": "Physioplus Healthcare",
+  "domain": "physioplushealthcare.com",
+  "board": null,
+  "careersUrl": "https://physioplushealthcare.com/careers",
+  "india": false,
+  "checkedAt": "2026-09-19T00:30:14.261Z"
+ },
  "pinegap": {
   "key": "pinegap",
   "company": "Pinegap",
@@ -2510,6 +2537,15 @@
   "india": null,
   "checkedAt": "2026-09-13T14:51:08.209Z",
   "note": "no site found (36 candidates)"
+ },
+ "raindrop": {
+  "key": "raindrop",
+  "company": "Raindrop",
+  "domain": "raindrop.life",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-19T00:30:14.261Z"
  },
  "rawbare": {
   "key": "rawbare",
@@ -2707,15 +2743,6 @@
   "india": null,
   "checkedAt": "2026-09-13T14:53:22.047Z",
   "note": "no site found (36 candidates)"
- },
- "scapia": {
-  "key": "scapia",
-  "company": "Scapia",
-  "domain": "scapia.cards",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-09-13T15:01:06.980Z"
  },
  "scoobysclub": {
   "key": "scoobysclub",
