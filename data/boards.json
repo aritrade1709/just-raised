@@ -35,6 +35,16 @@
   "india": true,
   "checkedAt": "2026-09-13T14:46:32.302Z"
  },
+ "870acresiliconvalley": {
+  "key": "870acresiliconvalley",
+  "company": "870-acre Silicon Valley",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-20T00:15:46.471Z",
+  "note": "no site found (36 candidates)"
+ },
  "abcoffee": {
   "key": "abcoffee",
   "company": "abcoffee",
@@ -223,20 +233,6 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-13T14:52:46.176Z"
- },
- "anscerrobotics": {
-  "key": "anscerrobotics",
-  "company": "Anscer Robotics",
-  "domain": "anscer.com",
-  "board": {
-   "provider": "zoho",
-   "slug": "anscer.zohorecruit.com",
-   "url": "https://anscer.zohorecruit.com/jobs/Careers"
-  },
-  "careersUrl": "https://career.anscer.com/jobs/Careers",
-  "india": true,
-  "checkedAt": "2026-09-13T15:01:13.278Z",
-  "via": "site"
  },
  "anveshan": {
   "key": "anveshan",
@@ -619,6 +615,15 @@
   "checkedAt": "2026-09-13T15:00:47.526Z",
   "note": "no site found (36 candidates)"
  },
+ "capitalist": {
+  "key": "capitalist",
+  "company": "Capitalist",
+  "domain": "capitalist.net",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-20T00:15:46.471Z"
+ },
  "carbonstrong": {
   "key": "carbonstrong",
   "company": "CarbonStrong",
@@ -636,6 +641,15 @@
   "careersUrl": "https://carpl.ai/careers",
   "india": true,
   "checkedAt": "2026-09-13T14:50:45.104Z"
+ },
+ "carro": {
+  "key": "carro",
+  "company": "Carro",
+  "domain": "getcarro.com",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-20T00:15:46.471Z"
  },
  "carrummobility": {
   "key": "carrummobility",
@@ -949,7 +963,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-19T00:30:14.261Z",
+  "checkedAt": "2026-09-20T00:15:46.471Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -987,6 +1001,15 @@
   "careersUrl": "https://www.ycombinator.com/companies/discovered-materials/jobs",
   "india": false,
   "checkedAt": "2026-09-13T14:48:49.987Z"
+ },
+ "disha": {
+  "key": "disha",
+  "company": "Disha",
+  "domain": "mydisha.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-20T00:15:46.471Z"
  },
  "docpharma": {
   "key": "docpharma",
@@ -1088,6 +1111,15 @@
   "careersUrl": "https://emergent.sh/careers",
   "india": true,
   "checkedAt": "2026-09-14T00:21:00.915Z"
+ },
+ "endureair": {
+  "key": "endureair",
+  "company": "EndureAir",
+  "domain": "endureair.com",
+  "board": null,
+  "careersUrl": "https://www.endureair.com/jobs/",
+  "india": true,
+  "checkedAt": "2026-09-20T00:15:54.638Z"
  },
  "enliferesearch": {
   "key": "enliferesearch",
@@ -1782,6 +1814,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:45:37.406Z"
  },
+ "kiddo": {
+  "key": "kiddo",
+  "company": "Kiddo",
+  "domain": "kiddo.health",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-20T00:15:46.471Z"
+ },
  "kily": {
   "key": "kily",
   "company": "Kily",
@@ -2013,15 +2054,6 @@
   "careersUrl": "https://medulance.com/careers",
   "india": true,
   "checkedAt": "2026-09-13T14:45:03.256Z"
- },
- "metafashion": {
-  "key": "metafashion",
-  "company": "Meta Fashion",
-  "domain": "meta-fashion.com",
-  "board": null,
-  "careersUrl": null,
-  "india": false,
-  "checkedAt": "2026-09-16T00:39:53.736Z"
  },
  "micob": {
   "key": "micob",
@@ -2893,6 +2925,15 @@
   "india": false,
   "checkedAt": "2026-09-13T14:55:59.838Z"
  },
+ "squareyards": {
+  "key": "squareyards",
+  "company": "Square Yards",
+  "domain": "squareyards.com",
+  "board": null,
+  "careersUrl": "https://www.squareyards.com/career",
+  "india": true,
+  "checkedAt": "2026-09-20T00:15:48.625Z"
+ },
  "startuptheindusvalley": {
   "key": "startuptheindusvalley",
   "company": "Startup The Indus Valley",
@@ -3045,15 +3086,6 @@
   "india": null,
   "checkedAt": "2026-09-13T15:00:49.075Z",
   "note": "no site found (36 candidates)"
- },
- "tistmedia": {
-  "key": "tistmedia",
-  "company": "TIST Media",
-  "domain": "tistmedia.in",
-  "board": null,
-  "careersUrl": "https://tistmedia.in/careers",
-  "india": true,
-  "checkedAt": "2026-09-17T00:47:23.182Z"
  },
  "tocal": {
   "key": "tocal",
