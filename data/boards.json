@@ -506,8 +506,8 @@
   "domain": "biryanibees.com",
   "board": null,
   "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-09-15T00:47:30.668Z"
+  "india": true,
+  "checkedAt": "2026-09-22T01:01:07.813Z"
  },
  "blissclub": {
   "key": "blissclub",
@@ -944,7 +944,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-09-15T00:47:30.667Z",
+  "checkedAt": "2026-09-22T01:00:53.638Z",
   "note": "no site found (36 candidates)"
  },
  "dehaathonestfarms": {
@@ -972,7 +972,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-21T00:30:37.035Z",
+  "checkedAt": "2026-09-22T01:01:14.469Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1051,6 +1051,15 @@
   "india": true,
   "checkedAt": "2026-09-21T00:34:16.176Z",
   "via": "site"
+ },
+ "drivn": {
+  "key": "drivn",
+  "company": "Drivn",
+  "domain": "drivn.co.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-22T01:00:53.637Z"
  },
  "e3electric": {
   "key": "e3electric",
@@ -1417,16 +1426,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-15T00:47:30.668Z"
- },
- "gabit": {
-  "key": "gabit",
-  "company": "Gabit",
-  "domain": "gabit.com",
-  "board": null,
-  "careersUrl": "https://www.gabit.com/careers",
-  "india": true,
-  "checkedAt": "2026-09-21T00:36:28.951Z"
+  "checkedAt": "2026-09-22T01:00:53.638Z"
  },
  "getvantage": {
   "key": "getvantage",
@@ -2154,7 +2154,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-09-15T00:47:41.493Z"
+  "checkedAt": "2026-09-22T01:01:13.183Z"
  },
  "moromaa": {
   "key": "moromaa",
@@ -2272,7 +2272,7 @@
   "board": null,
   "careersUrl": "https://www.noccarc.com/careers",
   "india": true,
-  "checkedAt": "2026-09-15T00:47:35.083Z"
+  "checkedAt": "2026-09-22T01:01:12.589Z"
  },
  "nua": {
   "key": "nua",
@@ -2336,7 +2336,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-15T00:47:41.922Z"
+  "checkedAt": "2026-09-22T01:01:14.469Z"
  },
  "oppex": {
   "key": "oppex",
@@ -2382,7 +2382,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-15T00:47:30.668Z"
+  "checkedAt": "2026-09-22T01:01:02.971Z"
  },
  "phab": {
   "key": "phab",
@@ -2491,6 +2491,15 @@
   "india": null,
   "checkedAt": "2026-09-21T00:36:32.332Z",
   "note": "no site found (36 candidates)"
+ },
+ "primeindustries": {
+  "key": "primeindustries",
+  "company": "Prime Industries",
+  "domain": "primeindglobal.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-22T01:00:53.638Z"
  },
  "proactai": {
   "key": "proactai",
@@ -2957,6 +2966,15 @@
   "india": false,
   "checkedAt": "2026-09-21T00:32:59.166Z"
  },
+ "spinoto": {
+  "key": "spinoto",
+  "company": "Spinoto",
+  "domain": "spinoto.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-22T01:00:53.638Z"
+ },
  "squareyards": {
   "key": "squareyards",
   "company": "Square Yards",
@@ -3300,7 +3318,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-15T00:47:30.668Z"
+  "checkedAt": "2026-09-22T01:00:58.893Z"
  },
  "uniseoul": {
   "key": "uniseoul",
