@@ -42,7 +42,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-09-20T00:15:46.471Z",
+  "checkedAt": "2026-09-27T00:46:32.467Z",
   "note": "no site found (36 candidates)"
  },
  "adiabatic": {
@@ -466,6 +466,15 @@
   "india": true,
   "checkedAt": "2026-09-21T00:27:52.690Z"
  },
+ "bengaluru": {
+  "key": "bengaluru",
+  "company": "Bengaluru",
+  "domain": "bengaluru.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-27T00:46:32.467Z"
+ },
  "benne": {
   "key": "benne",
   "company": "Benne",
@@ -528,6 +537,20 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-22T01:01:07.813Z"
+ },
+ "blacksmith": {
+  "key": "blacksmith",
+  "company": "Blacksmith",
+  "domain": "blacksmith.agency",
+  "board": {
+   "provider": "ashby",
+   "slug": "Blacksmith",
+   "url": "https://jobs.ashbyhq.com/Blacksmith"
+  },
+  "careersUrl": "https://blacksmith.agency/careers/",
+  "india": true,
+  "checkedAt": "2026-09-27T00:46:34.957Z",
+  "via": "site"
  },
  "blaze": {
   "key": "blaze",
@@ -675,11 +698,11 @@
  "capitalist": {
   "key": "capitalist",
   "company": "Capitalist",
-  "domain": "capitalist.net",
+  "domain": "capitalist.com.br",
   "board": null,
-  "careersUrl": null,
-  "india": false,
-  "checkedAt": "2026-09-20T00:15:46.471Z"
+  "careersUrl": "https://capitalist.com.br/join",
+  "india": true,
+  "checkedAt": "2026-09-27T00:46:39.501Z"
  },
  "carbonstrong": {
   "key": "carbonstrong",
@@ -707,7 +730,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-09-20T00:15:46.471Z"
+  "checkedAt": "2026-09-27T00:46:32.467Z"
  },
  "carrummobility": {
   "key": "carrummobility",
@@ -1060,7 +1083,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-26T00:47:09.640Z",
+  "checkedAt": "2026-09-27T00:46:39.501Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1106,7 +1129,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-20T00:15:46.471Z"
+  "checkedAt": "2026-09-27T00:46:32.467Z"
  },
  "dmifinance": {
   "key": "dmifinance",
@@ -1904,15 +1927,6 @@
   "india": true,
   "checkedAt": "2026-09-21T00:27:03.544Z"
  },
- "instafix": {
-  "key": "instafix",
-  "company": "Instafix",
-  "domain": "instafix.in",
-  "board": null,
-  "careersUrl": "https://instafix.in/careers",
-  "india": true,
-  "checkedAt": "2026-09-25T00:51:37.792Z"
- },
  "integrarobotics": {
   "key": "integrarobotics",
   "company": "Integra Robotics",
@@ -2036,7 +2050,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-20T00:15:46.471Z"
+  "checkedAt": "2026-09-27T00:46:32.467Z"
  },
  "kily": {
   "key": "kily",
@@ -3172,6 +3186,23 @@
   "checkedAt": "2026-09-21T00:33:35.104Z",
   "note": "no site found (36 candidates)"
  },
+ "sidsfarm": {
+  "key": "sidsfarm",
+  "company": "Sid's Farm",
+  "domain": "sidsfarm.com",
+  "board": {
+   "provider": "keka",
+   "slug": "sidsfarm",
+   "url": "https://sidsfarm.keka.com/careers/",
+   "meta": {
+    "guid": "10d8ab51-72ce-44b2-bff3-1c6dffc25115"
+   }
+  },
+  "careersUrl": "https://sidsfarm.com/pages/careers",
+  "india": true,
+  "checkedAt": "2026-09-27T00:46:39.487Z",
+  "via": "site"
+ },
  "simpleenergy": {
   "key": "simpleenergy",
   "company": "Simple Energy",
@@ -3332,7 +3363,7 @@
   "board": null,
   "careersUrl": "https://www.squareyards.com/career",
   "india": true,
-  "checkedAt": "2026-09-20T00:15:48.625Z"
+  "checkedAt": "2026-09-27T00:46:46.555Z"
  },
  "startuptheindusvalley": {
   "key": "startuptheindusvalley",
@@ -3911,16 +3942,6 @@
   "careersUrl": "https://www.yuma-energy.com/careers",
   "india": false,
   "checkedAt": "2026-09-21T00:26:32.025Z"
- },
- "zakhost": {
-  "key": "zakhost",
-  "company": "Zakhost",
-  "domain": "zakhost.com",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-09-26T00:47:23.154Z",
-  "note": "no site found (36 candidates)"
  },
  "zave": {
   "key": "zave",
