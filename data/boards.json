@@ -101,6 +101,15 @@
   "checkedAt": "2026-09-28T01:12:51.972Z",
   "note": "no site found (36 candidates)"
  },
+ "agnikulcosmos": {
+  "key": "agnikulcosmos",
+  "company": "Agnikul Cosmos",
+  "domain": "agnikul.in",
+  "board": null,
+  "careersUrl": "https://agnikul.in/careers/",
+  "india": true,
+  "checkedAt": "2026-09-29T02:10:17.136Z"
+ },
  "ahamhousingfinance": {
   "key": "ahamhousingfinance",
   "company": "Aham Housing Finance",
@@ -179,6 +188,15 @@
   "india": true,
   "checkedAt": "2026-09-28T01:10:50.366Z"
  },
+ "aliveapp": {
+  "key": "aliveapp",
+  "company": "Alive App",
+  "domain": "aliveapp.co",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-09-29T02:10:22.507Z"
+ },
  "allhome": {
   "key": "allhome",
   "company": "AllHome",
@@ -205,6 +223,15 @@
   "careersUrl": null,
   "india": false,
   "checkedAt": "2026-09-28T01:03:52.048Z"
+ },
+ "amaani": {
+  "key": "amaani",
+  "company": "Amaani",
+  "domain": "amaanidiamonds.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-09-29T02:10:22.501Z"
  },
  "amigo": {
   "key": "amigo",
@@ -432,6 +459,16 @@
   "checkedAt": "2026-09-13T10:21:25.952Z",
   "via": "probe"
  },
+ "balwaankrishi": {
+  "key": "balwaankrishi",
+  "company": "Balwaan Krishi",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-29T02:10:20.290Z",
+  "note": "no site found (36 candidates)"
+ },
  "batterysmart": {
   "key": "batterysmart",
   "company": "Battery Smart",
@@ -547,7 +584,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-22T01:01:07.813Z"
+  "checkedAt": "2026-09-29T02:10:44.727Z"
  },
  "blacksmith": {
   "key": "blacksmith",
@@ -799,6 +836,33 @@
   "india": true,
   "checkedAt": "2026-09-28T01:10:43.780Z"
  },
+ "cleanmax": {
+  "key": "cleanmax",
+  "company": "CleanMax",
+  "domain": "cleanmax.com",
+  "board": {
+   "provider": "keka",
+   "slug": "cleanmax",
+   "url": "https://cleanmax.keka.com/careers/",
+   "meta": {
+    "guid": "765fde05-dee9-4a8f-8e87-b2a85d73919b"
+   }
+  },
+  "careersUrl": "https://www.cleanmax.com/careers",
+  "india": true,
+  "checkedAt": "2026-09-29T02:10:17.135Z",
+  "via": "site"
+ },
+ "cleanmaxenviroenergy": {
+  "key": "cleanmaxenviroenergy",
+  "company": "Clean Max Enviro Energy Solutions",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-09-29T02:10:17.136Z",
+  "note": "no site found (36 candidates)"
+ },
  "cloudcounselage": {
   "key": "cloudcounselage",
   "company": "Cloud Counselage",
@@ -1030,7 +1094,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-09-22T01:00:53.638Z",
+  "checkedAt": "2026-09-29T02:10:34.966Z",
   "note": "no site found (36 candidates)"
  },
  "definedge": {
@@ -1094,7 +1158,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-28T01:07:58.766Z",
+  "checkedAt": "2026-09-29T02:10:50.112Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1190,7 +1254,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-22T01:00:53.637Z"
+  "checkedAt": "2026-09-29T02:10:29.151Z"
  },
  "e3electric": {
   "key": "e3electric",
@@ -1575,7 +1639,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-22T01:00:53.638Z"
+  "checkedAt": "2026-09-29T02:10:36.855Z"
  },
  "galaxeye": {
   "key": "galaxeye",
@@ -1840,6 +1904,15 @@
   "careersUrl": "https://myideaforge.com/careers",
   "india": false,
   "checkedAt": "2026-09-28T01:07:07.506Z"
+ },
+ "iitmadras": {
+  "key": "iitmadras",
+  "company": "IIT Madras",
+  "domain": "iitmadras.in",
+  "board": null,
+  "careersUrl": "https://iitmadras.in/careers",
+  "india": true,
+  "checkedAt": "2026-09-29T02:10:17.136Z"
  },
  "ikinglobal": {
   "key": "ikinglobal",
@@ -2415,7 +2488,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-09-22T01:01:13.183Z"
+  "checkedAt": "2026-09-29T02:10:49.517Z"
  },
  "moromaa": {
   "key": "moromaa",
@@ -2542,7 +2615,7 @@
   "board": null,
   "careersUrl": "https://www.noccarc.com/careers",
   "india": true,
-  "checkedAt": "2026-09-22T01:01:12.589Z"
+  "checkedAt": "2026-09-29T02:10:46.751Z"
  },
  "norm": {
   "key": "norm",
@@ -2642,7 +2715,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-22T01:01:14.469Z"
+  "checkedAt": "2026-09-29T02:10:50.112Z"
  },
  "oppex": {
   "key": "oppex",
@@ -2711,7 +2784,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-22T01:01:02.971Z"
+  "checkedAt": "2026-09-29T02:10:41.958Z"
  },
  "penelopehealth": {
   "key": "penelopehealth",
@@ -2833,7 +2906,16 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-22T01:00:53.638Z"
+  "checkedAt": "2026-09-29T02:10:30.906Z"
+ },
+ "primerry": {
+  "key": "primerry",
+  "company": "Primerry",
+  "domain": "primerry.in",
+  "board": null,
+  "careersUrl": "https://primerry.in/careers",
+  "india": true,
+  "checkedAt": "2026-09-29T02:10:25.759Z"
  },
  "proactai": {
   "key": "proactai",
@@ -3239,6 +3321,20 @@
   "checkedAt": "2026-09-27T00:46:39.487Z",
   "via": "site"
  },
+ "sima": {
+  "key": "sima",
+  "company": "SiMa.ai",
+  "domain": "sima.ai",
+  "board": {
+   "provider": "other",
+   "slug": "jobvite:simaai",
+   "url": "https://jobs.jobvite.com/simaai/"
+  },
+  "careersUrl": "https://sima.ai/careers/",
+  "india": false,
+  "checkedAt": "2026-09-29T02:10:17.136Z",
+  "via": "site"
+ },
  "simpleenergy": {
   "key": "simpleenergy",
   "company": "Simple Energy",
@@ -3390,7 +3486,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-22T01:00:53.638Z"
+  "checkedAt": "2026-09-29T02:10:33.682Z"
  },
  "squareyards": {
   "key": "squareyards",
@@ -3715,7 +3811,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-22T01:00:58.893Z"
+  "checkedAt": "2026-09-29T02:10:37.696Z"
  },
  "uniseoul": {
   "key": "uniseoul",
