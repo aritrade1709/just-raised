@@ -82,15 +82,6 @@
   "checkedAt": "2026-09-28T01:10:07.732Z",
   "note": "no site found (36 candidates)"
  },
- "agilitas": {
-  "key": "agilitas",
-  "company": "Agilitas",
-  "domain": "agilitas.com",
-  "board": null,
-  "careersUrl": "https://agilitas.com/pages/careers",
-  "india": true,
-  "checkedAt": "2026-09-28T01:12:39.371Z"
- },
  "agnikulcosmos": {
   "key": "agnikulcosmos",
   "company": "Agnikul Cosmos",
@@ -148,7 +139,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-09-26T00:46:30.099Z"
+  "checkedAt": "2026-10-03T01:18:45.010Z"
  },
  "albatrossenergetics": {
   "key": "albatrossenergetics",
@@ -337,7 +328,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-26T00:46:30.099Z"
+  "checkedAt": "2026-10-03T01:18:45.010Z"
  },
  "arohan": {
   "key": "arohan",
@@ -346,7 +337,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-09-26T00:47:11.036Z"
+  "checkedAt": "2026-10-03T01:19:28.283Z"
  },
  "asaya": {
   "key": "asaya",
@@ -617,7 +608,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-26T00:47:07.534Z"
+  "checkedAt": "2026-10-03T01:19:20.669Z"
  },
  "blissclub": {
   "key": "blissclub",
@@ -761,6 +752,15 @@
   "careersUrl": "https://byteask.ai/careers",
   "india": false,
   "checkedAt": "2026-10-02T01:46:39.701Z"
+ },
+ "canarabank": {
+  "key": "canarabank",
+  "company": "Canara Bank",
+  "domain": "canarabank.bank.in",
+  "board": null,
+  "careersUrl": "https://www.canarabank.bank.in/career",
+  "india": true,
+  "checkedAt": "2026-10-03T01:19:00.537Z"
  },
  "capitalist": {
   "key": "capitalist",
@@ -1122,7 +1122,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-09-26T00:46:35.663Z"
+  "checkedAt": "2026-10-03T01:18:50.313Z"
  },
  "dehaathonestfarms": {
   "key": "dehaathonestfarms",
@@ -1148,8 +1148,8 @@
   "domain": "dextr-ai.com",
   "board": null,
   "careersUrl": "https://dextr-ai.com/careers",
-  "india": false,
-  "checkedAt": "2026-09-26T00:46:30.099Z"
+  "india": null,
+  "checkedAt": "2026-10-03T01:18:45.010Z"
  },
  "dheyatech": {
   "key": "dheyatech",
@@ -1167,7 +1167,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-02T01:55:10.248Z",
+  "checkedAt": "2026-10-03T01:19:25.359Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1483,7 +1483,7 @@
   "board": null,
   "careersUrl": "https://fibroheal.com/career-opportunities/",
   "india": true,
-  "checkedAt": "2026-09-26T00:47:12.300Z"
+  "checkedAt": "2026-10-03T01:19:29.166Z"
  },
  "finnovate": {
   "key": "finnovate",
@@ -1522,15 +1522,6 @@
   "india": false,
   "checkedAt": "2026-10-02T01:53:16.989Z"
  },
- "firstclub": {
-  "key": "firstclub",
-  "company": "FirstClub",
-  "domain": "firstclub.co.in",
-  "board": null,
-  "careersUrl": "https://firstclub.greythr.com/hire/jobs/",
-  "india": true,
-  "checkedAt": "2026-09-28T01:12:39.124Z"
- },
  "firstcoffee": {
   "key": "firstcoffee",
   "company": "First Coffee",
@@ -1556,7 +1547,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-26T00:47:13.262Z"
+  "checkedAt": "2026-10-03T01:19:36.589Z"
  },
  "flam": {
   "key": "flam",
@@ -1662,7 +1653,7 @@
   "board": null,
   "careersUrl": "https://galaxeye.space/job-portal",
   "india": true,
-  "checkedAt": "2026-09-26T00:46:30.099Z"
+  "checkedAt": "2026-10-03T01:18:45.010Z"
  },
  "getvantage": {
   "key": "getvantage",
@@ -1725,7 +1716,7 @@
   "board": null,
   "careersUrl": "https://greenjoules.in/careers/",
   "india": true,
-  "checkedAt": "2026-09-26T00:46:57.016Z"
+  "checkedAt": "2026-10-03T01:19:18.042Z"
  },
  "greenwavecircularity": {
   "key": "greenwavecircularity",
@@ -1771,7 +1762,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-09-26T00:46:41.096Z"
+  "checkedAt": "2026-10-03T01:19:01.090Z"
  },
  "hangtensystems": {
   "key": "hangtensystems",
@@ -2236,7 +2227,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-26T00:47:00.684Z"
+  "checkedAt": "2026-10-03T01:19:19.807Z"
  },
  "kuhltherm": {
   "key": "kuhltherm",
@@ -2544,7 +2535,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-26T00:46:52.857Z"
+  "checkedAt": "2026-10-03T01:19:15.994Z"
  },
  "mowito": {
   "key": "mowito",
@@ -2804,7 +2795,7 @@
   "board": null,
   "careersUrl": "https://www.paar-autonomy.com/career",
   "india": true,
-  "checkedAt": "2026-09-26T00:46:36.870Z"
+  "checkedAt": "2026-10-03T01:18:51.605Z"
  },
  "paymatrix": {
   "key": "paymatrix",
@@ -2813,7 +2804,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-26T00:46:58.773Z"
+  "checkedAt": "2026-10-03T01:19:18.262Z"
  },
  "peeko": {
   "key": "peeko",
@@ -2842,15 +2833,6 @@
   "india": false,
   "checkedAt": "2026-10-02T01:46:34.371Z"
  },
- "phab": {
-  "key": "phab",
-  "company": "Phab",
-  "domain": "getphab.com",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-09-28T01:12:55.214Z"
- },
  "physical": {
   "key": "physical",
   "company": "Physical AI",
@@ -2867,7 +2849,7 @@
   "board": null,
   "careersUrl": "https://physioplushealthcare.com/careers",
   "india": false,
-  "checkedAt": "2026-09-26T00:46:50.862Z"
+  "checkedAt": "2026-10-03T01:19:11.290Z"
  },
  "pinegap": {
   "key": "pinegap",
@@ -3072,7 +3054,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-26T00:46:47.565Z"
+  "checkedAt": "2026-10-03T01:19:05.098Z"
  },
  "rawbare": {
   "key": "rawbare",
@@ -3199,7 +3181,7 @@
   "board": null,
   "careersUrl": "https://wework.co.in/careers",
   "india": true,
-  "checkedAt": "2026-09-26T00:46:30.099Z"
+  "checkedAt": "2026-10-03T01:18:45.010Z"
  },
  "rivvun": {
   "key": "rivvun",
@@ -3548,6 +3530,15 @@
   "checkedAt": "2026-09-28T01:09:58.129Z",
   "note": "no site found (36 candidates)"
  },
+ "story": {
+  "key": "story",
+  "company": "story",
+  "domain": "story.com",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-10-03T01:19:25.359Z"
+ },
  "stylework": {
   "key": "stylework",
   "company": "Stylework",
@@ -3615,15 +3606,6 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-09-28T01:10:24.687Z"
- },
- "sweetchange": {
-  "key": "sweetchange",
-  "company": "Sweet Change",
-  "domain": "sweet-change.com",
-  "board": null,
-  "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-09-28T01:12:46.347Z"
  },
  "swish": {
   "key": "swish",
@@ -3766,20 +3748,6 @@
   "careersUrl": "https://trueartis.com/careers",
   "india": true,
   "checkedAt": "2026-10-02T01:54:58.469Z"
- },
- "truefan": {
-  "key": "truefan",
-  "company": "TrueFan AI",
-  "domain": "truefan.ai",
-  "board": {
-   "provider": "keka",
-   "slug": "truefan",
-   "url": "https://truefan.keka.com/careers/"
-  },
-  "careersUrl": "https://truefan.ai/careers",
-  "india": true,
-  "checkedAt": "2026-09-21T00:35:02.039Z",
-  "via": "site"
  },
  "trunativ": {
   "key": "trunativ",
