@@ -42,7 +42,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-09-27T00:46:32.467Z",
+  "checkedAt": "2026-10-04T01:49:10.652Z",
   "note": "no site found (36 candidates)"
  },
  "adiabatic": {
@@ -384,6 +384,15 @@
   "india": false,
   "checkedAt": "2026-09-28T01:03:10.764Z"
  },
+ "autoheal": {
+  "key": "autoheal",
+  "company": "Autoheal",
+  "domain": "autohealing.org",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-10-04T01:49:10.652Z"
+ },
  "autovrse": {
   "key": "autovrse",
   "company": "AutoVRse",
@@ -512,7 +521,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-27T00:46:32.467Z"
+  "checkedAt": "2026-10-04T01:49:10.652Z"
  },
  "benne": {
   "key": "benne",
@@ -768,8 +777,8 @@
   "domain": "capitalist.com.br",
   "board": null,
   "careersUrl": "https://capitalist.com.br/join",
-  "india": true,
-  "checkedAt": "2026-09-27T00:46:39.501Z"
+  "india": false,
+  "checkedAt": "2026-10-04T01:49:18.820Z"
  },
  "carbonstrong": {
   "key": "carbonstrong",
@@ -796,7 +805,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-09-27T00:46:32.467Z"
+  "checkedAt": "2026-10-04T01:49:17.673Z"
  },
  "carrummobility": {
   "key": "carrummobility",
@@ -835,6 +844,20 @@
   "india": null,
   "checkedAt": "2026-09-28T01:04:14.477Z",
   "note": "no site found (36 candidates)"
+ },
+ "circlehealth": {
+  "key": "circlehealth",
+  "company": "Circle Health",
+  "domain": "circle.healthcare",
+  "board": {
+   "provider": "ashby",
+   "slug": "circle",
+   "url": "https://jobs.ashbyhq.com/circle"
+  },
+  "careersUrl": "https://circle.healthcare/careers",
+  "india": true,
+  "checkedAt": "2026-10-04T01:49:18.774Z",
+  "via": "probe"
  },
  "circolife": {
   "key": "circolife",
@@ -1167,7 +1190,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-03T01:19:25.359Z",
+  "checkedAt": "2026-10-04T01:49:18.774Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1213,7 +1236,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-27T00:46:32.467Z"
+  "checkedAt": "2026-10-04T01:49:10.652Z"
  },
  "dmifinance": {
   "key": "dmifinance",
@@ -1993,21 +2016,6 @@
   "india": true,
   "checkedAt": "2026-09-28T01:11:28.689Z"
  },
- "innefu": {
-  "key": "innefu",
-  "company": "Innefu Labs",
-  "domain": "innefu.com",
-  "board": {
-   "provider": "zoho",
-   "slug": "innefu.zohorecruit.in",
-   "url": "https://innefu.zohorecruit.in/jobs/Careers"
-  },
-  "careersUrl": "https://innefu.com/careers/",
-  "india": true,
-  "checkedAt": "2026-09-13T15:00:19.784Z",
-  "note": "board found on site but unreadable: fetch failed",
-  "via": "site"
- },
  "inoxwind": {
   "key": "inoxwind",
   "company": "Inox Wind",
@@ -2177,7 +2185,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-09-27T00:46:32.467Z"
+  "checkedAt": "2026-10-04T01:49:14.360Z"
  },
  "kily": {
   "key": "kily",
@@ -2210,15 +2218,6 @@
   "india": true,
   "checkedAt": "2026-09-13T14:46:34.819Z",
   "via": "probe"
- },
- "korinmi": {
-  "key": "korinmi",
-  "company": "KorinMi",
-  "domain": "korinmi.in",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-09-28T01:13:08.268Z"
  },
  "kroslo": {
   "key": "kroslo",
@@ -2438,6 +2437,15 @@
   "careersUrl": "https://medulance.com/careers",
   "india": true,
   "checkedAt": "2026-09-28T01:03:19.181Z"
+ },
+ "mhyth": {
+  "key": "mhyth",
+  "company": "MHYTH",
+  "domain": "mhyth.com",
+  "board": null,
+  "careersUrl": "https://mhyth.com/pages/careers",
+  "india": true,
+  "checkedAt": "2026-10-04T01:51:23.218Z"
  },
  "micob": {
   "key": "micob",
@@ -2777,6 +2785,15 @@
   "india": true,
   "checkedAt": "2026-09-25T00:51:29.539Z",
   "via": "site"
+ },
+ "orangeretailfinance": {
+  "key": "orangeretailfinance",
+  "company": "Orange Retail Finance",
+  "domain": "orangeretailfinance.com",
+  "board": null,
+  "careersUrl": "https://orangeretailfinance.com/careers",
+  "india": true,
+  "checkedAt": "2026-10-04T01:49:10.652Z"
  },
  "oxmiq": {
   "key": "oxmiq",
@@ -3518,7 +3535,7 @@
   "board": null,
   "careersUrl": "https://www.squareyards.com/career",
   "india": true,
-  "checkedAt": "2026-09-27T00:46:46.555Z"
+  "checkedAt": "2026-10-04T01:49:19.643Z"
  },
  "startuptheindusvalley": {
   "key": "startuptheindusvalley",
