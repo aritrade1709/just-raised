@@ -505,15 +505,6 @@
   "india": true,
   "checkedAt": "2026-10-06T02:27:30.591Z"
  },
- "bazaarnow": {
-  "key": "bazaarnow",
-  "company": "BazaarNow",
-  "domain": "bazaarnow.in",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-10-06T02:29:38.132Z"
- },
  "beclinical": {
   "key": "beclinical",
   "company": "Be Clinical",
@@ -548,7 +539,7 @@
   "board": null,
   "careersUrl": "https://betterhood-shop.myshopify.com/products/betterhood-knee-sleeve-with-stabilizers-for-joint-support",
   "india": true,
-  "checkedAt": "2026-10-01T01:26:13.724Z"
+  "checkedAt": "2026-10-08T02:12:25.850Z"
  },
  "beyondappliances": {
   "key": "beyondappliances",
@@ -566,7 +557,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-01T01:26:15.818Z"
+  "checkedAt": "2026-10-08T02:12:27.434Z"
  },
  "bharathousingnetwork": {
   "key": "bharathousingnetwork",
@@ -653,7 +644,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-10-01T01:25:32.246Z"
+  "checkedAt": "2026-10-08T02:11:52.861Z"
  },
  "bodycraft": {
   "key": "bodycraft",
@@ -790,6 +781,15 @@
   "india": false,
   "checkedAt": "2026-10-02T01:46:39.701Z"
  },
+ "bytexl": {
+  "key": "bytexl",
+  "company": "byteXL",
+  "domain": "bytexl.ai",
+  "board": null,
+  "careersUrl": "https://bytexl.ai/careers",
+  "india": true,
+  "checkedAt": "2026-10-08T02:11:34.588Z"
+ },
  "canarabank": {
   "key": "canarabank",
   "company": "Canara Bank",
@@ -895,6 +895,16 @@
   "careersUrl": "https://circolife.com/careers/",
   "india": true,
   "checkedAt": "2026-10-05T01:08:15.713Z"
+ },
+ "clairhealth": {
+  "key": "clairhealth",
+  "company": "Clair Health",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-10-08T02:12:32.868Z",
+  "note": "no site found (36 candidates)"
  },
  "clairva": {
   "key": "clairva",
@@ -1033,6 +1043,15 @@
   "india": true,
   "checkedAt": "2026-09-13T14:57:35.858Z",
   "via": "site"
+ },
+ "credfix": {
+  "key": "credfix",
+  "company": "Credfix",
+  "domain": "credfix.app",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-10-08T02:11:46.340Z"
  },
  "creedom": {
   "key": "creedom",
@@ -1220,6 +1239,15 @@
   "india": null,
   "checkedAt": "2026-10-07T01:45:32.778Z"
  },
+ "desible": {
+  "key": "desible",
+  "company": "Desible.ai",
+  "domain": "desible.ai",
+  "board": null,
+  "careersUrl": "https://desible.ai/careers",
+  "india": true,
+  "checkedAt": "2026-10-08T02:11:39.807Z"
+ },
  "dextr": {
   "key": "dextr",
   "company": "Dextr AI",
@@ -1245,7 +1273,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-07T01:48:33.540Z",
+  "checkedAt": "2026-10-08T02:12:28.582Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1335,6 +1363,16 @@
   "india": true,
   "checkedAt": "2026-10-06T02:27:02.924Z"
  },
+ "doughtherapy": {
+  "key": "doughtherapy",
+  "company": "Dough Therapy",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-10-08T02:11:49.503Z",
+  "note": "no site found (36 candidates)"
+ },
  "dreamaerospace": {
   "key": "dreamaerospace",
   "company": "Dream Aerospace",
@@ -1384,7 +1422,7 @@
   "board": null,
   "careersUrl": "https://econovus.co.in/careers",
   "india": true,
-  "checkedAt": "2026-10-01T01:26:20.954Z"
+  "checkedAt": "2026-10-08T02:12:28.582Z"
  },
  "econovuspackaging": {
   "key": "econovuspackaging",
@@ -1420,7 +1458,7 @@
   "board": null,
   "careersUrl": "https://edt.com/careers/",
   "india": false,
-  "checkedAt": "2026-10-01T01:25:32.246Z"
+  "checkedAt": "2026-10-08T02:11:53.532Z"
  },
  "elevateeducation": {
   "key": "elevateeducation",
@@ -1786,7 +1824,7 @@
   "board": null,
   "careersUrl": "https://www.gravityforms.com/careers/",
   "india": true,
-  "checkedAt": "2026-10-01T01:25:32.246Z"
+  "checkedAt": "2026-10-08T02:11:52.008Z"
  },
  "greatasic": {
   "key": "greatasic",
@@ -1833,6 +1871,16 @@
   "careersUrl": null,
   "india": false,
   "checkedAt": "2026-10-06T02:26:06.622Z"
+ },
+ "haisuitcaseclinics": {
+  "key": "haisuitcaseclinics",
+  "company": "HAI Suitcase Clinics",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-10-08T02:11:42.937Z",
+  "note": "no site found (36 candidates)"
  },
  "hakimo": {
   "key": "hakimo",
@@ -1968,7 +2016,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-01T01:25:58.502Z"
+  "checkedAt": "2026-10-08T02:12:07.322Z"
  },
  "hulp": {
   "key": "hulp",
@@ -2043,15 +2091,6 @@
   "careersUrl": "https://ikure.co.uk/careers",
   "india": false,
   "checkedAt": "2026-10-05T01:07:53.435Z"
- },
- "immuneel": {
-  "key": "immuneel",
-  "company": "Immuneel",
-  "domain": "immuneel.com",
-  "board": null,
-  "careersUrl": "https://immuneel.com/careers",
-  "india": true,
-  "checkedAt": "2026-10-07T01:48:52.010Z"
  },
  "inaaraneofoods": {
   "key": "inaaraneofoods",
@@ -2152,6 +2191,15 @@
   "careersUrl": "https://investments.in/category/education-and-careers/",
   "india": true,
   "checkedAt": "2026-10-05T01:11:40.984Z"
+ },
+ "ionage": {
+  "key": "ionage",
+  "company": "Ionage",
+  "domain": "ionage.in",
+  "board": null,
+  "careersUrl": "https://www.ionage.in/careers",
+  "india": true,
+  "checkedAt": "2026-10-08T02:11:48.028Z"
  },
  "iswarya": {
   "key": "iswarya",
@@ -2425,6 +2473,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-10-07T01:43:47.853Z"
+ },
+ "lumio": {
+  "key": "lumio",
+  "company": "Lumio",
+  "domain": "hellolumio.com",
+  "board": null,
+  "careersUrl": "https://www.hellolumio.com/careers",
+  "india": true,
+  "checkedAt": "2026-10-08T02:11:34.588Z"
  },
  "lytmus": {
   "key": "lytmus",
@@ -2806,7 +2863,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-01T01:25:58.671Z"
+  "checkedAt": "2026-10-08T02:12:19.631Z"
  },
  "nuyug": {
   "key": "nuyug",
@@ -3087,7 +3144,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-10-01T01:25:41.338Z",
+  "checkedAt": "2026-10-08T02:12:05.506Z",
   "note": "no site found (36 candidates)"
  },
  "promom": {
@@ -3134,6 +3191,15 @@
   "careersUrl": "https://www.qpiai.tech/careers",
   "india": true,
   "checkedAt": "2026-10-06T02:24:28.112Z"
+ },
+ "quanfluence": {
+  "key": "quanfluence",
+  "company": "Quanfluence",
+  "domain": "quanfluence.com",
+  "board": null,
+  "careersUrl": "https://quanfluence.com/careers/",
+  "india": true,
+  "checkedAt": "2026-10-08T02:11:34.588Z"
  },
  "quarkitech": {
   "key": "quarkitech",
@@ -3302,7 +3368,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-01T01:26:00.809Z"
+  "checkedAt": "2026-10-08T02:12:19.671Z"
  },
  "riohealth": {
   "key": "riohealth",
@@ -3311,7 +3377,7 @@
   "board": null,
   "careersUrl": "https://riohealth.co.uk/collections/bone-joint-health",
   "india": true,
-  "checkedAt": "2026-10-01T01:26:01.872Z"
+  "checkedAt": "2026-10-08T02:12:16.045Z"
  },
  "rivermobility": {
   "key": "rivermobility",
@@ -3733,6 +3799,15 @@
   "india": true,
   "checkedAt": "2026-10-06T02:25:35.114Z"
  },
+ "sunfox": {
+  "key": "sunfox",
+  "company": "Sunfox Technologies",
+  "domain": "sunfox.in",
+  "board": null,
+  "careersUrl": "https://www.sunfox.in/careers",
+  "india": true,
+  "checkedAt": "2026-10-08T02:11:34.588Z"
+ },
  "superleap": {
   "key": "superleap",
   "company": "Superleap",
@@ -4024,7 +4099,7 @@
   "board": null,
   "careersUrl": "https://unniyarcha.com/collections/job-promotion-gifts",
   "india": true,
-  "checkedAt": "2026-10-01T01:26:14.193Z"
+  "checkedAt": "2026-10-08T02:12:26.844Z"
  },
  "unveilr": {
   "key": "unveilr",
@@ -4150,7 +4225,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-01T01:25:32.246Z"
+  "checkedAt": "2026-10-08T02:12:03.212Z"
  },
  "walker": {
   "key": "walker",
@@ -4159,7 +4234,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-10-01T01:26:07.249Z"
+  "checkedAt": "2026-10-08T02:12:25.382Z"
  },
  "water": {
   "key": "water",
@@ -4204,7 +4279,7 @@
   "board": null,
   "careersUrl": "https://www.willjini.com/services/joint-will/",
   "india": true,
-  "checkedAt": "2026-10-01T01:25:32.246Z"
+  "checkedAt": "2026-10-08T02:11:52.169Z"
  },
  "wippi": {
   "key": "wippi",
@@ -4377,6 +4452,20 @@
   "careersUrl": "https://zoencure.com/careers",
   "india": false,
   "checkedAt": "2026-10-05T01:07:43.020Z"
+ },
+ "zomint": {
+  "key": "zomint",
+  "company": "Zomint",
+  "domain": "zomint.com",
+  "board": {
+   "provider": "keka",
+   "slug": "zomint",
+   "url": "https://zomint.keka.com/careers/"
+  },
+  "careersUrl": "https://www.zomint.com/careers",
+  "india": true,
+  "checkedAt": "2026-10-08T02:11:34.589Z",
+  "via": "probe"
  },
  "zopplersystems": {
   "key": "zopplersystems",
