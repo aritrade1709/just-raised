@@ -17,15 +17,6 @@
   "india": true,
   "checkedAt": "2026-10-06T02:25:32.017Z"
  },
- "4basecare": {
-  "key": "4basecare",
-  "company": "4baseCare",
-  "domain": "4basecare.com",
-  "board": null,
-  "careersUrl": "https://www.4basecare.com/careers",
-  "india": true,
-  "checkedAt": "2026-10-06T02:29:27.399Z"
- },
  "72street": {
   "key": "72street",
   "company": "72 Street",
@@ -148,7 +139,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-10-03T01:18:45.010Z"
+  "checkedAt": "2026-10-10T01:52:16.636Z"
  },
  "akashalabdhi": {
   "key": "akashalabdhi",
@@ -337,7 +328,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-03T01:18:45.010Z"
+  "checkedAt": "2026-10-10T01:52:23.627Z"
  },
  "arohan": {
   "key": "arohan",
@@ -346,7 +337,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-10-03T01:19:28.283Z"
+  "checkedAt": "2026-10-10T01:53:09.879Z"
  },
  "asaya": {
   "key": "asaya",
@@ -626,7 +617,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-03T01:19:20.669Z"
+  "checkedAt": "2026-10-10T01:53:07.025Z"
  },
  "blissclub": {
   "key": "blissclub",
@@ -788,7 +779,7 @@
   "board": null,
   "careersUrl": "https://www.canarabank.bank.in/career",
   "india": true,
-  "checkedAt": "2026-10-03T01:19:00.537Z"
+  "checkedAt": "2026-10-10T01:52:45.584Z"
  },
  "capitalist": {
   "key": "capitalist",
@@ -989,20 +980,6 @@
   "careersUrl": null,
   "india": false,
   "checkedAt": "2026-10-07T01:48:33.540Z"
- },
- "coram": {
-  "key": "coram",
-  "company": "Coram AI",
-  "domain": "coram-ai.com",
-  "board": {
-   "provider": "ashby",
-   "slug": "coram-ai",
-   "url": "https://jobs.ashbyhq.com/coram-ai"
-  },
-  "careersUrl": "https://coram-ai.com/careers",
-  "india": true,
-  "checkedAt": "2026-09-21T00:34:22.287Z",
-  "via": "probe"
  },
  "craa": {
   "key": "craa",
@@ -1220,7 +1197,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-10-03T01:18:50.313Z"
+  "checkedAt": "2026-10-10T01:52:30.952Z"
  },
  "dehaathonestfarms": {
   "key": "dehaathonestfarms",
@@ -1256,7 +1233,7 @@
   "board": null,
   "careersUrl": "https://dextr-ai.com/careers",
   "india": null,
-  "checkedAt": "2026-10-03T01:18:45.010Z"
+  "checkedAt": "2026-10-10T01:52:28.367Z"
  },
  "dheyatech": {
   "key": "dheyatech",
@@ -1274,7 +1251,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-09T02:34:15.390Z",
+  "checkedAt": "2026-10-10T01:53:08.957Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1535,16 +1512,6 @@
   "india": true,
   "checkedAt": "2026-10-06T02:27:23.723Z"
  },
- "etherealmachines": {
-  "key": "etherealmachines",
-  "company": "Ethereal Machines",
-  "domain": null,
-  "board": null,
-  "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-10-06T02:29:23.893Z",
-  "note": "no site found (36 candidates)"
- },
  "euclyd": {
   "key": "euclyd",
   "company": "Euclyd",
@@ -1553,21 +1520,6 @@
   "careersUrl": "https://euclyd.fr/careers",
   "india": false,
   "checkedAt": "2026-10-07T01:45:43.290Z"
- },
- "exponentenergy": {
-  "key": "exponentenergy",
-  "company": "Exponent Energy",
-  "domain": "exponent.energy",
-  "board": {
-   "provider": "keka",
-   "slug": "exponentenergy",
-   "url": "https://exponentenergy.keka.com/careers/"
-  },
-  "careersUrl": "https://www.exponent.energy/careers",
-  "india": true,
-  "checkedAt": "2026-09-13T14:59:36.605Z",
-  "note": "board found on site but unreadable: no Keka embed id in careers page",
-  "via": "site"
  },
  "factrika": {
   "key": "factrika",
@@ -1595,7 +1547,7 @@
   "board": null,
   "careersUrl": "https://fibroheal.com/career-opportunities/",
   "india": true,
-  "checkedAt": "2026-10-03T01:19:29.166Z"
+  "checkedAt": "2026-10-10T01:53:10.400Z"
  },
  "finnovate": {
   "key": "finnovate",
@@ -1659,7 +1611,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-03T01:19:36.589Z"
+  "checkedAt": "2026-10-10T01:53:19.033Z"
  },
  "flam": {
   "key": "flam",
@@ -1765,7 +1717,7 @@
   "board": null,
   "careersUrl": "https://galaxeye.space/job-portal",
   "india": true,
-  "checkedAt": "2026-10-03T01:18:45.010Z"
+  "checkedAt": "2026-10-10T01:52:16.635Z"
  },
  "getvantage": {
   "key": "getvantage",
@@ -1793,6 +1745,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-10-06T02:28:59.577Z"
+ },
+ "gramiyaa": {
+  "key": "gramiyaa",
+  "company": "Gramiyaa",
+  "domain": "gramiyaa.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-10-10T01:52:16.635Z"
  },
  "graph": {
   "key": "graph",
@@ -1828,7 +1789,7 @@
   "board": null,
   "careersUrl": "https://greenjoules.in/careers/",
   "india": true,
-  "checkedAt": "2026-10-03T01:19:18.042Z"
+  "checkedAt": "2026-10-10T01:52:56.783Z"
  },
  "greenwavecircularity": {
   "key": "greenwavecircularity",
@@ -1884,7 +1845,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-10-03T01:19:01.090Z"
+  "checkedAt": "2026-10-10T01:52:45.719Z"
  },
  "hangtensystems": {
   "key": "hangtensystems",
@@ -2285,6 +2246,15 @@
   "india": true,
   "checkedAt": "2026-10-07T01:44:03.127Z"
  },
+ "kisah": {
+  "key": "kisah",
+  "company": "KISAH",
+  "domain": "kisah.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-10-10T01:52:16.635Z"
+ },
  "kissht": {
   "key": "kissht",
   "company": "Kissht",
@@ -2308,6 +2278,15 @@
   "checkedAt": "2026-09-13T14:46:34.819Z",
   "via": "probe"
  },
+ "kolorshealthcare": {
+  "key": "kolorshealthcare",
+  "company": "Kolors Healthcare",
+  "domain": "kolorshealthcare.com",
+  "board": null,
+  "careersUrl": "https://www.kolorshealthcare.com/careers",
+  "india": true,
+  "checkedAt": "2026-10-10T01:52:54.782Z"
+ },
  "kroslo": {
   "key": "kroslo",
   "company": "Kroslo",
@@ -2315,7 +2294,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-03T01:19:19.807Z"
+  "checkedAt": "2026-10-10T01:53:03.942Z"
  },
  "kuhltherm": {
   "key": "kuhltherm",
@@ -2451,15 +2430,6 @@
   "india": null,
   "checkedAt": "2026-10-05T01:09:23.024Z",
   "note": "no site found (36 candidates)"
- },
- "manamchocolate": {
-  "key": "manamchocolate",
-  "company": "Manam Chocolate",
-  "domain": "manamchocolate.com",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-10-06T02:29:25.287Z"
  },
  "mandrakebio": {
   "key": "mandrakebio",
@@ -2650,7 +2620,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-03T01:19:15.994Z"
+  "checkedAt": "2026-10-10T01:52:40.099Z"
  },
  "mowito": {
   "key": "mowito",
@@ -2946,7 +2916,7 @@
   "board": null,
   "careersUrl": "https://www.paar-autonomy.com/career",
   "india": true,
-  "checkedAt": "2026-10-03T01:18:51.605Z"
+  "checkedAt": "2026-10-10T01:52:42.213Z"
  },
  "paymatrix": {
   "key": "paymatrix",
@@ -2955,7 +2925,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-03T01:19:18.262Z"
+  "checkedAt": "2026-10-10T01:52:59.073Z"
  },
  "peeko": {
   "key": "peeko",
@@ -3000,7 +2970,7 @@
   "board": null,
   "careersUrl": "https://physioplushealthcare.com/careers",
   "india": false,
-  "checkedAt": "2026-10-03T01:19:11.290Z"
+  "checkedAt": "2026-10-10T01:52:52.935Z"
  },
  "pinegap": {
   "key": "pinegap",
@@ -3228,7 +3198,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-03T01:19:05.098Z"
+  "checkedAt": "2026-10-10T01:52:49.601Z"
  },
  "rawbare": {
   "key": "rawbare",
@@ -3364,7 +3334,7 @@
   "board": null,
   "careersUrl": "https://wework.co.in/careers",
   "india": true,
-  "checkedAt": "2026-10-03T01:18:45.010Z"
+  "checkedAt": "2026-10-10T01:52:23.051Z"
  },
  "rivvun": {
   "key": "rivvun",
@@ -3393,6 +3363,15 @@
   "careersUrl": "https://roadgridindia.com/careers",
   "india": false,
   "checkedAt": "2026-10-05T01:13:02.463Z"
+ },
+ "rocketpharmaceuticals": {
+  "key": "rocketpharmaceuticals",
+  "company": "Rocket Pharmaceuticals",
+  "domain": "rocketpharma.com",
+  "board": null,
+  "careersUrl": "https://rocketpharma.com/join-rocket/",
+  "india": false,
+  "checkedAt": "2026-10-10T01:52:16.635Z"
  },
  "runable": {
   "key": "runable",
@@ -3738,7 +3717,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-10-03T01:19:25.359Z"
+  "checkedAt": "2026-10-10T01:53:08.957Z"
  },
  "stylework": {
   "key": "stylework",
@@ -4060,15 +4039,6 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-10-06T02:24:56.847Z"
- },
- "uniseoul": {
-  "key": "uniseoul",
-  "company": "Uni Seoul",
-  "domain": "uniseoul.in",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-10-06T02:29:31.880Z"
  },
  "unnatiagri": {
   "key": "unnatiagri",
