@@ -469,6 +469,15 @@
   "checkedAt": "2026-10-09T02:24:58.948Z",
   "note": "no site found (36 candidates)"
  },
+ "barm": {
+  "key": "barm",
+  "company": "B-Arm",
+  "domain": "barm.in",
+  "board": null,
+  "careersUrl": "https://barm.in/careers",
+  "india": true,
+  "checkedAt": "2026-10-11T01:08:17.118Z"
+ },
  "batterysmart": {
   "key": "batterysmart",
   "company": "Battery Smart",
@@ -1251,7 +1260,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-10T01:53:08.957Z",
+  "checkedAt": "2026-10-11T01:08:17.118Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1746,6 +1755,16 @@
   "india": true,
   "checkedAt": "2026-10-06T02:28:59.577Z"
  },
+ "gourmetpizzabrandthedoughtherapy": {
+  "key": "gourmetpizzabrandthedoughtherapy",
+  "company": "Gourmet Pizza Brand The Dough Therapy",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-10-11T01:08:17.118Z",
+  "note": "no site found (36 candidates)"
+ },
  "gramiyaa": {
   "key": "gramiyaa",
   "company": "Gramiyaa",
@@ -1772,15 +1791,6 @@
   "careersUrl": "https://www.gravityforms.com/careers/",
   "india": true,
   "checkedAt": "2026-10-08T02:11:52.008Z"
- },
- "greatasic": {
-  "key": "greatasic",
-  "company": "GreatAsic",
-  "domain": "greatasic.com",
-  "board": null,
-  "careersUrl": "https://www.greatasic.com/career-opportunities",
-  "india": false,
-  "checkedAt": "2026-10-06T02:29:12.312Z"
  },
  "greenjoules": {
   "key": "greenjoules",
@@ -2572,6 +2582,15 @@
   "note": "board found on site but unreadable: HTTP 429",
   "via": "site"
  },
+ "mobilekidukaan": {
+  "key": "mobilekidukaan",
+  "company": "Mobile Ki Dukaan",
+  "domain": "mobilekidukaan.in",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-10-11T01:08:17.118Z"
+ },
  "mokobara": {
   "key": "mokobara",
   "company": "Mokobara",
@@ -2671,6 +2690,20 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-10-06T02:26:21.876Z"
+ },
+ "nathabit": {
+  "key": "nathabit",
+  "company": "Nat Habit",
+  "domain": "nathabit.in",
+  "board": {
+   "provider": "other",
+   "slug": "linkedin:nathabit",
+   "url": "https://www.linkedin.com/company/nathabit/jobs/"
+  },
+  "careersUrl": "https://nathabit.in/pages/careers",
+  "india": true,
+  "checkedAt": "2026-10-11T01:08:17.118Z",
+  "via": "site"
  },
  "naturiscosmetics": {
   "key": "naturiscosmetics",
@@ -3149,15 +3182,6 @@
   "checkedAt": "2026-10-05T01:11:52.659Z",
   "note": "no site found (36 candidates)"
  },
- "qubehealthpay": {
-  "key": "qubehealthpay",
-  "company": "QubeHealth-Pay",
-  "domain": "qubehealth.com",
-  "board": null,
-  "careersUrl": "https://qubehealth.com/careers.html",
-  "india": true,
-  "checkedAt": "2026-10-06T02:29:17.757Z"
- },
  "quickclean": {
   "key": "quickclean",
   "company": "Quick Clean",
@@ -3209,15 +3233,6 @@
   "india": true,
   "checkedAt": "2026-10-06T02:27:23.018Z"
  },
- "recurclub": {
-  "key": "recurclub",
-  "company": "Recur Club",
-  "domain": "recurclub.com",
-  "board": null,
-  "careersUrl": "https://www.recurclub.com/careers",
-  "india": true,
-  "checkedAt": "2026-10-06T02:29:17.693Z"
- },
  "recykal": {
   "key": "recykal",
   "company": "Recykal",
@@ -3240,15 +3255,6 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-10-07T01:43:47.853Z"
- },
- "rekisemarine": {
-  "key": "rekisemarine",
-  "company": "Rekise Marine",
-  "domain": "rekise.com",
-  "board": null,
-  "careersUrl": "https://www.rekise.com/careers",
-  "india": true,
-  "checkedAt": "2026-10-06T02:29:11.724Z"
  },
  "reodev": {
   "key": "reodev",
