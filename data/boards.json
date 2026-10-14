@@ -413,15 +413,6 @@
   "india": true,
   "checkedAt": "2026-10-12T01:33:15.611Z"
  },
- "autovrse": {
-  "key": "autovrse",
-  "company": "AutoVRse",
-  "domain": "autovrse.com",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-10-13T03:12:42.341Z"
- },
  "avniwellness": {
   "key": "avniwellness",
   "company": "Avni Wellness",
@@ -683,6 +674,25 @@
   "careersUrl": null,
   "india": null,
   "checkedAt": "2026-10-13T03:11:51.726Z",
+  "note": "no site found (36 candidates)"
+ },
+ "boldfit": {
+  "key": "boldfit",
+  "company": "Boldfit",
+  "domain": "boldfit.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-10-14T01:20:13.389Z"
+ },
+ "bowerschoolofentrepreneurship": {
+  "key": "bowerschoolofentrepreneurship",
+  "company": "Bower School of Entrepreneurship",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-10-14T01:20:16.837Z",
   "note": "no site found (36 candidates)"
  },
  "brahma": {
@@ -1303,7 +1313,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-13T03:08:30.264Z",
+  "checkedAt": "2026-10-14T01:20:25.505Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1674,15 +1684,6 @@
   "checkedAt": "2026-09-26T00:47:09.640Z",
   "via": "site"
  },
- "foodstories": {
-  "key": "foodstories",
-  "company": "Foodstories",
-  "domain": "foodstories.club",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-10-13T03:12:36.785Z"
- },
  "forus": {
   "key": "forus",
   "company": "Forus",
@@ -1820,6 +1821,15 @@
   "careersUrl": "https://www.gravityforms.com/careers/",
   "india": true,
   "checkedAt": "2026-10-08T02:11:52.008Z"
+ },
+ "greencellmobility": {
+  "key": "greencellmobility",
+  "company": "GreenCell Mobility",
+  "domain": "greencellmobility.com",
+  "board": null,
+  "careersUrl": "https://greencellmobility.com/careers",
+  "india": null,
+  "checkedAt": "2026-10-14T01:20:13.389Z"
  },
  "greenjoules": {
   "key": "greenjoules",
@@ -2474,6 +2484,15 @@
   "india": true,
   "checkedAt": "2026-10-13T03:11:37.456Z"
  },
+ "makeo": {
+  "key": "makeo",
+  "company": "MakeO",
+  "domain": "makeo.app",
+  "board": null,
+  "careersUrl": "https://makeo.app/toothsi/careers",
+  "india": true,
+  "checkedAt": "2026-10-14T01:20:13.389Z"
+ },
  "makrmicrosystems": {
   "key": "makrmicrosystems",
   "company": "Makr Microsystems",
@@ -2540,15 +2559,6 @@
   "india": null,
   "checkedAt": "2026-10-12T01:40:44.977Z",
   "note": "no site found (36 candidates)"
- },
- "mayaresearch": {
-  "key": "mayaresearch",
-  "company": "Maya Research",
-  "domain": "mayaresearch.ai",
-  "board": null,
-  "careersUrl": "https://www.mayaresearch.ai/careers",
-  "india": true,
-  "checkedAt": "2026-10-13T03:12:43.160Z"
  },
  "medulance": {
   "key": "medulance",
@@ -2820,6 +2830,20 @@
   "india": true,
   "checkedAt": "2026-10-12T01:41:52.628Z"
  },
+ "ninjacart": {
+  "key": "ninjacart",
+  "company": "Ninjacart",
+  "domain": "ninjacart.com",
+  "board": {
+   "provider": "darwinbox",
+   "slug": "ninjacart",
+   "url": "https://ninjacart.darwinbox.in/ms/candidate/careers"
+  },
+  "careersUrl": "https://ninjacart.com/careers",
+  "india": true,
+  "checkedAt": "2026-10-14T01:20:25.505Z",
+  "via": "site"
+ },
  "nknmedia": {
   "key": "nknmedia",
   "company": "NKN Media",
@@ -2860,6 +2884,16 @@
   "careersUrl": null,
   "india": false,
   "checkedAt": "2026-10-12T01:38:45.465Z"
+ },
+ "nusynth": {
+  "key": "nusynth",
+  "company": "NuSynth Technologies",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-10-14T01:20:13.389Z",
+  "note": "no site found (36 candidates)"
  },
  "nuvah": {
   "key": "nuvah",
@@ -3924,6 +3958,15 @@
   "india": true,
   "checkedAt": "2026-10-12T01:38:05.916Z"
  },
+ "thinkmetal": {
+  "key": "thinkmetal",
+  "company": "Think Metal",
+  "domain": "thinkmetal.in",
+  "board": null,
+  "careersUrl": "https://www.thinkmetal.in/careers",
+  "india": true,
+  "checkedAt": "2026-10-14T01:20:13.389Z"
+ },
  "thirdwavecoffee": {
   "key": "thirdwavecoffee",
   "company": "Third Wave Coffee",
@@ -4334,6 +4377,15 @@
   "checkedAt": "2026-09-16T00:39:49.741Z",
   "via": "probe"
  },
+ "wudhomes": {
+  "key": "wudhomes",
+  "company": "wudhomes",
+  "domain": "wudhomes.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-10-14T01:20:20.111Z"
+ },
  "xstep": {
   "key": "xstep",
   "company": "xStep",
@@ -4509,14 +4561,5 @@
   "careersUrl": null,
   "india": null,
   "checkedAt": "2026-10-12T01:43:19.691Z"
- },
- "zumutorbiologics": {
-  "key": "zumutorbiologics",
-  "company": "Zumutor Biologics",
-  "domain": "zumutor.com",
-  "board": null,
-  "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-10-13T03:12:34.442Z"
  }
 }
