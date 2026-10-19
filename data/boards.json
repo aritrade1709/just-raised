@@ -505,7 +505,7 @@
   "board": null,
   "careersUrl": "https://barm.in/careers",
   "india": true,
-  "checkedAt": "2026-10-11T01:08:17.118Z"
+  "checkedAt": "2026-10-19T00:21:32.515Z"
  },
  "batterysmart": {
   "key": "batterysmart",
@@ -1365,7 +1365,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-18T00:10:54.571Z",
+  "checkedAt": "2026-10-19T00:21:32.515Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1855,7 +1855,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-10-11T01:08:17.118Z",
+  "checkedAt": "2026-10-19T00:21:32.515Z",
   "note": "no site found (36 candidates)"
  },
  "gramiyaa": {
@@ -2697,7 +2697,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-11T01:08:17.118Z"
+  "checkedAt": "2026-10-19T00:21:32.515Z"
  },
  "modal": {
   "key": "modal",
@@ -4030,6 +4030,16 @@
   "careersUrl": null,
   "india": false,
   "checkedAt": "2026-10-15T00:44:42.766Z"
+ },
+ "supplementsbrandthestack": {
+  "key": "supplementsbrandthestack",
+  "company": "Supplements Brand The Stack",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-10-19T00:21:32.514Z",
+  "note": "no site found (36 candidates)"
  },
  "supply6": {
   "key": "supply6",
