@@ -510,7 +510,7 @@
   "board": null,
   "careersUrl": "https://barm.in/careers",
   "india": true,
-  "checkedAt": "2026-10-19T00:21:32.515Z"
+  "checkedAt": "2026-10-26T00:33:40.403Z"
  },
  "batterysmart": {
   "key": "batterysmart",
@@ -1342,7 +1342,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-25T00:28:17.564Z",
+  "checkedAt": "2026-10-26T00:33:40.403Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1662,16 +1662,6 @@
   "india": false,
   "checkedAt": "2026-10-22T00:50:10.515Z"
  },
- "finnovatefinancialservices": {
-  "key": "finnovatefinancialservices",
-  "company": "Finnovate Financial Services",
-  "domain": null,
-  "board": null,
-  "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-10-24T01:05:43.519Z",
-  "note": "no site found (36 candidates)"
- },
  "fireai": {
   "key": "fireai",
   "company": "FireAI",
@@ -1886,7 +1876,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-10-19T00:21:32.515Z",
+  "checkedAt": "2026-10-26T00:33:40.403Z",
   "note": "no site found (36 candidates)"
  },
  "gramiyaa": {
@@ -2797,7 +2787,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-10-19T00:21:32.515Z"
+  "checkedAt": "2026-10-26T00:33:40.403Z"
  },
  "modal": {
   "key": "modal",
@@ -3414,15 +3404,6 @@
   "careersUrl": "https://www.qnulabs.com/careers",
   "india": true,
   "checkedAt": "2026-10-20T01:16:22.673Z"
- },
- "qosmic": {
-  "key": "qosmic",
-  "company": "QOSMIC",
-  "domain": "qosmic.space",
-  "board": null,
-  "careersUrl": "https://qosmic.space/careers",
-  "india": true,
-  "checkedAt": "2026-10-21T00:50:02.614Z"
  },
  "qpiai": {
   "key": "qpiai",
@@ -4119,7 +4100,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-10-19T00:21:32.514Z",
+  "checkedAt": "2026-10-26T00:33:40.403Z",
   "note": "no site found (36 candidates)"
  },
  "supply6": {
@@ -4253,6 +4234,20 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-10-21T00:48:58.903Z"
+ },
+ "together": {
+  "key": "together",
+  "company": "Together AI",
+  "domain": "together.ai",
+  "board": {
+   "provider": "greenhouse",
+   "slug": "togetherai",
+   "url": "https://job-boards.greenhouse.io/togetherai"
+  },
+  "careersUrl": "https://www.together.ai/careers",
+  "india": true,
+  "checkedAt": "2026-10-26T00:33:40.403Z",
+  "via": "site"
  },
  "travclan": {
   "key": "travclan",
@@ -4481,15 +4476,6 @@
   "careersUrl": "https://vlcc.com/career",
   "india": true,
   "checkedAt": "2026-10-20T01:18:31.928Z"
- },
- "voltseal": {
-  "key": "voltseal",
-  "company": "VoltSeal",
-  "domain": "voltseal.in",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-10-21T00:49:49.316Z"
  },
  "vorflux": {
   "key": "vorflux",
