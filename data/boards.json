@@ -174,7 +174,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-01T01:21:52.947Z"
+  "checkedAt": "2026-11-08T01:42:25.436Z"
  },
  "akashalabdhi": {
   "key": "akashalabdhi",
@@ -344,7 +344,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:21:50.791Z"
+  "checkedAt": "2026-11-08T01:42:22.543Z"
  },
  "armatrix": {
   "key": "armatrix",
@@ -358,11 +358,11 @@
  "arohan": {
   "key": "arohan",
   "company": "Arohan",
-  "domain": "arohan.org",
+  "domain": "arohansolutions.com",
   "board": null,
   "careersUrl": null,
-  "india": false,
-  "checkedAt": "2026-11-01T01:22:47.866Z"
+  "india": true,
+  "checkedAt": "2026-11-08T01:43:06.145Z"
  },
  "asaya": {
   "key": "asaya",
@@ -596,7 +596,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:21:34.022Z"
+  "checkedAt": "2026-11-08T01:42:12.532Z"
  },
  "bijnisrebrandsaszorit": {
   "key": "bijnisrebrandsaszorit",
@@ -670,7 +670,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:22:44.392Z"
+  "checkedAt": "2026-11-08T01:43:02.841Z"
  },
  "blissclub": {
   "key": "blissclub",
@@ -706,7 +706,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:21:34.022Z"
+  "checkedAt": "2026-11-08T01:42:12.533Z"
  },
  "bowerschoolofentrepreneurship": {
   "key": "bowerschoolofentrepreneurship",
@@ -874,7 +874,7 @@
   "board": null,
   "careersUrl": "https://www.canarabank.bank.in/career",
   "india": true,
-  "checkedAt": "2026-11-01T01:22:11.441Z"
+  "checkedAt": "2026-11-08T01:42:34.276Z"
  },
  "candisolar": {
   "key": "candisolar",
@@ -1156,15 +1156,6 @@
   "india": true,
   "checkedAt": "2026-11-03T03:47:00.996Z"
  },
- "cookd": {
-  "key": "cookd",
-  "company": "Cookd",
-  "domain": "cookd.ai",
-  "board": null,
-  "careersUrl": "https://www.cookd.ai/careers",
-  "india": false,
-  "checkedAt": "2026-11-05T02:43:11.918Z"
- },
  "copperpilot": {
   "key": "copperpilot",
   "company": "CopperPilot",
@@ -1395,7 +1386,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-01T01:22:07.600Z"
+  "checkedAt": "2026-11-08T01:42:29.664Z"
  },
  "dehaathonestfarms": {
   "key": "dehaathonestfarms",
@@ -1431,7 +1422,7 @@
   "board": null,
   "careersUrl": "https://dextr-ai.com/careers",
   "india": null,
-  "checkedAt": "2026-11-01T01:22:08.104Z"
+  "checkedAt": "2026-11-08T01:42:29.785Z"
  },
  "dheyatech": {
   "key": "dheyatech",
@@ -1449,7 +1440,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-07T02:18:41.343Z",
+  "checkedAt": "2026-11-08T01:43:05.620Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1919,7 +1910,7 @@
   "board": null,
   "careersUrl": "https://galaxeye.space/job-portal",
   "india": true,
-  "checkedAt": "2026-11-01T01:22:01.526Z"
+  "checkedAt": "2026-11-08T01:42:22.958Z"
  },
  "game": {
   "key": "game",
@@ -1974,7 +1965,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:21:45.434Z"
+  "checkedAt": "2026-11-08T01:42:12.533Z"
  },
  "graph": {
   "key": "graph",
@@ -2010,7 +2001,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:22:35.997Z"
+  "checkedAt": "2026-11-08T01:42:56.873Z"
  },
  "greenwavecircularity": {
   "key": "greenwavecircularity",
@@ -2062,7 +2053,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-11-01T01:22:24.344Z"
+  "checkedAt": "2026-11-08T01:42:39.780Z"
  },
  "hangtensystems": {
   "key": "hangtensystems",
@@ -2511,7 +2502,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:21:46.282Z"
+  "checkedAt": "2026-11-08T01:42:17.654Z"
  },
  "kissht": {
   "key": "kissht",
@@ -2559,9 +2550,9 @@
   "company": "Kolors Healthcare",
   "domain": "kolorshealthcare.com",
   "board": null,
-  "careersUrl": "https://www.kolorshealthcare.com/careers",
-  "india": true,
-  "checkedAt": "2026-11-01T01:22:33.577Z"
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-11-08T01:42:55.835Z"
  },
  "konwert": {
   "key": "konwert",
@@ -2570,7 +2561,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-11-01T01:21:34.022Z"
+  "checkedAt": "2026-11-08T01:42:12.533Z"
  },
  "kroslo": {
   "key": "kroslo",
@@ -2579,7 +2570,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:22:40.985Z"
+  "checkedAt": "2026-11-08T01:43:00.801Z"
  },
  "kuhltherm": {
   "key": "kuhltherm",
@@ -2972,7 +2963,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:22:30.507Z"
+  "checkedAt": "2026-11-08T01:42:52.399Z"
  },
  "myca": {
   "key": "myca",
@@ -3104,20 +3095,6 @@
   "careersUrl": "https://www.noccarc.com/careers",
   "india": true,
   "checkedAt": "2026-11-04T02:35:34.647Z"
- },
- "norm": {
-  "key": "norm",
-  "company": "Norm AI",
-  "domain": "norm-ai.com",
-  "board": {
-   "provider": "ashby",
-   "slug": "norm-ai",
-   "url": "https://jobs.ashbyhq.com/norm-ai"
-  },
-  "careersUrl": "https://norm-ai.com/careers",
-  "india": true,
-  "checkedAt": "2026-10-09T02:34:15.390Z",
-  "via": "probe"
  },
  "novaspectral": {
   "key": "novaspectral",
@@ -3330,7 +3307,7 @@
   "board": null,
   "careersUrl": "https://www.paar-autonomy.com/career",
   "india": true,
-  "checkedAt": "2026-11-01T01:21:34.022Z"
+  "checkedAt": "2026-11-08T01:42:12.533Z"
  },
  "parallelloop": {
   "key": "parallelloop",
@@ -3348,7 +3325,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-01T01:22:40.229Z"
+  "checkedAt": "2026-11-08T01:42:57.073Z"
  },
  "peeko": {
   "key": "peeko",
@@ -3402,7 +3379,7 @@
   "board": null,
   "careersUrl": "https://physioplushealthcare.com/careers",
   "india": false,
-  "checkedAt": "2026-11-01T01:22:29.283Z"
+  "checkedAt": "2026-11-08T01:42:49.596Z"
  },
  "pine": {
   "key": "pine",
@@ -3643,8 +3620,8 @@
   "domain": "raindrop.life",
   "board": null,
   "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-11-01T01:22:26.031Z"
+  "india": null,
+  "checkedAt": "2026-11-08T01:42:41.004Z"
  },
  "rapidcanvas": {
   "key": "rapidcanvas",
@@ -3786,7 +3763,7 @@
   "board": null,
   "careersUrl": "https://wework.co.in/careers",
   "india": true,
-  "checkedAt": "2026-11-01T01:21:58.442Z"
+  "checkedAt": "2026-11-08T01:42:27.442Z"
  },
  "rize": {
   "key": "rize",
@@ -3822,7 +3799,7 @@
   "board": null,
   "careersUrl": "https://rocketpharma.com/join-rocket/",
   "india": false,
-  "checkedAt": "2026-11-01T01:21:47.954Z"
+  "checkedAt": "2026-11-08T01:42:19.175Z"
  },
  "rotoris": {
   "key": "rotoris",
@@ -4242,7 +4219,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-11-01T01:22:46.618Z"
+  "checkedAt": "2026-11-08T01:43:05.620Z"
  },
  "strokesbynamratamehta": {
   "key": "strokesbynamratamehta",
@@ -4252,6 +4229,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-11-06T02:43:39.182Z"
+ },
+ "stylework": {
+  "key": "stylework",
+  "company": "Stylework",
+  "domain": "stylework.city",
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-11-08T01:43:06.624Z"
  },
  "sugarcosmetics": {
   "key": "sugarcosmetics",
@@ -4441,15 +4427,6 @@
   "careersUrl": "https://thirdwavecoffee.in/pages/career",
   "india": true,
   "checkedAt": "2026-11-03T03:45:13.908Z"
- },
- "thumpn": {
-  "key": "thumpn",
-  "company": "thumpN",
-  "domain": "thumpn.com",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-11-04T02:37:42.786Z"
  },
  "timbuckdo": {
   "key": "timbuckdo",
