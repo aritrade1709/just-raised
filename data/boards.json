@@ -496,7 +496,7 @@
   "board": null,
   "careersUrl": "https://barm.in/careers",
   "india": true,
-  "checkedAt": "2026-11-02T01:42:27.460Z"
+  "checkedAt": "2026-11-09T01:50:33.843Z"
  },
  "batterysmart": {
   "key": "batterysmart",
@@ -948,6 +948,15 @@
   "india": null,
   "checkedAt": "2026-11-03T03:42:21.236Z",
   "note": "no site found (36 candidates)"
+ },
+ "cellegant": {
+  "key": "cellegant",
+  "company": "Cellegant",
+  "domain": "cellegant.com",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-11-09T01:50:24.113Z"
  },
  "cent": {
   "key": "cent",
@@ -1440,7 +1449,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-08T01:43:05.620Z",
+  "checkedAt": "2026-11-09T01:50:46.666Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1599,15 +1608,6 @@
   "india": null,
   "checkedAt": "2026-11-04T02:37:05.167Z",
   "note": "no site found (36 candidates)"
- },
- "econovus": {
-  "key": "econovus",
-  "company": "Econovus",
-  "domain": "econovus.co.in",
-  "board": null,
-  "careersUrl": "https://econovus.co.in/careers",
-  "india": true,
-  "checkedAt": "2026-11-06T02:44:49.689Z"
  },
  "ecosys": {
   "key": "ecosys",
@@ -1955,7 +1955,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-02T01:42:27.460Z",
+  "checkedAt": "2026-11-09T01:50:37.661Z",
   "note": "no site found (36 candidates)"
  },
  "gramiyaa": {
@@ -2650,7 +2650,7 @@
   "board": null,
   "careersUrl": "https://littlebox.in/careers",
   "india": true,
-  "checkedAt": "2026-11-02T01:42:59.244Z"
+  "checkedAt": "2026-11-09T01:50:45.491Z"
  },
  "live2": {
   "key": "live2",
@@ -2895,7 +2895,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-02T01:42:35.324Z"
+  "checkedAt": "2026-11-09T01:50:42.801Z"
  },
  "mochatrade": {
   "key": "mochatrade",
@@ -3095,6 +3095,20 @@
   "careersUrl": "https://www.noccarc.com/careers",
   "india": true,
   "checkedAt": "2026-11-04T02:35:34.647Z"
+ },
+ "nooks": {
+  "key": "nooks",
+  "company": "Nooks",
+  "domain": "nooks.ai",
+  "board": {
+   "provider": "greenhouse",
+   "slug": "nooks",
+   "url": "https://job-boards.greenhouse.io/nooks"
+  },
+  "careersUrl": "https://www.nooks.ai/careers",
+  "india": true,
+  "checkedAt": "2026-11-09T01:50:24.112Z",
+  "via": "probe"
  },
  "novaspectral": {
   "key": "novaspectral",
@@ -3950,7 +3964,7 @@
   "board": null,
   "careersUrl": "https://shyammetalics.com/careers",
   "india": null,
-  "checkedAt": "2026-11-02T01:42:27.460Z"
+  "checkedAt": "2026-11-09T01:50:24.113Z"
  },
  "sidsfarm": {
   "key": "sidsfarm",
@@ -4230,15 +4244,6 @@
   "india": true,
   "checkedAt": "2026-11-06T02:43:39.182Z"
  },
- "stylework": {
-  "key": "stylework",
-  "company": "Stylework",
-  "domain": "stylework.city",
-  "board": null,
-  "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-11-08T01:43:06.624Z"
- },
  "sugarcosmetics": {
   "key": "sugarcosmetics",
   "company": "Sugar Cosmetics",
@@ -4305,7 +4310,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-02T01:42:27.460Z",
+  "checkedAt": "2026-11-09T01:50:24.113Z",
   "note": "no site found (36 candidates)"
  },
  "swish": {
@@ -4527,7 +4532,7 @@
   "board": null,
   "careersUrl": "https://two-point-o.com/jobs/",
   "india": false,
-  "checkedAt": "2026-11-02T01:42:27.460Z"
+  "checkedAt": "2026-11-09T01:50:24.113Z"
  },
  "typsybeauty": {
   "key": "typsybeauty",
@@ -4797,15 +4802,6 @@
   "india": false,
   "checkedAt": "2026-11-03T03:45:29.156Z"
  },
- "wheelocity": {
-  "key": "wheelocity",
-  "company": "Wheelocity",
-  "domain": "wheelocity.com",
-  "board": null,
-  "careersUrl": "https://www.wheelocity.com/join-us.html",
-  "india": true,
-  "checkedAt": "2026-11-04T02:37:24.306Z"
- },
  "wiffy": {
   "key": "wiffy",
   "company": "Wiffy",
@@ -4925,9 +4921,9 @@
   "company": "YOGa",
   "domain": "yoga.in",
   "board": null,
-  "careersUrl": "https://yoga.in/careers",
+  "careersUrl": "https://yoga.in/join-our-team/",
   "india": true,
-  "checkedAt": "2026-11-02T01:42:35.238Z"
+  "checkedAt": "2026-11-09T01:50:39.704Z"
  },
  "yogacleanair": {
   "key": "yogacleanair",

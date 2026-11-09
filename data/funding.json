@@ -107,7 +107,8 @@
   "round": "Series A",
   "investors": [
    "Rainmatter",
-   "Mela Ventures"
+   "Mela Ventures",
+   "Agricultural Residue"
   ],
   "date": "2026-11-05",
   "sources": [
@@ -117,19 +118,19 @@
     "title": "Specialty chemicals startup altM raises $10.3 Mn led by Rainmatter, Mela Ventures"
    },
    {
+    "outlet": "AgroSpectrum India",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUF6Z005aDNzY0ZVbjUyT0hSTEhzX19WWFY0QkZrazI4VTk4U24yX0NuRjJDMFR2eTh5N0ctSnJkZGhLcHdtSE5TTEZqMUE2YnY3WWktWktoUV9LSTA2MVh3Y1BEU29mM1gzMHpyTFlUdHB2QTBrYmxXMmp2YTA3R2o5cEhFTHdPYVpVQmNDSDRCekNVb1JkRVBaTTExNjFLUDdxcVJMRXFXN2U4TC1id0VhTkNGamc?oc=5",
+    "title": "Specialty chemicals startup altM raises $10.3 Mn in Series A Funding"
+   },
+   {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFY0aDMycTZYREhFQWdRSDFrWVp0eGV3RWgtbU16cDR1UTJJLXVJQUhLLVRKNktTLXF6VWw2NmctSUxRWHlJM1hjS0xMeVEwcVhGMThnck50OHhNQmpzdXVITU9iMDFjcjJHLWYtOXpDYlVrVzE3WlBnV0NSUjk0ZkpFTmtSa1djam9RZ1VTS3NrUk50Q1Fla1B6NzlJWWRnZUF2MU1jVlQxYUNtUEpwR2hIZ2diUjUzSWNyYVBZbGdPVW8?oc=5",
     "title": "altM Raises $10.3 Million to Turn Agricultural Residue Into Specialty Chemicals"
    },
    {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDhEc1RyWmZaa3JoNVdWN0gwSzdTR1k4bXl0d2lsbURmU2NETGNmLTNGaTJmc0s0UjFxT0JFczFsM2haeDJ0NGVkNUVFdEtHUENfOTFzOHlDd1ZQNzUyQXphZW5SZTZCUkJSRUN6QlYtLUh6WWlWaUhkQTJxUkZ6Y0lqQnpBN3hQLUI1eDRxcWtrX2pFSi1reGRLQzRvcWlJRmFaeDY4RHBaZw?oc=5",
-    "title": "altM Raises $10.3 Million to Scale Agricultural Waste-Based Specialty Chemicals Production"
-   },
-   {
-    "outlet": "Inc42",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd01jXzQ0X2ozTElyODBLVTFFR2JFZU1nMWgzMEFFYjFmNk90bU5RbzdMaVM4a1g2dnRHcEcwMUsyaVlYNVpSN09IVlQzU09WOGdvUUVqSmVlZU04b2FSR184eVU5a3FKN21MZDF3RkY2ZlFpS2RCQVc4Z1B4OHFtNzQxTDhDYWNlaHk1Sg?oc=5",
-    "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing"
+    "outlet": "Siliconindia",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEtIUkdtWEU4VGJrUm1VZWJoajd1YVAyQUdLR3E3YzVYMjBTY2xrZ1ZRNkRjUk9xVEY1T0gtMVpLM0FkeEF1aFdZVnNndHU0ZW0xbWY3NWpiOHFtbGxzcHE2QzZfOWpFVUpXdDJKRWN4eFBEM2N3MEktb3JMX0UyeTBiUWFLNnR5Sl9GWmtxSVY3TUh5bDRJNVd4WC12S09LMm9wRjRqbVpyNzBWNmQ4aVI1OEZsLVhzRjQ0dw?oc=5",
+    "title": "altM Raises 10.3 Million Dollars in Series A Funding"
    }
   ],
   "indiaSignal": "strong"
@@ -163,9 +164,7 @@
   "currency": "USD",
   "usd": 6000000,
   "round": "Seed",
-  "investors": [
-   "orbit"
-  ],
+  "investors": [],
   "date": "2026-11-05",
   "sources": [
    {
@@ -174,19 +173,19 @@
     "title": "Spacetech startup Cosmoserve Space raises $6 Mn in seed round"
    },
    {
-    "outlet": "Inc42",
-    "url": "https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/",
-    "title": "Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028"
-   },
-   {
     "outlet": "Inc42 Buzz",
     "url": "https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/",
     "title": "Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028"
    },
    {
-    "outlet": "The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNM3Y0b2xvY0JQZDVwS3g4d3NDejNPT2NSM2hHQk42cTVvVFpCRnYxRklXa3BGLUx5LU1HWkxCN2pJYWt6S3VUSnpGNXNrWllWMVhiWkZlTF9PdXZIM3lnWG55NVNSWE9DU2l6U25HMy00RkJCYl9GeXpGaHVrYVVwR1c3QklvelJJUnYxOFl0WTZyalFtaVVkS3FwaXpzWWU5azZVNzVTc0hQRk9lMjFYbXREMnFlZENYcXktVUhSUnhfdXlLZ21HRzJRRnZXNG1xOWFEb25FYWVMandRREhubnRuZWxxdm5GTUxTa2xCcDhPRFg4bGVWb9IB_gFBVV95cUxOVFV2WnNmX2NabVNmb1VCM2VlUFd6Zkl0MlI3TTF4TGJKZEVXNDFrNE4wU2F5c043SXFEM28yX2hpbHRFUnBDcW9PNkxoVEtPb2RLSGZlbVNSR0JpVjB6QlhjTjQ5amtfS0h4NFRlRW8xU0ZRbmFQR1lySnNocldzWXdQV1YzWVpldDAzUXVWSkpBNHZrelRPVHFFeG1xUFVIRUNLNnlpdlVCVWpHQ0ExaFBTQ1ctZF91NC1fM2tpSjRDZEFuT2JkUDk1OW1mNUgyaXJ0MlBRSFA2VDVUUlA0akpzSDZtT3ppUG0tVHBmZFdSZ3hEZFNRYkxZQ3hxdw?oc=5",
-    "title": "Cosmoserve Space raises $6 million, sets up India's first space debris removal facility in Hyderabad"
+    "outlet": "Startup Story",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2FlQ0lOWEdyR0IzVnpYVnVEbnN0R2ItV0l4al9jOWcxVGxVU2g4NExHSzkwY1Fsa0ZDck1CVEF6TjUwclBCZHR0ODZnVXc3bGVpeDlXdlhQMS1nQVpydXRzQ2tXWVdfWk4tUjRRM0ZfOVZFTmFhSGt0TmtsM2lRazlqX1dCeHpBRWlYU2Y1UXpabHdHR0J5UmgzY1pPQdIBngFBVV95cUxQa2FlQ0lOWEdyR0IzVnpYVnVEbnN0R2ItV0l4al9jOWcxVGxVU2g4NExHSzkwY1Fsa0ZDck1CVEF6TjUwclBCZHR0ODZnVXc3bGVpeDlXdlhQMS1nQVpydXRzQ2tXWVdfWk4tUjRRM0ZfOVZFTmFhSGt0TmtsM2lRazlqX1dCeHpBRWlYU2Y1UXpabHdHR0J5UmgzY1pPQQ?oc=5",
+    "title": "Spacetech startup Cosmoserve Space raises $6 Mn in seed round"
+   },
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS0k5a281VXRrVmlqZDhRZ0MyWGdIUktsLU1INmY0X24tR0FsVnQ5ZmpLQ3RNNE15bWdTalRjQ3c5eUY0bHVYY1YzbkNMcWpUSERnZmlIUG1MUkF6VmMtZDlpMGpPSFZGSS0zeWdNUGJzUTBIQ2ZONXlVQ2ZRem5YRTkyU2lGTW9Db1A0RU14clE2Z2hIVkdMME1EOXF5UEM4NURkY0JiRTJCZ2Yza196N1ZmV0pvOVliamFJV3EzZG0wQjF6Q3pEVkhXVVpxR1BOY0dQSFVTYU1MOEc3b3FWS1UwYkNESDVVN3J0ZQ?oc=5",
+    "title": "Cosmoserve Raises $6 Mn in Seed Funding to Advance Space Debris Removal Technology, Targets Commercialisation by 2028"
    }
   ],
   "indiaSignal": "strong"
@@ -269,6 +268,36 @@
   "indiaSignal": "strong"
  },
  {
+  "id": "nooks-2026-11-04",
+  "company": "Nooks",
+  "key": "nooks",
+  "descriptor": "AI sales startup",
+  "amount": 500000000,
+  "currency": "USD",
+  "usd": 500000000,
+  "round": null,
+  "investors": [],
+  "date": "2026-11-04",
+  "sources": [
+   {
+    "outlet": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXpKNVNpQ1hhR3lxTGJuem9WcDNINW00TE1ORVZuX0xaWDFtcGhXdENBblhnWTBrVFNkRGU1SzM2S1oyRHJtUUVkSEJEUi1wUXh4Tk5XbWFDZ3FySEZ0U19xRVpwbmVFaWZRZnh1Sm81MnkybWtpY2tuNEhSSFNwOHdQRnZuTm54aWZVcWM4M0l5T0N6ekdVUllFSkFwTU94TWVfanNWSUEybUo3eDRIZi1kRQ?oc=5",
+    "title": "AI sales startup Nooks secures $500 million in funding for expansion"
+   },
+   {
+    "outlet": "ET Entrepreneur",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeU1RTFV4MDQ3UDBTcDhMalk1dDg5U3RSdmt1a2pxMlFzVUJCN2RlU09EcU1UUHZ0UFJfaW1qQjBvR2k3emNpOXZzUGhYdGFBWEF6OEROTl82b2R0UzhNZ2llR2VPTHNnTzZvY2JCSWd3T18zZE1XZmFEZTNFVE5zR0djVnJ5QXdIMVJmMEpHTnBQeFFPQ1NxdldMbUlfTlpIcW9RX0w5Y1ZlaGVGUHhLZWZuaVVnSjZlZTMzdkhzb3Z2R1R0ZVBzMnRMSEVmcTNsdlI0dWxHMDBIZDAt0gHcAUFVX3lxTE95TVFMVXgwNDdQMFNwOExqWTV0ODlTdFJ2a3VranEyUXNVQkI3ZGVTT0RxTVRQdnRQUl9pbWpCMG9HaTd6Y2k5dnNQaFh0YUFYQXo4RE5OXzZvZHRTOE1naWVHZU9Mc2dPNm9jYkJJZ3dPXzNkTVdmYURlM0VUTnNHR2NWcnlBd0gxUmYwSkdOcFB4UU9DU3F2V0xtSV9OWkhxb1FfTDljVmVoZUZQeEtlZm5pVWdKNmVlMzN2SHNvdnZHVHRlUHMydExIRWZxM2x2UjR1bEcwMEhkMC0?oc=5",
+    "title": "AI sales startup Nooks secures $500 million in funding for expansion"
+   },
+   {
+    "outlet": "The Lufkin Daily News",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNHRTeVdwVVBUMjRDZzlKbUtyWDhtUndnbjhQeXdKSzF1WjNWQjVBcW13TGtvQ0QzUlJCZWttQzNDUG1kTkJaNkNXZHgyZnpVZjBuQzVvUVVzd2hldHN6bDJNTURsdWNHcnZYRXotMk4tVUhma25RN2U1a0plaXR5bVZLNTF4Wk02MlZiYTM1anE4ellDaEp0ZTVJckVTMEdfSFMwVExlcUF0d0d4ZTZzZDRTaHFuY29OWXNkeFdPX0pSWExUUEhYZnotZ1BoWGJTdk52UEVDOVBId2N2cFdjd0pDZnZKNzlPWXZlNmtZc0dBcVFCaWJ0Rm5pQQ?oc=5",
+    "title": "AI sales startup Nooks secures $500 million in funding for expansion"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "eloelo-2026-11-04",
   "company": "EloElo",
   "key": "eloelo",
@@ -292,6 +321,11 @@
     "outlet": "Adgully",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1djdnRlUWlvaGdPMjRHVEpkNi05Y0tMQUgwbUl6Q1Z0ZzRhWFpZS20xMkQ0U3djcDJIYS1uVEJoMjRremp0MndPQjZscldoaVc0OHhIT1JHdWhGM0Z5aHJ1c0pWTDRrRU9PWGd6ZDc4NnZGcDVYWko4eE9UZ2p3TEVwTWpjMWlGQU9jRmM3dXY4Ti1zVGpfcmpfSlVYSFJQQzE0cw?oc=5",
     "title": "EloElo bags $80M in Series C co-led by NBCUniversal, Hornbill Capital"
+   },
+   {
+    "outlet": "Indian Retailer",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNi1Bb3VrSlN4WlFMcXN4czBiYkpjM0lwX21xZG9vRmhiOTgyZFFWUmNEZHoxYXg3VC1TQ3ZJTE5LRnFsbTBIcExEc2dETmEtR2dEeWd5bHRQMzNrOWYxOF91LVBKSWJ1akRRUzhvUXNyd0tVNmRoU1lCY29PMVJublNXYnlSbmFsUHR1TDBxXy04eHV1UThNM21QSXREV2U5TUZvN3JEQkZnUE1zMG5BOA?oc=5",
+    "title": "EloElo Raises $80 Mn to Expand Its Digital Entertainment Business"
    },
    {
     "outlet": "Indian Startup News",
@@ -322,19 +356,19 @@
     "title": "Peppermint Robotics raises Rs 100 Cr in Pre-Series B led by pi Ventures, Crane Venture Partners"
    },
    {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0pORnAyWFVzUGlNM3padUFmLVpscXJob1RrUW4tRm9PN252SDZsb2lpSHBFdkMzTWxrZDlLOWpQempQMm5iQWdITDdlVjZsZ1lKSk9rWDQwTlI1eTdjUEhDaWEyM0dEUFQxSUVRNHI4SmVVaFV1T3NOdmRlN1pqM3NpTmxwcXBlS1VjWFFEWkRFb3dxWDhLb2pzdmp2ZGJ2LVFEMVZtUVRldw?oc=5",
-    "title": "Peppermint Robotics Raises ₹100 Crore to Expand Industrial Automation"
-   },
-   {
     "outlet": "Sahyadri Startups",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbUFrcURJQzk0bVZOYWJxcC16Ylp1VHhEVmU3YWRYYmx4ck02a0E3alhpQUJpZFFwY1RVRDZVdWVTZmdSM1haSVNqcjl4ZTdYWkxZQnJhNi1fS0hRWUZWdUl1S19ObHVIaGdDcF9WaWpvQm05NVJ2bk1aWGpTZmNiTkxLQWNIeGlYLTFxNU5sRU1OWnJqbHEyeVJRMHBuaDJPNTF2WEgwYTlzUjR2VWJzZjVWZ2o4Nl84Sld1ejJrNDA4N1Y1RWNfLXRiU0UtZENOX1dYN01BdDdGN1c3?oc=5",
     "title": "Peppermint Robotics Raises ₹100 Crore in Pre-Series B Funding from pi Ventures, Crane Venture Partners"
    },
    {
-    "outlet": "Siliconindia",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWx2bjMzVzVjYlVhdlpzXzBnM09iRzNfcmlVSGxYdERIZjI4QVd0RlVieTZ3SXZfQWZpTjFPQzJMREtyWjIwREZ1N2VtSzdCTE9mZC1neVh0MjI2YTkwSW1wOU40S2N0aHlGTklROFVzRDJ5OXVLYmVxV2tRZHBKWFVHTVJORjR4ZnhwQlJwTGNHblFsYTNfa2s0ZW9wRkNPbExZRUxyLVlJWHhpeGFnWXBmRVZIdkZscUxrd1h4SHk1RUo2UmI5cUM3cw?oc=5",
-    "title": "Peppermint Robotics Raises Rs 100 Crore in Pre-Series B Funding"
+    "outlet": "https://ascendants.in/",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0pORnAyWFVzUGlNM3padUFmLVpscXJob1RrUW4tRm9PN252SDZsb2lpSHBFdkMzTWxrZDlLOWpQempQMm5iQWdITDdlVjZsZ1lKSk9rWDQwTlI1eTdjUEhDaWEyM0dEUFQxSUVRNHI4SmVVaFV1T3NOdmRlN1pqM3NpTmxwcXBlS1VjWFFEWkRFb3dxWDhLb2pzdmp2ZGJ2LVFEMVZtUVRldw?oc=5",
+    "title": "Peppermint Robotics Raises ₹100 Crore to Expand Industrial Automation"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSDFqVmt2dkNoZF9tUTdSMWFieWRrQUlya0hZTzVvOEdnamhaMWRBZVNldjFScFlmRHFrRWplYmxRNDRPVjFBQnR1V3hyY3dFOXIwUWQ2V0F3YXRuQmJkeGZfZUhVZFBBa1pFbl9waE9vTnB6TFZxeWwtQ1Bvd2syendjMVZqMzdta0JiUVhFeWctS2NhaDRIU1kyZUlVVjhScFctU01qZHpiZWJhT1duNUdESDQ2OWRnZWZ4N2VWUUxkMTB3VDUtOC0tWFBybWJUa0x2TnZWaFFWc3pwazNv0gHfAUFVX3lxTE1IMWpWa3Z2Q2hkX21RN1IxYWJ5ZGtBSXJrSFlPNW84R2dqaFoxZEFlU2V2MVJwWWZEcWtFamVibFE0NE9WMUFCdHVXeHJjd0U5cjBRZDZXQXdhdG5CYmR4Zl9lSFVkUEFrWkVuX3BoT29OcHpMVnF5bC1DUG93azJ6d2MxVmozN21rQmJRWEV5Zy1LY2FoNEhTWTJlSVVWOFJwVy1TTWpkemJlYmFPV241R0RINDY5ZGdlZng3ZVZRTGQxMHdUNS04LS1YUHJtYlRrTHZOdlZoUVZzenBrM28?oc=5",
+    "title": "Cleaning robot maker Peppermint Robotics raises Rs 100 crore funding"
    }
   ],
   "indiaSignal": "strong"
@@ -359,9 +393,9 @@
     "title": "Quick-commerce startup Blitz raises $3.03M at a $53M valuation"
    },
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQXzZoZ1NOWmpxZ2xVTWhuUVF6NG1kbjI2QTd2YVJVV1lzRWlzMmN2VndId054WTdnRm1LbEVDM3NUYnktVC1rRmx2Sk5QVGdYZG8tdFBVNUNQZHZrQkJhTlRNV25mMFBBcUpybmhzcEhjZldQTHRWS0VPbjBFM1ZzNnZqb1Y5Y3BHT2dyMTc2RVlaajBPbW5SQndaSGdTbHVqR01oLVhnOWdPeFVPVjd0cVp0UGIybUYzbmMxZk1PeGJhbkI1NGtUdWZBbER4c3ZfZHNaUnRBSFR0aHl2d2tVTmp3alotQQ?oc=5",
-    "title": "Blitz Raises ₹28.70 Crore in Pre-Series B Round Led by IvyCap Ventures at ₹440 Crore Valuation"
+    "outlet": "Indian Retailer",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXFDdVR0TEZMSHp5X0V1ckQxbkh1VEtVMHJpdGdMS2lTYVR6c1pfc0dabzFQbk1jMi1PY0d3UUlkSENTaVhnNzEyRTRyZllmby0tY1EyTGJOWlF6YkJkdVo5UHhkODhhSDdvclNad3ZuV3pmZllHaUlQNWQ5Q1Y0ZnBKQjFkYzVYMjd0UDVXc05lMW9QOHU3S2x3U2poWk9uZ0hSbzhkcXJUMV9RUDVJTW1zZWRMdw?oc=5",
+    "title": "Quick-Commerce Startup Blitz Secures Rs 28.7 Cr from IvyCap Ventures, & Others"
    },
    {
     "outlet": "Siliconindia",
@@ -411,6 +445,26 @@
   "indiaSignal": "strong"
  },
  {
+  "id": "cellegant-2026-11-04",
+  "company": "Cellegant",
+  "key": "cellegant",
+  "descriptor": "IIT Gandhinagar Startup",
+  "amount": 26100000,
+  "currency": "INR",
+  "usd": 296590.9090909091,
+  "round": null,
+  "investors": [],
+  "date": "2026-11-04",
+  "sources": [
+   {
+    "outlet": "BW Auto World",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZzI1dG1DM2hhcklBRFdPYzE3cVFrMVU4dHZCLTlZS25aamRFUlpOSkI1LVZaQVFTTXdSbWtQRU8wR2ZqZ1czSXVJbDdrLWxHMGo5QmYtYTdwZVVNWWx2R2JLVVljWmFfd2w4bWplSkF3Y25qbkIwRFJKMEdpQzNXWjAxWHBfOU05NmhNUkhGRkxZVzRyT0MtUWlBd28wdU5iV2QwQkVqaHl6aEpOMVhnTVhXMjdDcmJvNWxUVWdpeU83ODhOQnFB?oc=5",
+    "title": "IIT Gandhinagar Startup Cellegant Raises Rs 2.61 Cr For Hydrogen-Powered Drone Technology"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "giva-2026-11-03",
   "company": "Giva",
   "key": "giva",
@@ -420,8 +474,7 @@
   "usd": 100000000,
   "round": null,
   "investors": [
-   "Multiples PE",
-   "Multiples Alternate Asset Management"
+   "Multiples PE"
   ],
   "date": "2026-11-03",
   "sources": [
@@ -441,9 +494,31 @@
     "title": "Giva bags over $100 million in funding led by Multiples"
    },
    {
-    "outlet": "Siliconindia",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29MUFhmS2QxcnJLZDk3QzdFU3BkdFNXWnRpcEVtQU02UVdtSUtqeF83V3c4ODZ3U2Z4N004WW1GQ2ZXalgwNGtuTjQ2V1dsVWJuUmJOWWdVcnBwTGZvNGs1UU83WjRBd3VwSEJSU01JVGo1QjUzVHVyanVDVlFUQUNCTWtXR3JZd3M3RW5iUmpFYzJpMEZtN0VtRTU0a1VxVzZpZmtHekN4eUNNa3RuRmQwaXkxdWJneFU0WFhrOVlqbld5YkRJ?oc=5",
-    "title": "GIVA Raises Over $100 Million in Funding Led by Multiples PE"
+    "outlet": "YourStory.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEaFN1MEVDeXRJNFNYQUp6MXFLRTJCelk0aF9zZnpuQzk2MXNpM2Y5bm5nUEdIS1JZNjBndkcyTld3U2ZYMjQ0eXlNTW9lWjFLdERrX3lhalRxeDlZdDB4Tmxhb25wWUhOQmZsbGp2RUhxWTk2QkJkWA?oc=5",
+    "title": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "braid-2026-11-03",
+  "company": "Braid",
+  "key": "braid",
+  "descriptor": null,
+  "amount": 38000000,
+  "currency": "USD",
+  "usd": 38000000,
+  "round": null,
+  "investors": [
+   "Octopus Ventures"
+  ],
+  "date": "2026-11-03",
+  "sources": [
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0lJSHZCNTZZRmxJaDh6M3hHOTVzS2ZobDVIVDJuQi1wUjlxdno1WjJESmhhUGI2cHdlcm9FZG5PN1JRaERsSkpaS2xWWFVRdnFNVmlXZS1JR1dLQlJTeHJkY0xHYXdmNk40WEpJV2RCcHdtT0daRWxyUjlTelQyODlPejRFZVNzU09JeV92SGlWZ3hVYk9xVWtHWXRNZFhTbHRlUXVGcUxsOWNjekk3M29rd2JXR01zc2w2UmtaTU91MEx1QmtFM1g0RnN0SHVXeTlhVjIzdzfSAdgBQVVfeXFMUG9JSUh2QjU2WUZsSWg4ejN4Rzk1c0tmaGw1SFQybkItcFI5cXZ6NVoyREpoYVBiNnB3ZXJvRWRuTzdSUWhEbEpKWktsVlhVUXZxTVZpV2UtSUdXS0JSU3hyZGNMR2F3ZjZONFhKSVdkQnB3bU9HWkVsclI5U3pUMjg5T3o0RWVTc1NPSXlfdkhpVmd4VWJPcVVrR1l0TWRYU2x0ZVF1RnFMbDljY3pJNzNva3diV0dNc3NsNlJrWk1PdTBMdUJrRTNYNEZzdEh1V3k5YVYyM3c3?oc=5",
+    "title": "Bootstrapped since 2023, Braid raises $38 million in first funding round led by Octopus Ventures"
    }
   ],
   "indiaSignal": "strong"
@@ -468,9 +543,14 @@
     "title": "Wealthtech startup PowerUp Money raises $10 Mn led by Flourish Ventures"
    },
    {
-    "outlet": "ET Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVh4cDZ3RmlNeE1LNS1hVGlyanFnMHFfRzI3RVdvQ2xjazhZazRJQ2F2S3ZVZ2lBcFVOMW90a0JBNUZwUTNYRk01V01sS2xkMFFXaGlUcS1XejZneUdmYXBMSUNIV0U0b0R1Z1podFdHa2gzYi1sSGp1QmFLUlE1VU9DMnBaejRCOFBwdERUX0RGXzlxNUdHSFdFZE9iRFdnT0tVOXhGQ2tuVmZzZzh3RngxbEFxWVpjRFVzTXFaUdIBxAFBVV95cUxOTVF5bm9OTlVsSXE3T1Y5SWMteXFzRkRmUG1ya2o5SGt4bDBHa2lNYTB0X3ZKUHNsU1R3a0k1Y2Nlem5FeTNvWWlQbVEzSEo3RjRINzZiaUg2ZHludGpzTm13UVlnYXN6T0p6cUg0R1VaSktuN3VrTVJmRUFia2NBVnhiR2NpaFVFMFlZZm94b2R3TV9WTVFuWjdXZU93U0NlVEIxUW1JX0dfa0VZTnJ1LVBQV0g1NXZ3RFBhN0U3b2t5aDRI?oc=5",
-    "title": "PowerUp Money raises $10 mn from Flourish Ventures"
+    "outlet": "Siliconindia",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOE1tNS1PZy1YOUdBaWxYX1NOY2wzRGFWUUd4bFhQNTFxeTRBWmwtUWhJZEJvQk5JbzJ1MTc5X2JNRUFzR1BERjFqNUcxd3JGSkdYSTVKWHcyWGhQMGhfYndfU09MTHQ0S092dkNnaDFZSnBiTlBoaDNldVBvd1d1TXNJUnVnUkR4NU1UblpkdmZTTzFKdG9JcDE4bXVuWE9KdmxrYjRyU1lHWjdpZEVfR3pLRWt1a1U4ckVoS3dSSjdLWUpqNUE?oc=5",
+    "title": "PowerUp Money Raises $10 Million in Funding Led by Flourish"
+   },
+   {
+    "outlet": "Startup Story",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFJyaU9tcWlJQU1KVTJSdmVHZllpX3ZxMnpjLUhHZGVXb1E1V0d2Vi1sdWhzRXdVY3lMRkU1c2w3eEJrdzdicXQyNEFWSFFmWk91NTZuQ2wzRFVaTllCTWQ4cmJxaXpldzV4S0tJNlNYVy1aRjBMUE1CcWQxZEljYlF5UU1LbTlkcUdEZFB6WTFfejlfMXhUZHdDREJReC11c2lN0gGrAUFVX3lxTE9ZS2swTzQ5dVU4VTIxQmo1ZWhENWtuUWNvMDdFT0N5MlotQzlYSzRtWHI0QURNTHV2Y2M1bDRjbVVPOExqSWlVQk9kd1paUi1OQUZ2ZmZySHVoWGZYVXVjbnhxMF9xQkRQMmZSQlNBSEd1SGo4RF9Ja0oxY21MM1lMQ0lpOWZmc0d0clk1bEZOTk9EWk1WSHNzU1lXUFBsOTRSanpHMVJUamJMYw?oc=5",
+    "title": "Wealthtech startup PowerUp Money raises $10 Mn led by Flourish Ventures"
    }
   ],
   "indiaSignal": "strong"
@@ -595,7 +675,7 @@
   "id": "clinicsoncloud-2026-11-02",
   "company": "Clinics On Cloud",
   "key": "clinicsoncloud",
-  "descriptor": "Health-tech startup",
+  "descriptor": "Pune health-tech startup",
   "amount": 12500000,
   "currency": "USD",
   "usd": 12500000,
@@ -609,14 +689,14 @@
     "title": "Health-tech startup Clinics On Cloud raises $12.5 Mn in Series A round"
    },
    {
-    "outlet": "Asia Business Outlook",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcVNoLUctSEw5V2xWN2JrbGNrTVlBdFZBRGQ5bzh0MGVGcjNrZTZGcXR6YkJFSDNHMkVyV2JHSnotVWZ2bmd2OUg3bC0yNlNjN3Q1QmtDSHFNc2xxM0hHWGdvQ3NwZTFZa2FpYTBhMmlEdnZwcWZUVmhRa1Y0aFdnSWQ3cHVQYXJNcUdHaWVQWG5nS0RiWWFOUkRLTjR2OGlmMU1YTlZCZVpacDc4bUdZN00tNHphZi1jQ211NVZwUFI?oc=5",
-    "title": "India Clinics On Cloud Raises $12.5 Million in Series A Funding Deal"
+    "outlet": "Inc42",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWU3VVVkSlBtaUJjS0RkZW41eTFodTRCeHN2VmVrR2hSektGN3YzajB1WmhKN0xlVEhNU2U5bEduU2Njb2V3UGEtZkg2YngxTHJNLW80OENjb2JwYVc1M3pRMnI0LWdUcVduZEZENG0tckJmMWJZcTA5RWpvZW5EbklCLVQ5UFFtMEpWdHo2blRHWjhacWVV?oc=5",
+    "title": "Clinics On Cloud Bags ₹120 Cr To Take Its Health ATMs Global"
    },
    {
-    "outlet": "Tech in Asia",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2NyWWJGVnlJZkVfMHI4RjU4cmg5OThFYkhBWDBZeklyZmxBa1paY2U4QUJsWXptdnZtQnVjY0dLQ2prWEotZmwxd2J0VWlpYlBIM3l4dEwxMU1uX1RxSmFNbnE1cDhGbkZBNGNjZER5UXNWUG15MGE2cXpIbzZKbE1UQnRoYmVEUF9N?oc=5",
-    "title": "Indian healthtech startup Clinics On Cloud raises $12.5m"
+    "outlet": "Indian Pharma Post",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS09uT1d0aWsxeFJVRFlaUXFTQ1FZbWR6TVRFWmdHTzZ0WkdNdE9kQ3RZUmxiRTFmZW82TGxQM244MnRaZThIWnpRYW10dzAyck1RV3NVTEozVnJITkhfdF9EcTdia1dyWmFCZ0VPTEJ3Z1dTS3REUUwtSExLOGJzdWlvWFhDbFUwNGwzYzFnTVRLZFJNbnJ0Q3p5VXVuQ3MxbzBaQkxuUHFNakZoaGVqN09oSWxFQ1hIVHM4RTcyM3ZaYzRqbHhpM1FsYmNUQkpoYVg3UW5rakMzVFo1VlHSAeQBQVVfeXFMUGhKc1hBRkE1ZklaaC04WnFxQnI0RUI1cEhKM1owSXR2ekp5R0NwVWZITkVnZzVXWEdDeWVMMEV6djU0bjViN2xSMWZYcHRKcGJ6aExWTlQtT194S2gzLXB2cnIxSzl6Q3ZjT3JlUjZ1TjdVZUFkUUs3ekR4bjlYaGFyTHQ5WXRjM1o0T0lQa3J0QURkLWcyd01YWE4zVVJ6SFh6cE9vdjNLNTRzXzhIQUx5dnp0dTRtc3RXQ3RNNE82ZldlRkkzdWRPTTl4dGVrUEQ3VjFuZ0M1bzl1S2wtaThtZVZS?oc=5",
+    "title": "Pune health-tech startup clinics on cloud raises $12.5 million as it sets sights on global expansion"
    },
    {
     "outlet": "Indian Startup Times",
@@ -634,7 +714,7 @@
   "amount": 10000000,
   "currency": "USD",
   "usd": 10000000,
-  "round": "Bridge",
+  "round": null,
   "investors": [],
   "date": "2026-11-02",
   "sources": [
@@ -642,11 +722,6 @@
     "outlet": "Indian Startup News",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVzloc0lvNFY3VWtyMTlBQnFoRnBxRU5UMTJzOFB6bXRvaDVkYU81Z25sLUZzLWJRNHRHdkhnU1FZOHQ4djhPUG9wTTBEMW9PZUp0cUp0Tmk2TUtYSWlucGlOX0NDaWlGbGtUbkE3UlM1elc1YUFQX0lzY3Y4c2I0Yk9DLWxXM0x0Mzk3VVdrb2RLVHhyTmlscF9ZejdtV1dtVHVNREhwMXBIYlZJdkg2ck5jNFd1dTVQcDhhRVFZQUtYRDJKTkZ4YXc1b3U5YlAwOW1sNkJ1VVBIVThYNTVYLWRn0gHiAUFVX3lxTE1XOWhzSW80VjdVa3IxOUFCcWhGcHFFTlQxMnM4UHptdG9oNWRhTzVnbmwtRnMtYlE0dEd2SGdTUVk4dDh2OE9Qb3BNMEQxb09lSnRxSnROaTZNS1hJaW5waU5fQ0NpaUZsa1RuQTdSUzV6VzVhQVBfSXNjdjhzYjRiT0MtbFczTHQzOTdVV2tvZEtUeHJOaWxwX1l6N21XV21UdU1ESHAxcEhiVkl2SDZyTmM0V3V1NVBwOGFFUVlBS1hEMkpORnhhdzVvdTliUDA5bWw2QnVVUEhVOFg1NVgtZGc?oc=5",
     "title": "Climate finance startup Two Point O raises $10 million to finance clean energy for businesses in India"
-   },
-   {
-    "outlet": "Inc42",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOVpXbW0xUXVXa0p4ZzdHMmkwdHo4amJrSmR2eHFvUG40TEhISHpyMkxBTlczV2w2Nll3YUtaZjlpeGZMcWF6S3BSTXVtb3dBS1JGOVd0VktKUTNTVXRMWDVxLVp4Y0lCQWl4MmQ1d05BeUVKZllObWRVTUdTNnpZUFlUeXpjZV9BT2ZpaS1EaXdkMVVF?oc=5",
-    "title": "Two Point O Bags $10 Mn To Bridge The Financing Gap In Clean Energy"
    }
   ],
   "indiaSignal": "strong"
@@ -694,11 +769,6 @@
     "title": "Hyeglo Beauty Raises Rs 7 Crore in Funding Round Led by Sauce"
    },
    {
-    "outlet": "Siliconindia",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTdsSjNVZ09qbmdLSFhQWHRydXBaazJyS0Nnb1JudmU4TWFhQVhtSVp6YjRfbmlNZXpIZXY3VV9MelRQZGtvSEcxMkgycFhXSThIeHJaQkxRZnA1TG4xSHk4TndiaW9FOG9qMFN6b0pUb0FXUHNOT3NuRk5FbmpXTTI1MERydF96TjJjVmRGclN5ejZSMnRtSGZSemN1SjlKaW1EcU5MNmpKcVNRLW5lUmdOSTNNclp0YmdTQ2hCV3AxVElTLS1ETU1n?oc=5",
-    "title": "Hyeglo Beauty Raises Rs 7 Crore in Funding Round Led by Sauce"
-   },
-   {
     "outlet": "The Economic Times",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdGxqSDFkTlU5cE9PcVlfWGc0czhhY3U4b0pwUFNsU0JhVFNUeWdkTzh1dWNqaDhja2VYSlZ4U1ptbDAwNHJLdXJrSUhLX1ZpOVhiS19yMmFvXzlwQ3hTdHpVNTBLVUFFOVI3VkZLbFJnU09ZaC1KYU0zX0dPX1lOOVhBbC1rN1NWeGs3RFFPeDM5aWZybFRvcnNBSTdFQ0FScFIzSDlHQU1pYXE1Wlp3SnhPWnNNYlA0cjhoRUVrdkYyeEVqNFNiaVBlcVlEQ0hWRkNLeks3djZpemxSdlow0gHkAUFVX3lxTE5Eb296XzlKbTJlbFVtdzIwVHI4SFhsaFlIdURkemtZc2lDb1NrdHpQY1FLdHI1eFhJb0ZTQ2FnVjdqOUQtd0x0d1R2czZEaVFNM3FLTkZVTlNzMHZTUF9RdlRwNzZsRjlVWkVlTGxRN2Z2LUdYZm1KeHJIMFp5OUNkRkIzYVUyNE1kRHNEYlNUYkZob0J0WFpadzdQTWZMcnVKd0M5UGNqNUlCN19pWWVMZ0dBZVJwRV91U0h1V2xpaGlxM3ZTalFfZXh4SDdZT1dGbFFHcUd2SHFIU2tZZC11WTRJVA?oc=5",
     "title": "Beauty & personal care brand Hyeglo Beauty raises Rs 7 crore funding led by Sauce"
@@ -741,9 +811,9 @@
     "title": "Dispatch Network Raises Rs 5 Cr In Pre-Seed Round Led By Antler India"
    },
    {
-    "outlet": "Indianweb2.com",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEZ0b2MxVnltQ2pBUFFVMkdvQUQtc29WdkJIRmJ4bU9xaUFDRlhfN1I5WVdhSE9FTXRoZlVic3l6d1hNbTZKeTdPT01VdVo1MmpFQkpGeVowMG1UM2dNZ0xBd200MW96eXZjSWZPblhiWDlEV19WZlFrc21MZVpHeQ?oc=5",
-    "title": "Dispatch Network Raises ₹5 Crore Pre-Seed Round Led by Antler India to Boost Rider Earnings with AI-Powered Logistics"
+    "outlet": "Machine Maker",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1FRR3JJY1ItRHhKc1JrZm5yUl85aFR6OEoxaDE1UHBib1pudXRTOHpUQXBmRGpINUdGREhCR2lqTUdHb01TV1NiRXlqNnl5Q3VMZWlHRG9Hd05nSDE2UHBrY2l4WUU4LVBPUWdXYS1XbTEtOHB0TjBZdlJ2QmM2STBydFd6LXhnbGNTb0NmWXdNaEpVQTJqeEk1MFJBQi1yc0lDNWJJMGVYWldTMm10WVVoU00?oc=5",
+    "title": "Dispatch Network Raises ₹5 Crore in Pre-Seed Funding Led by Antler India"
    }
   ],
   "indiaSignal": "strong"
@@ -912,6 +982,26 @@
   "indiaSignal": "strong"
  },
  {
+  "id": "game-2026-10-30",
+  "company": "Game",
+  "key": "game",
+  "descriptor": null,
+  "amount": 300000000,
+  "currency": "INR",
+  "usd": 3409090.909090909,
+  "round": null,
+  "investors": [],
+  "date": "2026-10-30",
+  "sources": [
+   {
+    "outlet": "Inc42",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGtObFFidHEwRHo1VFY2U2Y1MTJ0dVZqc3VlLTN1T2hHZFlpQUhfbDg1MUZ0MkR1elRLN3djZVNQRThvbXBsNi00a1VfcnVuRzlVb3l6SGRNQzlLaFd1ZnAxZHo1SkNHOEJDZmEwdnBncEVDSUU1U0ZrcV9lSEY4aGdwZW5GRkEzeE5sWEdueEFFVWlsNzNZSEpR?oc=5",
+    "title": "Let’s Game Now Bags ₹30 Cr To Organise More Esports Tournaments"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "bijnisrebrandsaszorit-2026-10-30",
   "company": "Bijnis Rebrands As Zorit",
   "key": "bijnisrebrandsaszorit",
@@ -929,6 +1019,26 @@
     "outlet": "TradingView",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObzg0bmMxN3pMOGp5SkRmRW5DRzZWRXh6UnJYaEFGSEVudjYxU1hKTS1jcGNadnlmRlV0Y1QyY2RLQVRCMjFnMVktS3NTNVNxdmhkanJoNC1YU1VhaXJNNW15S3ZpOXI5cjRhcng0OVVmbldsVmtXWXJfVmRNdVNEdEhiM1YyOG45NkhrVlNKZ2d6VlMyZnUwLTlFMTRFNXlYWWVWR25aeTd6dE8xOW5XcEZmaFQwQjJZblp2dHdSbzdaZmxTSVJtOGctUQ?oc=5",
     "title": "Bijnis Rebrands As Zorit, Raises Rs 27 Cr In Funding Led By Sparrow Capital"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "zorit-2026-10-30",
+  "company": "Zorit",
+  "key": "zorit",
+  "descriptor": "Bijnis rebrands as",
+  "amount": 270000000,
+  "currency": "INR",
+  "usd": 3068181.8181818184,
+  "round": null,
+  "investors": [],
+  "date": "2026-10-30",
+  "sources": [
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRWFRU0FwYV9vU3ZJM1Q1aVlOS2lOU3llZ3VyaEdTODg2TU9VbmF5d0pKeGZtZkhoM0VoZUtqOXNicGNtdlBXZ3BxMEppX3VCd085aFVrZnBUY1BYT1M4UXl5dC14SHNoMHdydURvRkl3REhxTW5IZ2tyZDZnZmM2bVpOZndkR2NFVUplU3ZIcHMwLWpOUzJQMzIwSDNkcUtZelZ2TzNndC1Ocjc4WjhvMGFEYkZ1M1VpNWRFV3hnNXFfTURRczNCN0NB0gHKAUFVX3lxTE9FYVFTQXBhX29TdkkzVDVpWU5LaU5TeWVndXJoR1M4ODZNT1VuYXl3Skp4Zm1mSGgzRWhlS2o5c2JwY212UFdncHEwSmlfdUJ3TzloVWtmcFRjUFhPUzhReXl0LXhIc2gwd3J1RG9GSXdESHFNbkhna3JkNmdmYzZtWk5md2RHY0VVSmVTdkhwczAtak5TMlAzMjBIM2RxS1l6VnZPM2d0LU5yNzhaOG8wYURiRnUzVWk1ZEVXeGc1cV9NRFFzM0I3Q0E?oc=5",
+    "title": "Bijnis rebrands as Zorit, raises Rs 27 crore in funding for 60-minute B2B deliveries"
    }
   ],
   "indiaSignal": "strong"
@@ -962,20 +1072,13 @@
   "currency": "INR",
   "usd": 170454.54545454547,
   "round": "Pre-seed",
-  "investors": [
-   "ISV Capital"
-  ],
+  "investors": [],
   "date": "2026-10-30",
   "sources": [
    {
     "outlet": "https://ascendants.in/",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3A2R24xRS1WaHM1azFJbmlhREk2QURwZXBqNmoxZXhfcHdCRC1mRm90UjktV0l4dGRFWlYyek9vaUtKT192REVKXzBJdm5GeGEzLXI5aWw4Tzl0LXdPYU5LeHlZdHh3eUJtdm9acVdyWVRkeGZDMmNaNHVaTlNvbHB5UzFwSlBZcUZBVWFBQ2hRZloxTmZIdjVFandVbkNtQ1FRclJjSQ?oc=5",
     "title": "Qiroko Raises Rs 1.5 Cr in Pre-Seed Round to Expand Beyond Jewellery"
-   },
-   {
-    "outlet": "D2c Insider Pulse",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHY4eWxUY3FDVmZVUEFkaUxrSElDWkRBaHFKR3NFd2JDZlh1MnFrMnJtMWptSS1fR18zQk5Jd1NNaWFadVlCclJuaU1LNVZwRjYwNlhHSXB6S2lNTWZvUTNHSC16ZElwYVNKYldENVFSTkRRSjBlM0FwQW53Qkc4Mzc4MWRrSlpyeUJFdWVjNkZ6c3RFSDRYbk5iSjRFdjA?oc=5",
-    "title": "Qiroko Raises ₹1.5 Crore Pre-Seed Funding Led by ISV Capital"
    }
   ],
   "indiaSignal": "strong"
@@ -1001,50 +1104,23 @@
   "indiaSignal": "strong"
  },
  {
-  "id": "braid-2026-10-29",
-  "company": "Braid",
-  "key": "braid",
-  "descriptor": "Profitable Dutch startup",
-  "amount": 34130000,
-  "currency": "EUR",
-  "usd": 37543000,
-  "round": null,
-  "investors": [
-   "Octopus Ventures"
-  ],
-  "date": "2026-10-29",
-  "sources": [
-   {
-    "outlet": "EU-Startups",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUxlVDVFaXd3LWI4VlhBT1R4WmVZbHNadXJWeWNXeFVvc0ZqRDlWendhRW1XTzFpSjNtdlBrUDNUYThFTGFYWXNRZm1zNVBIS0VuRmFON1pUaDJsNFlqc1NZZHYyZXpHQy13RWhYU3RBTUtUQWpSNnUxajB0blJaYldVQ1Qwbm9ZMXpLd0gtZUtvaXN5Nzd4c19CUzNfcTFqcUNVYW5hMV9pZlpaQzE4ZklEcWpKTk44YWVEV2hzNXVsY3p2LW9NWThNMjVHUQ?oc=5",
-    "title": "Profitable Dutch startup Braid raises €34.13 million to help brands launch their own mobile connectivity - EU-Startups"
-   },
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0lJSHZCNTZZRmxJaDh6M3hHOTVzS2ZobDVIVDJuQi1wUjlxdno1WjJESmhhUGI2cHdlcm9FZG5PN1JRaERsSkpaS2xWWFVRdnFNVmlXZS1JR1dLQlJTeHJkY0xHYXdmNk40WEpJV2RCcHdtT0daRWxyUjlTelQyODlPejRFZVNzU09JeV92SGlWZ3hVYk9xVWtHWXRNZFhTbHRlUXVGcUxsOWNjekk3M29rd2JXR01zc2w2UmtaTU91MEx1QmtFM1g0RnN0SHVXeTlhVjIzdzfSAdgBQVVfeXFMUG9JSUh2QjU2WUZsSWg4ejN4Rzk1c0tmaGw1SFQybkItcFI5cXZ6NVoyREpoYVBiNnB3ZXJvRWRuTzdSUWhEbEpKWktsVlhVUXZxTVZpV2UtSUdXS0JSU3hyZGNMR2F3ZjZONFhKSVdkQnB3bU9HWkVsclI5U3pUMjg5T3o0RWVTc1NPSXlfdkhpVmd4VWJPcVVrR1l0TWRYU2x0ZVF1RnFMbDljY3pJNzNva3diV0dNc3NsNlJrWk1PdTBMdUJrRTNYNEZzdEh1V3k5YVYyM3c3?oc=5",
-    "title": "Bootstrapped since 2023, Braid raises $38 million in first funding round led by Octopus Ventures"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
   "id": "aceblend-2026-10-29",
   "company": "Ace Blend",
   "key": "aceblend",
-  "descriptor": "Nutrition startup",
+  "descriptor": "Supplements brand",
   "amount": 9910000,
   "currency": "USD",
   "usd": 9910000,
-  "round": null,
+  "round": "Series A2",
   "investors": [
    "3one4 Capital"
   ],
   "date": "2026-10-29",
   "sources": [
    {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUctY3U3cy1EdkloSlhKNlJfTVhyRUJPdkQyQnFGV0ljdEhHRkVhQ0dBUk5TeFRpZXVIMDJtUXRyTWRXdUV2VkhncGtrQXhfbzlFYnhLbWxKTjlhdEFZcm9XUThKY3dZOUVUTVpaSU9hcHN4d3NDaDI4aC15MTA2VURvbE1FVDJxcWg5eFREYl9EbHRmTlhOZ1lfVko3SGxjdG9J0gGjAUFVX3lxTE5JRy1jdTdzLUR2SWhKWEo2Ul9NWHJFQk92RDJCcUZXSWN0SEdGRWFDR0FSTlN4VGlldUgwMm1RdHJNZFd1RXZWSGdwa2tBeF9vOUVieEttbEpOOWF0QVlyb1dROEpjd1k5RVRNWlpJT2Fwc3h3c0NoMjhoLXkxMDZVRG9sTUVUMnFxaDl4VERiX0RsdGZOWE5nWV9WSjdIbGN0b0k?oc=5",
-    "title": "Nutrition startup Ace Blend raises $9.91 Mn led by 3one4 Capital"
+    "outlet": "BW Disrupt",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRThkNThBMnFmdENQQjA2azU1WVdZRDdORVg1WFVkYmRyeVJYczFYWTYydWdVaXNyd0RWSXVzTEpESFlSMndMZEF5Ml9uMkRxMHV5VW1iUWNKNWRfNkJxWS1RN3kxSnRmZ3JtazljV1lCbWNpRGZWbXpBYVNnZm81RlpaZngxZDJqMlkzRGRnMnpURVRoZUY4UWRHZzlIdzI1V3JCVTY0al9pYjQ?oc=5",
+    "title": "Ace Blend Raises $9.91 Mn In Series A2 Round Led By 3one4 Capital"
    },
    {
     "outlet": "YourStory.com",
@@ -1055,26 +1131,6 @@
     "outlet": "Indian Startup News",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV3V0MVBoemhxaEN0MDRqQTZBb09yRHJVWVctc0hBQlJyLXNTMjVVcTAwM2lVLWFRRmtlcS0wOWFZdWtvT2JqSVI3Yll6VDR2RDc2Tm5KRWFYN0x3c1RVSFdJRGwtZnllbnhkQ3hKNmZZQU5vVl9tQmFwc0F2dVRqb05La2RiYmkwc2NtRlB5dFJaaDM1LVp3bjFYbjFWdHQ3TXNoR3gtVUFaWGdEMmhUc3J2NHp2SG9fLXNXWGgwSnFjS2hZS1lqZmVBZHo1d9IBzgFBVV95cUxPV3V0MVBoemhxaEN0MDRqQTZBb09yRHJVWVctc0hBQlJyLXNTMjVVcTAwM2lVLWFRRmtlcS0wOWFZdWtvT2JqSVI3Yll6VDR2RDc2Tm5KRWFYN0x3c1RVSFdJRGwtZnllbnhkQ3hKNmZZQU5vVl9tQmFwc0F2dVRqb05La2RiYmkwc2NtRlB5dFJaaDM1LVp3bjFYbjFWdHQ3TXNoR3gtVUFaWGdEMmhUc3J2NHp2SG9fLXNXWGgwSnFjS2hZS1lqZmVBZHo1dw?oc=5",
     "title": "Supplements brand Ace Blend bags $9.91 million, eyes Rs 250-300 crore ARR in 12-18 months"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "game-2026-10-29",
-  "company": "Game",
-  "key": "game",
-  "descriptor": null,
-  "amount": 300000000,
-  "currency": "INR",
-  "usd": 3409090.909090909,
-  "round": null,
-  "investors": [],
-  "date": "2026-10-29",
-  "sources": [
-   {
-    "outlet": "Inc42",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGtObFFidHEwRHo1VFY2U2Y1MTJ0dVZqc3VlLTN1T2hHZFlpQUhfbDg1MUZ0MkR1elRLN3djZVNQRThvbXBsNi00a1VfcnVuRzlVb3l6SGRNQzlLaFd1ZnAxZHo1SkNHOEJDZmEwdnBncEVDSUU1U0ZrcV9lSEY4aGdwZW5GRkEzeE5sWEdueEFFVWlsNzNZSEpR?oc=5",
-    "title": "Let’s Game Now Bags ₹30 Cr To Organise More Esports Tournaments"
    }
   ],
   "indiaSignal": "strong"
@@ -1110,7 +1166,7 @@
   "id": "venttup-2026-10-29",
   "company": "Venttup",
   "key": "venttup",
-  "descriptor": "Industries startup",
+  "descriptor": null,
   "amount": 3000000,
   "currency": "USD",
   "usd": 3000000,
@@ -1132,9 +1188,9 @@
     "title": "Venttup Raises $3 Mn To Bridge India’s Precision Manufacturing Gap"
    },
    {
-    "outlet": "BusinessLine",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT0E1aS1qRmVzck5panRraWpaV1VzcWZsbHM3dnR6SVdCZTdUOHQydGdMQ2psMjlkc00wX1AxS05DM3MtVm55OUM5ZmExT1JSanNRRkxGQ1lJUTRxZnJEcnRmVlZabDhXZnRuUzVuT3BidmlmSi1MVHRUMXBSUFpxN2lUcVk3OW0xT2VDQ0RLT1NDX0dFdHlYTVcxdEVnVC1wUk9nUm52blVKZ3U2ZTRTY2JVUmVQZ3NmbkJnck05V0dNa2pRb1lvUll3d29WaTY3UFVyTThFQkFReFhm0gHjAUFVX3lxTE9RU2F2UEJ4OUlHV2UyZmxMdzJxZ3N5ZTl3R0NuUjlIN2RmdW5lOHNMdUNEU3pZVkZHSXM3S21NTnNuTUQ0Zm53Y0RqalFtT2JTWVNpTDJNT2FZQlRMWWVFQW1XdFh6SVkwdVZXdVIzVkptRGR5NEpzQ1FlbE9qUkROU2dyR2RMMTEzU0pSX2N0U1NtX2ZDTnRtOWs0cWpzQkFlYzlEbE00bWtoQU1oeHAzV3FFZHVmM1N3MllwVnBqZkJxbS1JT0h2U0JlWV9GVWJKV1pGS1NIZXFQeFpXVm16NXEw?oc=5",
-    "title": "Kochi-based Industries startup Venttup raises $3 million in Pre Series A round"
+    "outlet": "Siliconindia",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG45LVZxaEdrWFpzN295MGhPc0t2TzlsRVdjUGZaSkF3WFFBTExkdVpWdTNiSTU1cGpyU2k2RG1sWGVUc2o1RmtTbkVzY3RLZEJYejVxTHcwUDdQc3JLaUhNcF9YMTZZV0kwbE9vbkprZ2JMamJnR3VEMEF6NmZJdG8yRXp1bF9xbDRrVi1CendMYUhyS3M3TjYxX1RqOFJ0U19hQjVTeHRlaUZoVmJBZGxmRk9NdTFkdFh1bS00d2lWRGxha3lkNVkzd00?oc=5",
+    "title": "Venttup Raises $3 Million in Pre-Series A Round Led by Rainmatter"
    },
    {
     "outlet": "ET Entrepreneur",
@@ -1145,32 +1201,10 @@
   "indiaSignal": "strong"
  },
  {
-  "id": "qwikbuild-2026-10-29",
-  "company": "QwikBuild",
-  "key": "qwikbuild",
-  "descriptor": null,
-  "amount": 2300000,
-  "currency": "USD",
-  "usd": 2300000,
-  "round": "Pre-seed",
-  "investors": [
-   "Globalway"
-  ],
-  "date": "2026-10-29",
-  "sources": [
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkVRWUpqVGhqalpmMGVRSFF5VU9QQnQzYVhGMzVudEdpQmE3dnU1b3NQWkRpa1JtVU1qalI5a2V2S0tRYWZWT1FkdGM2Y2RJbVNNYVZwdEVwWGRkcS04MjZHazdGdG5RS0d2NThpM05kMmZKWWk1NEtCOXA5cW1TeFJtSTFBOFBlN3NRT1lQTlViX0htczVERTlEeVdxNENpRnBhUjlYX0xubVdUeXBvVg?oc=5",
-    "title": "QwikBuild Raises $2.3 Million in Pre-Seed Round Led by Japan’s Globalway"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
   "id": "coratia-2026-10-29",
   "company": "Coratia Technologies",
   "key": "coratia",
-  "descriptor": null,
+  "descriptor": "Underwater robotics startup",
   "amount": 180000000,
   "currency": "INR",
   "usd": 2045454.5454545454,
@@ -1184,6 +1218,11 @@
     "outlet": "ET Entrepreneur",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb3h4XzdZZm12Y3RTSUJRc0VaY25xTU50bWlPc0pGYTBDSF8tcE9OUFdIb1Z2WVk4R25CX3lkQVBBVzFSVEpqLTZzNUZyZHQyMVhKbVI2ZVoyTVYyQTN1LV9xX25xVXEyMGY3ajhUclNTczU0TF9idXlMYW5uUlNxNlVrUjZ0Qk5lNlBaNjVTVl9FOXQ1Ulhjb1N1Uk1WRHlEU2lSa2EwUllGVDlOZ3RneDdLeWZGTjdMS3B5alFoNFh6UWxFMUFjTVR3aEQ0MzJfZGfSAdcBQVVfeXFMTTFQOFFrVER2T0FTY3RaT25zaURYb3FJVFRhSWxXZms5Smp5M1k3aFkwVWpjR1cwZTJsejlyTXZFVHlkTGxDNXVMSldHMnJrMTBabWw5MG5RTS1JVW9WeEhkaW9rXzlBVnNRVjY0TGZxR3ozb1I5RGtXUGN6Zm1TdllFanFma21QMmlhYy00ZXRCRC1kSjhRTUY5endNWlVjSEt6US0wQW9FeEVqX0t6Qk00QXNFeUlPMnZIZFdHYWlHVi1WSkY1amhXa1lJb0pZT181M0xmSFk?oc=5",
     "title": "Coratia Technologies raises ₹18 crore funding led by MGF Kavachh"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSFl2YjJlRjVzZzM5Wm1hWEQ1R1BmQVBGYkdvWFVDWExiQUt6cG84YXl6dDBrME5lS3VGVWxRdFZQVnBUM2dyTW5nQjlHUGphSmxkMVo1SUl3a3ZPQU0xVVF2SjNKUWVWVHhxdWlwanoxazNkZ3doMVpFOUsxdVZWdXV0Qm9BSm1vTFVqRFFuUUpvSzFXWGtiZVB5RS1lUldxR2hCUXdnenFIeTBQR2t2Rnlwc0w2RGZWS19XUnlOLWdENXFCdjdGTS1FdFhWOTlCcWNHWEhUWTLSAdgBQVVfeXFMTkhZdmIyZUY1c2czOVptYVhENUdQZkFQRmJHb1hVQ1hMYkFLenBvOGF5enQwazBOZUt1RlVsUXRWUFZwVDNnck1uZ0I5R1BqYUpsZDFaNUlJd2t2T0FNMVVRdkozSlFlVlR4cXVpcGp6MWszZGd3aDFaRTlLMXVWVnV1dEJvQUptb0xVakRRblFKb0sxV1hrYmVQeUUtZVJXcUdoQlF3Z3pxSHkwUEdrdkZ5cHNMNkRmVktfV1J5Ti1nRDVxQnY3Rk0tRXRYVjk5QnFjR1hIVFky?oc=5",
+    "title": "Underwater robotics startup Coratia raises Rs 18 crore as it builds robots for the Indian Navy"
    }
   ],
   "indiaSignal": "strong"
@@ -1223,8 +1262,7 @@
   "usd": 568181.8181818182,
   "round": null,
   "investors": [
-   "doctors using the platform",
-   "35 investors"
+   "doctors using the platform"
   ],
   "date": "2026-10-29",
   "sources": [
@@ -1234,19 +1272,9 @@
     "title": "Docterz Raises ₹5 Crore; Doctor-Users Contribute Nearly 60% of Funding"
    },
    {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGVhZTRfS0dIbTVNb2Qwa1FoaVdfRUFYN3NCUjYxNllkSll2SUZCVnVVb3hHUnBmeUJ1RXUyUzJaNUpRcXlWYlM0WXBRQmJ5RFNYdEVydExvZ2VpMDNWVG5wSHJ5TlNQM0wxY2hZcTBRM3VjOTRVblhaTXljOHJtTlk5OEtyMUlpcHVVV2NtNERKRkI5SGZzRWpXR2ZnRVU0VGktaUs2OVc?oc=5",
-    "title": "Docterz Raises Rs 5 Crore, With 20 Doctor-Users Putting In Nearly Rs 3 Crore"
-   },
-   {
     "outlet": "ET Entrepreneur",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaDBBMnBZZXZyUXZJUlRhMjRPNWhyVTVDWndRZEZ1b280aURPbklpZEFNMFpmYk5ER0tvaHJBcFM0ZE9md1NRakhObXhnZWZDbkREUnNTaDZGdzJ3NFlLaEhydGZycG8yRU9XU2tWTTRfSzg1di1QZkN2em9DYjg4Q1dGczhMaEJHX1Fxa2FJUGgzaUhKY1dkaGxlRW1rRVFpVDA3NzJyU1ZyeU5hVVFBeWRfd0pBMnc2Yi1tc1dGOHo5TnJPbHIwSXF2cmF0YWZfb2h30gHYAUFVX3lxTE1zSVVOTVh4WFI0LWk2TUlsNzRxOFBjS1prbDFZU0JKaUY3QmhRX01MVTNwZTZyMHdZUFBROTNEODRhUll2OUx1SHR0emFCcXNJb0dPYmtGNFF4b2NRNThkaUdfcDBOU01DdDJmT0Z1T3JfT1ZZclFyblNpVkI3ek9uUUFPdi05b3NJdDV6RHV2djNXV1NkYndua2dOelo0WHhucjR2TTdfTHQxRDFLNnBMSmU0ZFJYbmJ6ejNSd01MRF9RRGJMWm9GTFYyQkJpSVJLSXJVYTJyZg?oc=5",
     "title": "Docterz raises ₹5 crore, nearly 60% from doctors using the platform"
-   },
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYWZieE5vTVJIQW9sMlJfLWdjZTlFWmhWQUJaMHM0UHZxc0RKLW9WUHN3dmw1RVl6cG9ZUy1kYWlROEpOWU9DUUJzUEdBajhLb2lVVnhuM2hPOFpEb2h5V0lQYkJ6RnpsNmFsM3ozMXFheWsxZGI5ZEpqYkJXbWRkNGdkS1YydWd0a2FRbWppTjEweU9jRjdrOWdITVc1UFhfUnk1eDJab2g3NW5mVWFLTHBXTjZiMDV4bG5Bb0RpMVhlRkFPTE44a290WGNpcnFLLWRXbkQxYUdSZWYwd1HSAd4BQVVfeXFMTWFmYnhOb01SSEFvbDJSXy1nY2U5RVpoVkFCWjBzNFB2cXNESi1vVlBzd3ZsNUVZenBvWVMtZGFpUThKTllPQ1FCc1BHQWo4S29pVVZ4bjNoTzhaRG9oeVdJUGJCekZ6bDZhbDN6MzFxYXlrMWRiOWRKamJCV21kZDRnZEtWMnVndGthUW1qaU4xMHlPY0Y3azlnSE1XNVBYX1J5NXgyWm9oNzVuZlVhS0xwV042YjA1eGxuQW9EaTFYZUZBT0xOOGtvdFhjaXJxSy1kV25EMWFHUmVmMHdR?oc=5",
-    "title": "Docterz raises Rs 5 crore from 35 investors to build AI tools for doctors and explore acquisitions"
    }
   ],
   "indiaSignal": "strong"
@@ -1255,7 +1283,7 @@
   "id": "tensrai-2026-10-29",
   "company": "Tensrai",
   "key": "tensrai",
-  "descriptor": "Physical AI startup",
+  "descriptor": "Hyderabad physical AI startup",
   "amount": 34000000,
   "currency": "INR",
   "usd": 386363.63636363635,
@@ -1269,9 +1297,19 @@
     "title": "Physical AI startup Tensrai raises Rs 3.4 Cr in pre-seed round"
    },
    {
-    "outlet": "Bharat Fast",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSTFQLThmbkdUQ3hzLWktSUZQNnRqWjNJam13cG1hZ3J3c1lyQXo2UTkySE1pU3J6MWF3aXZvdWlOeEU5WHFIQktmSGtTNExhY2lPbEtPRkhDdzYzZkFaekRoOHR5UTFKMmptZ09WUHlWN0JKd05ZZERxR0lHWEwwTnNaN1F6ZkNSaVExVTF0Mmc4cU9ROUNB?oc=5",
-    "title": "Tensrai Raises Rs 3.4 Cr Pre-Seed For Physical AI Retrofits"
+    "outlet": "Siliconindia",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWJJVXlpcWhLZW9uNnNXdnpCVnpfUzBKLW5aWHZySnJxSnhFSkREbUJMa0x1UkU2Qm5yaE56dkNmQWxza0dEMktNVTJwMlZYV1JSQ2s4dUtLbTU1cExtYm8xb3NUY0VtMTNoLW5QY2FlNEFhMGEzdGRzRzgyTWNGWnU1ZkJWUjM4UDM3VkRmamJZSGFMR0MxZnRFem1TUDhpMVYzbk9yWVplT2ZSX3hZZEYyY3JNc1NnLU5zVEtBQTlFdGgxYXlqVy1OZ3g?oc=5",
+    "title": "Physical AI Startup Tensrai Raises Rs 3.4 Crore in Pre-Seed Round"
+   },
+   {
+    "outlet": "https://ascendants.in/",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUc3UWQwU2EwUFBPSjlUOFpEZHpVLXByUTlXRUp1cGVlakFnUHNOakpYamJfQ29pek03UEU1Z3E0WkhkYVVzNmpKN25aLXRuYjRWclhIY0RtQTdNT3RqT2pTVWNzdEl4WktNQWdOc3ZDejNHRzE3WU40ZVRtVUtkTm9WNnZjWE83aTNrbTdhOXQ5V2pEa1MwLXp4Tm9iMmpPMXNJ?oc=5",
+    "title": "Tensrai Raises Rs 3.4 Crore to Retrofit Existing Machines With Physical AI"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjJTUjRfaFRkdEFWWFpkQjlqd1VMWTNGT2Q1V3BOMVpJQnloaU1DMmVjLWVjUE1YcDM2cHdwaDJyOG9iUmg5OEFWcmFXUWR1Q1UzWmp2c0xUdHZKRWsxSXFLVDhOVTVCdWFJOTdCYWRkem52NVVZamVmM2JTb0ZWWnZEXzQzQXo1U3pfRS1SalN1YlBVUUVEb1c2ZzlBQ0phUlA5N2xCek1LVUNfY2ZGbVRsMzRaWUFkY1ZYcmlvZzRMd29wcmd6bVRnT1lscVFyMENvQVFWQ1FRR3dQajMw0gHfAUFVX3lxTE1yMlNSNF9oVGR0QVZYWmRCOWp3VUxZM0ZPZDVXcE4xWklCeWhpTUMyZWMtZWNQTVhwMzZwd3BoMnI4b2JSaDk4QVZyYVdRZHVDVTNaanZzTFR0dkpFazFJcUtUOE5VNUJ1YUk5N0JhZGR6bnY1VVlqZWYzYlNvRlZadkRfNDNBejVTel9FLVJqU3ViUFVRRURvVzZnOUFDSmFSUDk3bEJ6TUtVQ19jZkZtVGwzNFpZQWRjVlhyaW9nNEx3b3ByZ3ptVGdPWWxxUXIwQ29BUVZDUVFHd1BqMzA?oc=5",
+    "title": "Hyderabad physical AI startup Tensrai raises Rs 3.4 crore to make existing machines run on their own"
    }
   ],
   "indiaSignal": "strong"
@@ -1299,28 +1337,28 @@
   "indiaSignal": "strong"
  },
  {
-  "id": "zorit-2026-10-28",
-  "company": "Zorit",
-  "key": "zorit",
-  "descriptor": "Bijnis rebrands as",
-  "amount": 270000000,
-  "currency": "INR",
-  "usd": 3068181.8181818184,
-  "round": null,
+  "id": "qwikbuild-2026-10-28",
+  "company": "QwikBuild",
+  "key": "qwikbuild",
+  "descriptor": null,
+  "amount": 2300000,
+  "currency": "USD",
+  "usd": 2300000,
+  "round": "Pre-seed",
   "investors": [
-   "Sparrow Capital"
+   "Globalway"
   ],
   "date": "2026-10-28",
   "sources": [
    {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGFkTEVwaHJBZFhUSEM4N2h4T3hwTi1VU0dJdThsQkpBTl9tYUlnMHh4LU1KTUVQd0MyYm1GaEh5U3dPVG5DR2JKZWQyLTRrSElzWUtsVFlCZWpQQmdUeG53TW1DYmRTTnlndXkwUy1tS3RjcmZyeUpVSUpmRFRkQkNBbVE1U0Q4UmpxRXJtTF83YVpEeFBIWVJVMDNaajTSAZ8BQVVfeXFMTkRhZExFcGhyQWRYVEhDODdoeE94cE4tVVNHSXU4bEJKQU5fbWFJZzB4eC1NSk1FUHdDMmJtRmhIeVN3T1RuQ0diSmVkMi00a0hJc1lLbFRZQmVqUEJnVHhud01tQ2JkU055Z3V5MFMtbUt0Y3JmcnlKVUlKZkRUZEJDQW1RNVNEOFJqcUVybUxfN2FaRHhQSFlSVTAzWmo0?oc=5",
-    "title": "Bijnis rebrands as Zorit, raises Rs 27 Cr led by Sparrow Capital"
+    "outlet": "Siliconindia",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzJ4X21hQ0l0YlJ6RFlVTHBaSXljblo3SS13Qlg4Qzc3eDBRblRlZTdLQzhHVWFuRmlMNThlM0ZvTEFVU2x1Y242dHJlanhqY0ZmNmpDOGhBdFdPLWNHUDlTWnNLVVFfSTZSUXFoQnlJYWNyQWRnWmZHdUFEaWs2Mzc0NmFVMU11d1NxeUlaY2tsd0d0NG1UWDZRbS1SY2F3cVZCZGtZZHFMbV9kSUZtWWVwSldCdTlTYXpSZk56NHFKSmw0Z2JMOTdLZnA?oc=5",
+    "title": "QwikBuild Raises $2.3 Million in Pre-Seed Funding Led by Globalway"
    },
    {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRWFRU0FwYV9vU3ZJM1Q1aVlOS2lOU3llZ3VyaEdTODg2TU9VbmF5d0pKeGZtZkhoM0VoZUtqOXNicGNtdlBXZ3BxMEppX3VCd085aFVrZnBUY1BYT1M4UXl5dC14SHNoMHdydURvRkl3REhxTW5IZ2tyZDZnZmM2bVpOZndkR2NFVUplU3ZIcHMwLWpOUzJQMzIwSDNkcUtZelZ2TzNndC1Ocjc4WjhvMGFEYkZ1M1VpNWRFV3hnNXFfTURRczNCN0NB0gHKAUFVX3lxTE9FYVFTQXBhX29TdkkzVDVpWU5LaU5TeWVndXJoR1M4ODZNT1VuYXl3Skp4Zm1mSGgzRWhlS2o5c2JwY212UFdncHEwSmlfdUJ3TzloVWtmcFRjUFhPUzhReXl0LXhIc2gwd3J1RG9GSXdESHFNbkhna3JkNmdmYzZtWk5md2RHY0VVSmVTdkhwczAtak5TMlAzMjBIM2RxS1l6VnZPM2d0LU5yNzhaOG8wYURiRnUzVWk1ZEVXeGc1cV9NRFFzM0I3Q0E?oc=5",
-    "title": "Bijnis rebrands as Zorit, raises Rs 27 crore in funding for 60-minute B2B deliveries"
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkVRWUpqVGhqalpmMGVRSFF5VU9QQnQzYVhGMzVudEdpQmE3dnU1b3NQWkRpa1JtVU1qalI5a2V2S0tRYWZWT1FkdGM2Y2RJbVNNYVZwdEVwWGRkcS04MjZHazdGdG5RS0d2NThpM05kMmZKWWk1NEtCOXA5cW1TeFJtSTFBOFBlN3NRT1lQTlViX0htczVERTlEeVdxNENpRnBhUjlYX0xubVdUeXBvVg?oc=5",
+    "title": "QwikBuild Raises $2.3 Million in Pre-Seed Round Led by Japan’s Globalway"
    }
   ],
   "indiaSignal": "strong"
@@ -1350,6 +1388,26 @@
   "indiaSignal": "strong"
  },
  {
+  "id": "shitalkumari-2026-10-28",
+  "company": "Shital Kumari",
+  "key": "shitalkumari",
+  "descriptor": null,
+  "amount": null,
+  "currency": null,
+  "usd": null,
+  "round": null,
+  "investors": [],
+  "date": "2026-10-28",
+  "sources": [
+   {
+    "outlet": "YourStory.com",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRMGh0Y2pYQ2s1ajBXb3JVa0J2aFdhQzFGZy1VekFFSnN4b2RKN0hPQ2RMOWhzTURER2VabWZXRWNYZi1NUDYyYU43eGNYOVE3Yk5LeDRvREw3Z2Nzb1BQTzVRWlBMQQ?oc=5",
+    "title": "From Homemade Badi to GomatiRoots: Shital Kumari Secures Funding"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "chosen-2026-10-28",
   "company": "CHOSEN",
   "key": "chosen",
@@ -1367,26 +1425,6 @@
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOTNJM1pKVm9JeGdQY0NNMmJHakIyMU9EckFodVhSM3BnMjU5cjhXbzVFNFp3UDZzZV9EZFhwOUlNUnFoOC1ZLXZ1bkxJSmQ1b0x4Nms3ZDlKamtTSDJHTmxkREtNcTlYeVZQYzJXX0hGSkVxcXctUWg0YVhSaVlMQUJMQnZ5ZWVSZ1JNT2hjeEo0TWIzeXFTZjBvbjA3R25SXzQ2aXJtdGZSb2dZczhma3NYdEMtanhLUEJFaUxmWkNtX2xnd1dHeHhmQXlMZw?oc=5",
     "title": "CHOSEN Raises Series A Extension from Wellbeing Nutrition Founders to Strengthen Skincare R&D"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "shitalkumari-2026-10-28",
-  "company": "Shital Kumari",
-  "key": "shitalkumari",
-  "descriptor": null,
-  "amount": null,
-  "currency": null,
-  "usd": null,
-  "round": null,
-  "investors": [],
-  "date": "2026-10-28",
-  "sources": [
-   {
-    "outlet": "YourStory.com",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRMGh0Y2pYQ2s1ajBXb3JVa0J2aFdhQzFGZy1VekFFSnN4b2RKN0hPQ2RMOWhzTURER2VabWZXRWNYZi1NUDYyYU43eGNYOVE3Yk5LeDRvREw3Z2Nzb1BQTzVRWlBMQQ?oc=5",
-    "title": "From Homemade Badi to GomatiRoots: Shital Kumari Secures Funding"
    }
   ],
   "indiaSignal": "strong"
@@ -1412,14 +1450,14 @@
     "title": "Preventive health startup Cent raises $15 million to advance early disease detection and health monitoring"
    },
    {
-    "outlet": "YourStory.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWVkUXQ3SnlxRk53RFc3WmU0MXZyWDRZR3RxNnZWaFhLc2Q5c0lnd0d6cFBvb2s1MnAxQnpENnY3TTZrMk1DMjh1dFRGMmhlN2dzZnlXOXZtTEZ3Zl90eDBPS205UGpYbmhjdDlvTDZsWWxLcmlrLWoxdGMzTElnN1hIZEVzVTltTFNn?oc=5",
-    "title": "Healthtech startup Cent raises $15M in Series A"
-   },
-   {
     "outlet": "Indian Retailer",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEE0M291bUNUNGUyMkZnYVFmWDZ2cUNaWk0tMjh6ZExKSTltQl9VaHNGd2lrNTRzOWdTc3JRYWltSnBoQjRES3hyczQyZVVaQmYtSXlzZ05oVU85UlR3Z19fX0JCMlJwMWtWcDhvc3RQNE9LNzRPbmQ0RDhDYWZMUV90Y09kSU81UVg0dmRSenEwODRBME9feEdhT3BQWnp5SG5kbmhnNFU0bkpqZzBV?oc=5",
     "title": "Preventive Healthcare Startup Cent Raises $15 Mn in Series A Round"
+   },
+   {
+    "outlet": "YourStory.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWVkUXQ3SnlxRk53RFc3WmU0MXZyWDRZR3RxNnZWaFhLc2Q5c0lnd0d6cFBvb2s1MnAxQnpENnY3TTZrMk1DMjh1dFRGMmhlN2dzZnlXOXZtTEZ3Zl90eDBPS205UGpYbmhjdDlvTDZsWWxLcmlrLWoxdGMzTElnN1hIZEVzVTltTFNn?oc=5",
+    "title": "Healthtech startup Cent raises $15M in Series A"
    },
    {
     "outlet": "Siliconindia",
@@ -1454,14 +1492,14 @@
     "title": "Xelpmoc-incubated Live2.ai raises Rs 130 crore to build AI agents for social commerce"
    },
    {
-    "outlet": "Siliconindia",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUtna1RKUVZMeWtKX1lPVW9SdVVNOGhmN0k2Nm5ic25hazYtNHMzVk1EckNPUHhYcm90ZEc4dUhzLTFNYi1BckMwRjFQT0xISHBtdHRPTjF5V2lPU19HY3dxVWQwR05kZFpmZmxBOWVYcVV6NDVSazVtaF82VC1HeDVmb19GLXhOUkFDN0dhYUJ0dW52bl9aMHd3U2M3UktieEJtNnU5TUhRbVUtTE0xS2RYUURuZ3FSYUQw?oc=5",
-    "title": "Live2.ai Raises Rs 130 Crore in Pre-Series B Funding"
+    "outlet": "Rediff",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRGxNcDA3YTFBa1JCYTZwUTFXOEZBaUFBcGRnaTBteXFTdXlsMmNpd2Z0UE5IandXZ1F6Mm9rSWxWcDl0czN0dEdpSjRSZzJwcUFXX3dhYVNaOGcxQjJGMVI5bzYzTTA1NURqamRyTTluTXVmc1N0U2tVOEhkOXJHOXFraDVBa1RJRGh3NGxVOE9QRDJyNFozeVN6OVhlQW5YZHhBSzFreGszWlJvYklSQdIBswFBVV95cUxPaU9TQ3M3akFkdWxHejlHeDZzSF9NNXUtLXVyYkR6cnVtZkdaNTVSeVh2RzJ6V0dLU3EycDRkaU9TQ2RiVEV3QzMxLUxZOTNVQlliQk1veU5IQ2pJSDgtZVBDSk0tbXZMYkJpWWVGcGxQYTVOQmJYSDRyWmtCTGRmaGFjRE9vMVo2ckRDdUE2elpHQ3JEWGFwdktoUzFFb2FtYzUzYnV6bHZoWFY1SGMzbVg4cw?oc=5",
+    "title": "AI Startup Live2.ai Raises Rs 130 Crore In Pre-Series B Round"
    },
    {
-    "outlet": "ET Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmxmRjJqNDcwRkdCeG9nOHJDNGNuZzdfZ3RTQ2JFMzZKeXNhcDhuTW9rc2xEdmFua0JJVVdRTlo1N2h2RlpOcDZUcVVyQU1PSk41OExFdjZuQ055X1J5ZFVFNzRreWhnbnluOU14b1Fvc3ZWMmM1SUpPUVg4V2lzaFBhY2Y1aVVLR3VaQlN4X2FkOUtHQlVMUlZzS1EyWGcyVzJxQ3BmTDRqUGZ5ejlPN28tMFQxMEtsamNBSzhjUTFjOHJudHg4U0JtbXBqWWJGTHExWlpid3Jyd9IB3wFBVV95cUxQdGV6b1lPTUxTTVYxNlN6eWhLMTJjZnN4dUZ5TnBSOXZ5ekxYTWlvOFBmcmR4WUhyT0VjSERQSFlDM0M5M1BiMzZtdWpwdU1ZbUdJV25PQUUtSDZfdW94dU45TklQYm0xa1h3YkZSc012YldzMnV5enN5MVNRUjh0RkFVY3YtX2czekxkbzlqWmo5OEtCX0t4Tm5LWmtXTmFNNDBKa3BVWnV0UWs3bnNZUUw4MnpraktKbi1RbDZOTVNxZzNLTExCVFBuUmFkNjFKbHppeV9oVlMwSF9aSC04?oc=5",
-    "title": "Live2.ai raises ₹130 crore pre-series B funding led by IvyCap Ventures"
+    "outlet": "Analytics India Magazine",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWRZazdQeXFmSVQ0bVhIeTYwSlZ0SkhCVC0yOTJ6NV9lWjVjMkxPWUVha3hwa1hEYzZRNUc3aXV1d2NMSnQ1MUVmbmVubHlZZ05UUWZGb0hrdzhmVkQxWHhwRDduaVhXVU5HSF9zVmZfQk5UVFZfSzhXdW1CR2pKQ1d6Y1hRSHRDQzZ2WlhUTFM2aDZjWmYxZlRJNEd4QjZXVlpFTm1wTQ?oc=5",
+    "title": "Live2.ai Secures ₹130 Cr Funding for Expansion"
    }
   ],
   "indiaSignal": "strong"
@@ -1556,14 +1594,14 @@
   "date": "2026-10-27",
   "sources": [
    {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWnpidzhTUHFDM0w4X3M5VDBydHBBdkZacDk4VnNlVGNfYS1CbUhDYVpwTzcwWUhieFBEOHY3MWJNdkRIZmM5TGg2V2x5a21uRHZ5Z2hKdDBsMVNhY2hKSXM0cUdqWjU3ZlMxMTZHUDJpbUo4am4yclI5dXVoVUZ0MVJYbmZQVDRkdWh3VlZuVXhSVmdQdFBSX21NUGV0R05ncGFSdzVVZUdVVkl0dTFodVA0QWNNT0k3WVc2bDFPbV9WMm1tcEgwdVAxcUZzVFhwbjJKTmhidjVJaFFodTJWYnF6N1_SAeQBQVVfeXFMT1p6Ync4U1BxQzNMOF9zOVQwcnRwQXZGWnA5OFZzZVRjX2EtQm1IQ2FacE83MFlIYnhQRDh2NzFiTXZESGZjOUxoNldseWttbkR2eWdoSnQwbDFTYWNoSklzNHFHalo1N2ZTMTE2R1AyaW1KOGpuMnJSOXV1aFVGdDFSWG5mUFQ0ZHVod1ZWblV4UlZnUHRQUl9tTVBldEdOZ3BhUnc1VWVHVVZJdHUxaHVQNEFjTU9JN1lXNmwxT21fVjJtbXBIMHVQMXFGc1RYcG4ySk5oYnY1SWhRaHUyVmJxejdf?oc=5",
-    "title": "Indian luxury watch brand Rotoris raises Rs 70 crore, plans to open Rotoris House in Mumbai and New York"
-   },
-   {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzZ6MXl1Z1M4RGo4RkFaY3NiQWc3V2pBWjZwUUFRUnVKS1JyMXFLYWtwWGx0Z2xxcThSR0Q0T3hBa1BqN2oyNFYxcmdXelp5bVA0Ynk5S3NPVXEzRkZwRGRDRTBPUUtmTVVDN0lTZERyOEhWMktYamM0dEZHZk5EdncyYWJxUVFwSUtjS1RkWnY0ZTBTQ0xaUUw2dk9hVW83T2lOMWdpSk0yR0k2d3E5YXVHd3F0Zw?oc=5",
     "title": "Rotoris Raises ₹70 Crore in Series A Funding Led by Blume Ventures"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWnpidzhTUHFDM0w4X3M5VDBydHBBdkZacDk4VnNlVGNfYS1CbUhDYVpwTzcwWUhieFBEOHY3MWJNdkRIZmM5TGg2V2x5a21uRHZ5Z2hKdDBsMVNhY2hKSXM0cUdqWjU3ZlMxMTZHUDJpbUo4am4yclI5dXVoVUZ0MVJYbmZQVDRkdWh3VlZuVXhSVmdQdFBSX21NUGV0R05ncGFSdzVVZUdVVkl0dTFodVA0QWNNT0k3WVc2bDFPbV9WMm1tcEgwdVAxcUZzVFhwbjJKTmhidjVJaFFodTJWYnF6N1_SAeQBQVVfeXFMT1p6Ync4U1BxQzNMOF9zOVQwcnRwQXZGWnA5OFZzZVRjX2EtQm1IQ2FacE83MFlIYnhQRDh2NzFiTXZESGZjOUxoNldseWttbkR2eWdoSnQwbDFTYWNoSklzNHFHalo1N2ZTMTE2R1AyaW1KOGpuMnJSOXV1aFVGdDFSWG5mUFQ0ZHVod1ZWblV4UlZnUHRQUl9tTVBldEdOZ3BhUnc1VWVHVVZJdHUxaHVQNEFjTU9JN1lXNmwxT21fVjJtbXBIMHVQMXFGc1RYcG4ySk5oYnY1SWhRaHUyVmJxejdf?oc=5",
+    "title": "Indian luxury watch brand Rotoris raises Rs 70 crore, plans to open Rotoris House in Mumbai and New York"
    },
    {
     "outlet": "Siliconindia",
@@ -1592,6 +1630,11 @@
   ],
   "date": "2026-10-27",
   "sources": [
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT01lbEMzNUlscEl6MDdFV1BLZnpHb3o1Y1BhSUp0SkY3aXVsWWpHNjVHeTQ4NGgtUlNEY0hwOGxhZmd0cVZCN21vX1JUYWVNQjJwTEhoZlhfdkc2aThmS184ZHZPQlItcVdfcm1QT3BmLXZLbW5ielVSbXJnWkRZSWVVb2RkdXlUbTJPQkc5ZWVUV0NMODg5MmJ2dFRmSkNUM08zRUtfWHpFMVl6?oc=5",
+    "title": "Mochatrade Raises $5.5 Million in Seed Funding Led by CoinFund"
+   },
    {
     "outlet": "Siliconindia",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYUJxOHRRR003QzNuX2JtQTFTZlh3TVVaZ1drVXp3RWp5ZGpJdGRfbmZMem0tZzI0V0FHa0JSQk5GZXZHc1pNdFdLc2R5cEpHRS1MdnhUcUNIU0w3TXZFREs2MFgwMHZCOEc2SXdITGswWW11UzAydVVKajVGck5Id1JGUm1kS210S0E0OU9waUgyTWlKVDJZU3Y3b1Bua3RiT2dfZGV0YVh1UEZtZGF2Zloxaw?oc=5",
@@ -1784,15 +1827,12 @@
   "id": "matiks-2026-10-26",
   "company": "Matiks",
   "key": "matiks",
-  "descriptor": "Brain games startup",
+  "descriptor": null,
   "amount": 10000000,
   "currency": "USD",
   "usd": 10000000,
   "round": null,
-  "investors": [
-   "General Catalyst",
-   "now over $13.5 million"
-  ],
+  "investors": [],
   "date": "2026-10-26",
   "sources": [
    {
@@ -1801,19 +1841,14 @@
     "title": "Matiks raises $10M to expand its math and puzzle gaming platform"
    },
    {
-    "outlet": "NewsBytes",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQUdTUXFsd0RYSnFXcUpPXzR5QWNsN2hrMlZNSHlWVkI4OGo3ZGJaRmFFR1JoemdZOE9FbkJpcUtTa1d6dWdmRjc3bkpwRDUzX3JtYW9EaXk3S1ltdVlSeVVGUHc2UWE1S0doMmhtcGtKVFQtLVpNc3JHNHVhdHd6blVvU0h4MkMteWk5TEJwVG0zRC1UWmNuUFlka0VVNVozR0x3ZVBLTE5DZlhGb0tNNkY3SHc4WTRxOVE?oc=5",
-    "title": "Matiks secures $10 million led by General Catalyst, now over $13.5 million"
-   },
-   {
     "outlet": "Inc42",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGtUa0NhcE1Vc3JxMjZFS1diZ1JWTjlBT083X3pNeFN1cFdQLUhXQXlWZ2JDSTlmWTRJcFYzS3YzQUZqT3dMbmxDM0ZlSXR5LUVCUnBLQ1pCc0t5aHJyaktVMkx0SlY3S1lOYVVtbTdiRnBQUTA5bTluMVN3QkNheDhoSHdwNG9PMGRv?oc=5",
     "title": "Matiks Bags $10 Mn To Take Its Puzzle Gaming Platform Global"
    },
    {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZjFVWWkyUjQxaDh6d0xXbjl1cU56TVBLVWZUc2RSZzA4WkhIREtwOXdkbkJyem9fcWNzUW1VNGY4WmoyS2tXVXBjMVNpZkRDR2RMMVRpZUJXU2NtT2V3b2pCajlSOE9XeVdPRkVUQ2FuWVM5R1R4TXN5XzBRb2hsZUxjUHZVd3FIc243WFB6Q0hRVEJkTXlialN3QTBRSzVwNC1rdDBmRFFqQkctMy1fRllCYUJVSGVFQXdCS05RMXRXVWtheS1Bd2hyU1BzbW9yalFTT9IB1AFBVV95cUxQZjFVWWkyUjQxaDh6d0xXbjl1cU56TVBLVWZUc2RSZzA4WkhIREtwOXdkbkJyem9fcWNzUW1VNGY4WmoyS2tXVXBjMVNpZkRDR2RMMVRpZUJXU2NtT2V3b2pCajlSOE9XeVdPRkVUQ2FuWVM5R1R4TXN5XzBRb2hsZUxjUHZVd3FIc243WFB6Q0hRVEJkTXlialN3QTBRSzVwNC1rdDBmRFFqQkctMy1fRllCYUJVSGVFQXdCS05RMXRXVWtheS1Bd2hyU1BzbW9yalFTTw?oc=5",
-    "title": "Brain games startup Matiks raises $10 million in funding from General Catalyst, plans US push"
+    "outlet": "shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUFBZ0xxc3F1MXhxWGQ0c1duNXpIUHRzQVhBODg1ZFNLQTFDUURSY001YUZCUXJYb1ljRTQzelhuRTU1R3FsYlFtRk5oMFhTUWxQVW42b3RFY1pjX0hYblY3dVFxd1hLRWNQcDdRWVN6bEhSb2V1WVBWSlhaa284VUU3U1BHMUdiVmc?oc=5",
+    "title": "Matiks Raises $10M for Brain Games, 300K Daily [2026]"
    }
   ],
   "indiaSignal": "strong"
@@ -1822,7 +1857,7 @@
   "id": "biostack-2026-10-26",
   "company": "BioStack",
   "key": "biostack",
-  "descriptor": "Healthtech startup",
+  "descriptor": "Healthcare startup",
   "amount": 9500000,
   "currency": "USD",
   "usd": 9500000,
@@ -1833,11 +1868,6 @@
   ],
   "date": "2026-10-26",
   "sources": [
-   {
-    "outlet": "YourStory.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUJhQzV5UGZKMHlXSkYtMDdWUDNjS2dEdXJJamdTY0FSTjUwTlh6R3ZTdXUwTDE1U3JNeHlYOHlBTGVyZW9QMlE1clFYeXBtRkhHVXhZRTlTWGNfSnNULXRVN0d4dDdMbVd3eVBjMUp0LUxBcFR0SDEteGJtc3FoSmNSc2luX192SnBrQlcwenFvd0Q2U2NR?oc=5",
-    "title": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others"
-   },
    {
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXRPX1NTcVdPR0tFSHhFeUhDQU04dXIzQ3lvNHI5eXIwSGtWQ2dPQ0l6WU4xTjBBM2pKNmFDNTFXNUgxSWpvaUdvMDBvd3ZyREtGUFo2bHp4aEh5TDlZSHpfTV9McTlvcEFKeTdZdTlvSE1YWTNBQ0NhRzIwUGxCRkI5UmhIRnUtbDdtWW1yX1JhUEx0SVJlOER3RTFKczFqR3huYW53TnllS05HaXVz0gGvAUFVX3lxTE9tdE9fU1NxV09HS0VIeEV5SENBTTh1cjNDeW80cjl5cjBIa1ZDZ09DSXpZTjFOMEEzako2YUM1MVc1SDFJam9pR28wMG93dnJES0ZQWjZsenhoSHlMOVlIel9NX0xxOW9wQUp5N1l1OW9ITVhZM0FDQ2FHMjBQbEJGQjlSaEhGdS1sN21ZbXJfUmFQTHRJUmU4RHdFMUpzMWpHeG5hbndOeWVLTkdpdXM?oc=5",
@@ -2060,6 +2090,26 @@
   "indiaSignal": "strong"
  },
  {
+  "id": "vectorial-2026-10-23",
+  "company": "Vectorial",
+  "key": "vectorial",
+  "descriptor": null,
+  "amount": 3000000,
+  "currency": "USD",
+  "usd": 3000000,
+  "round": "Seed",
+  "investors": [],
+  "date": "2026-10-23",
+  "sources": [
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3NxNldpUE01ZVZ5T29mLWZvTEJITXQ1aDBuOEF0dHJJWG5BTlVhRDZJeTA2dERVNi1kVVVFVTM0a2dUd0Y5aVFsc2tGSFczWWlGcTFnWWxLcmVGRGFQempJc09mWWJQQzd0bjRXQTB2RVdMR2hxQ2ZoYmUzQ3A2LVg3MjBNZHdKWmtESWttNnI5OWh0RXdOVGs0STZxOS1NVlJQbjZCREJKTHR1QkY4cjBmb19ZRndhdFRmQ0hpSFJHVmVlYlAzcHpEQUFjdFctV0t3TmZneDBqLTg?oc=5",
+    "title": "Vectorial Raises $3 Million in Seed Funding to Expand AI-Powered Consumer Behaviour Simulation Platform"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "harajukutokyocaf-2026-10-23",
   "company": "Harajuku Tokyo Café",
   "key": "harajukutokyocaf",
@@ -2209,6 +2259,28 @@
   "indiaSignal": "strong"
  },
  {
+  "id": "evenhealthcare-2026-10-22",
+  "company": "Even Healthcare",
+  "key": "evenhealthcare",
+  "descriptor": null,
+  "amount": 50000000,
+  "currency": "USD",
+  "usd": 50000000,
+  "round": "Series B",
+  "investors": [
+   "Khosla Ventures"
+  ],
+  "date": "2026-10-22",
+  "sources": [
+   {
+    "outlet": "Indian Retailer",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQell2MnZOLXQwOG9BUWFvZWQtLWtWQ05lczJFd2FxemhMQi1KWDhJQzRFM3hLZDZldTBBeE9Bdi16ZW92eFBUR2NlZFVCT0hBWkVvTnYySTVGbElzbXRiTFoxMnR4TFNEWW5tbU84V3l2MVFJSHhybHE1ZFRQdl9jRXRWZ0dPMnlFSmVGU2x2bU9PeV9RY2Z0cnNfSjZQcEFTRWc1YktjRk9IeWo5ZmF6TjVlbmJ3dw?oc=5",
+    "title": "Even Healthcare Raises $50 Mn in Series B Funding Led by Khosla Ventures"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "curebay-2026-10-22",
   "company": "CureBay",
   "key": "curebay",
@@ -2216,12 +2288,17 @@
   "amount": 1000000000,
   "currency": "INR",
   "usd": 11363636.363636363,
-  "round": "Pre-series C",
+  "round": "Debt",
   "investors": [
    "IvyCap Ventures"
   ],
   "date": "2026-10-22",
   "sources": [
+   {
+    "outlet": "Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUXpYSVZQSnlaUE0ycnZGc2ZzTnNkc2ZtN2RGY25hRl8tcFRqLUphUTlHeERuM1Q2TERYdnB6bk5PeDNoZXo5NXEyd3BHSkE1c2NRQk1iT0kxM0xCT1dyQTdPSXItT1pSZmNVaHQyeHRfS19oZFBUdldZeWRHSmZTd09pVQ?oc=5",
+    "title": "Indian healthtech startup CureBay raises $10.6m"
+   },
    {
     "outlet": "https://ascendants.in/",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUN0SGd6d0NMaGFUN3VYWkVzLW92ZVZjUXNNRmo4U0x2NkJFT3BnTmZRY2F2OUlYSlhFVTdzT3Y3V2JKQVhWbXNwR2pOVmlnSlFWNm5kMDU1eURrNjZ4SklGN2ZhdlJEQmJYcWtNZ1lsUWtqTHhIM0k0bzY5SERqV1U2SlVCWTZFNFNzLVNrRHh6NFhpaUdSS2dn?oc=5",
@@ -2233,14 +2310,9 @@
     "title": "CureBay raises ₹100 crore to expand rural healthcare network"
    },
    {
-    "outlet": "CNBC TV18",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSmNZRjFHdUJaMmlpbWRCaWIyQUs2OTlOb0V6eURkTWF3bXZGZ3JldUhxTDY5THF1MEU1bjhJUUFlTC1pZ2FwTjFIbXQ3TEtMbmMzdi1KZ19Va2FobWNmaW4tdEFialdoYTZERDR4dk42V2RNYnEtYnlpVlZEU0JkcUFYSkVsRjJBcFVyV3dWZzFxdXUtNmVwdXRsS1g3Z2UtN3lKbmZIQ3dXRjZMRGdNRHJwbFl6QmVJczVsbTg3VlhGeVhjNGI2Yi01QmVKRFZmcHBYemNhd9IB3AFBVV95cUxQZXFSaDhLaWY3TzZTbGRzQ1d6dEhESkN0UUpYeUpSMDhOYmxnM2FwWUZQdjl6TmJTQjI4Y1BHQ3pudjBDaDNWTkFFVGpnWk0zMzgzV0lQdFYzUXpWMngtSmhjODhONTB6QV9ZTTFrQjAzbWVYNkViWjJpQlBodXVIcVE1VnZuWjZoWHFqd1ZmRXNJZlZpR1hPVUJ0NUtsYmRia3RMUlJiLUgtSmZfZHJmSlJKbzJsa0hqTXJiNXgzVmY5eEgzQ2xDRDhSWEx1ZjVxNHhXZzEweWxvQS0w?oc=5",
-    "title": "Rural healthcare startup CureBay raises ₹100 crore to expand clinics and AI services"
-   },
-   {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzJUSGRRRDl2ZHdIU0N4cTVld29xREoxS2Q2ODRiQkdNU3ViWEZVX3liTHRDanBoQ0l4eFBaYjNKZlVWTDhwajRnRnQ1YXJkc29oLTJ4MzRrRnJXQ1A1a2dhLTdMdWJnUDZ4dlBwZDdsWERWUUFyXzFQU2ZYMlpVSXJvMU1KR1BfR0hEbTRPX0RKTjFHZUhtVWJMQVZEYm5YUXBzZWNWdERLRXZDMGZLbEwyd1jSAbQBQVVfeXFMTVcyVEhkUUQ5dmR3SFNDeHE1ZXdvcURKMUtkNjg0YkJHTVN1YlhGVV95Ykx0Q2pwaENJeHhQWmIzSmZVVkw4cGo0Z0Z0NWFyZHNvaC0yeDM0a0ZyV0NQNWtnYS03THViZ1A2eHZQcGQ3bFhEVlFBcl8xUFNmWDJaVUlybzFNSkdQX0dIRG00T19ESk4xR2VIbVViTEFWRGJuWFFwc2VjVnRES0V2QzBmS2xMMndY?oc=5",
-    "title": "Rural healthcare startup CureBay raises Rs 100 Cr in Pre-Series C led by IvyCap"
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVpxdkUzSF94dm1NdXItVk95dE80a0w1N3U5LVJVSU1YM1ByUzJqYVE2bXUyLVRjY0xBRzVWN1pON1F3czQ1R2tUZ0VzUXowOUs0U2lvWFg3RmM3a0hRRW1OLS1memdvcDBYdVluQVJsVGU2azdUemFsdENONGFrVl8wMExBb3hIUEwtd2NBX1hjcDVrcnVFOEVmWU44OHRkWWhLdUlpV014clhEV2RzeEdjTGpseGJ0dVHSAboBQVVfeXFMTWlacXZFM0hfeHZtTXVyLVZPeXRPNGtMNTd1OS1SVUlNWDNQclMyamFRNm11Mi1UY2NMQUc1VjdaTjdRd3M0NUdrVGdFc1F6MDlLNFNpb1hYN0ZjN2tIUUVtTi0tZnpnb3AwWHVZbkFSbFRlNms3VHphbHRDTjRha1ZfMDBMQW94SFBMLXdjQV9YY3A1a3J1RThFZllOODh0ZFloS3VJaVdNeHJYRFdkc3hHY0xqbHhidHVR?oc=5",
+    "title": "Rural healthtech CureBay raises Rs 100 crore in debt and equity funding"
    }
   ],
   "indiaSignal": "strong"
@@ -2373,36 +2445,6 @@
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXEtdzg2emdJYXJRMXdLOTBHUlNZTjQ0Tk8xZFBobTJBWld5UE11WHRjeWFENFNCeFkyN29MV1lGS0JqdFBtUjItOFBTbjNfSFhPVTVaelhjb1Z0TkZhdS01RFRfaE5zYVVQQ2FybHAzMDVMQUZQYkJ3T0dDN3dCNE56VElBd015NmlRZmNWdC00bzN3d3JCS2R2bl9HYmF4cng1dDZacktSNGFGYU1aRjF6a1poVkw5Ukk2QVVOeFpjd01xczJCLWpR?oc=5",
     "title": "Karta AI Raises $3 Million in Seed Funding Led by PeerCapital and Cedar Hill Capital"
-   },
-   {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTB1anFBUTA2LUgyMkYwNnZfeHdOS29nVFFlWlMyM2tpb3NzUGM4S2xHVUhaN21tdHluVGU1M21KMEkyM3FCNmNiWGlQMHl1bnpRMXNWREJObEJjbkY5cUw5YlNLT2tvLTltV0o5bDJMenlYU21LV21sZDd1SkxvWmx6SjBwLXB6R0RsQlVLTjJEeUlUb3VfUlF0TU53S1R4VnlmQ2t4T0ZqSDhwbWw4Q0hGMA?oc=5",
-    "title": "Karta AI Raises $3 Million in Seed Round Led by PeerCapital, Cedar Hill Capital"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "vectorial-2026-10-22",
-  "company": "Vectorial",
-  "key": "vectorial",
-  "descriptor": "AI startup",
-  "amount": 3000000,
-  "currency": "USD",
-  "usd": 3000000,
-  "round": "Seed",
-  "investors": [],
-  "date": "2026-10-22",
-  "sources": [
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXZnM1U4R1BoaVh2X1E5MTlDdlNsV08zYjliZ1A4UlN3aXduQTc0SUtyX2xBd2Q1UTJZakpVZnZieWV1TmI0TzJuaXVVRlRNNlRpeC1BRzE4c2ZGcFlNdmRfcHNDUFFybWhYZlY3bzNHNlJDV1I1SFVLWm9ocjItQ2VwR21aNmFESDJ3SEJyekhPaHhaXy1JajN3dnV5QVR1ekdqNUNiOU9fcU8yMHBYRG1VaWJDVmhpNjBzN0pHQ0UtLXFPRnJuNmh6QXZURy1rQ1lPbWpjaC3SAdgBQVVfeXFMTVV2ZzNVOEdQaGlYdl9ROTE5Q3ZTbFdPM2I5YmdQOFJTd2l3bkE3NElLcl9sQXdkNVEyWWpKVWZ2YnlldU5iNE8ybml1VUZUTTZUaXgtQUcxOHNmRnBZTXZkX3BzQ1BRcm1oWGZWN28zRzZSQ1dSNUhVS1pvaHIyLUNlcEdtWjZhREgyd0hCcnpIT2h4Wl8tSWozd3Z1eUFUdXpHajVDYjlPX3FPMjBwWERtVWliQ1ZoaTYwczdKR0NFLS1xT0ZybjZoekF2VEcta0NZT21qY2gt?oc=5",
-    "title": "AI startup Vectorial raises $3 million in funding to expand human behaviour simulation platform"
-   },
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3NxNldpUE01ZVZ5T29mLWZvTEJITXQ1aDBuOEF0dHJJWG5BTlVhRDZJeTA2dERVNi1kVVVFVTM0a2dUd0Y5aVFsc2tGSFczWWlGcTFnWWxLcmVGRGFQempJc09mWWJQQzd0bjRXQTB2RVdMR2hxQ2ZoYmUzQ3A2LVg3MjBNZHdKWmtESWttNnI5OWh0RXdOVGs0STZxOS1NVlJQbjZCREJKTHR1QkY4cjBmb19ZRndhdFRmQ0hpSFJHVmVlYlAzcHpEQUFjdFctV0t3TmZneDBqLTg?oc=5",
-    "title": "Vectorial Raises $3 Million in Seed Funding to Expand AI-Powered Consumer Behaviour Simulation Platform"
    }
   ],
   "indiaSignal": "strong"
@@ -2578,38 +2620,6 @@
     "outlet": "Analytics India Magazine",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNE9GYVUyS1I3SDhkRk9kSk1kWVJwV0NYdm9ra19fZm5LVTlWOXlPdzExR0ZScGtSYVpfWllLWnQwOUN5VHZBRDFYWFFCY2UybTdJcTZsakx2cU5GUEM4aTduaFplS1BseDY3X3JrdHEwX0FUODlTVTd4T3dQdGJMUnJMTWZNZ1lWTUZRaGhZTnV6QlRVNHFsbk1uUWVrdFEy?oc=5",
     "title": "LTTS Secures $203 Million in Large Deals, More Than Half AI-Led"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "evenhealthcare-2026-10-19",
-  "company": "Even Healthcare",
-  "key": "evenhealthcare",
-  "descriptor": "Healthtech startup",
-  "amount": 50000000,
-  "currency": "USD",
-  "usd": 50000000,
-  "round": "Series B",
-  "investors": [
-   "Khosla Ventures"
-  ],
-  "date": "2026-10-19",
-  "sources": [
-   {
-    "outlet": "Startupbusiness.it",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3lfbHBDTGk5dlhzdk5VUFdYQlBtZk9BbU13UjFKQ1lrc1NCSEE5ajhXYjhmQk5WaTdXM0QwRnpNbk1QcHg2WEt1akNkTTg1ZkhMLTl4UlpLN3l1WlplWXhkYkxBaHlFeHdqQms3TUhWNGdGY2tJNDdud1c0eXZZNnYyaUlCYlZEUFNRLXRsV2VoTlpvYjdycVdZR3VZQzdhT0RYSzRNdTU3aVRaSEoxYjJB?oc=5",
-    "title": "Even Healthcare raises $50 million to revolutionise healthcare in India"
-   },
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjlyYUg4QUhMZ0JIQXhzRmQxa184N2xfWDBCdmtieVpPTEdsU3VuWHJES3hONktKa2JnTWFSeF9UMXBTRnAzSUFZWVpvRFV0NTVTcTh5c3JFYktWc0xXUHFCRmQxVTBjT29nclB6cmx4UDZTcFFfem5YSkVFSHp4QmFTY3k5TlctLWZKeFZBc2MyQ2JiZkhid09TWEpMYVJfLTJkNG5rY0ZXNTRhVlBuR0pvQlM2dEpNMzI1NnVCWEw4VFgt0gHEAUFVX3lxTE9aOXJhSDhBSExnQkhBeHNGZDFrXzg3bF9YMEJ2a2J5Wk9MR2xTdW5YckRLeE42S0prYmdNYVJ4X1QxcFNGcDNJQVlZWm9EVXQ1NVNxOHlzckViS1ZzTFdQcUJGZDFVMGNPb2dyUHpybHhQNlNwUV96blhKRUVIenhCYVNjeTlOVy0tZkp4VkFzYzJDYmJmSGJ3T1NYSkxhUl8tMmQ0bmtjRlc1NGFWUG5HSm9CUzZ0Sk0zMjU2dUJYTDhUWC0?oc=5",
-    "title": "Healthtech startup Even Healthcare raises $50 million to expand hospital network"
-   },
-   {
-    "outlet": "Indian Retailer",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQell2MnZOLXQwOG9BUWFvZWQtLWtWQ05lczJFd2FxemhMQi1KWDhJQzRFM3hLZDZldTBBeE9Bdi16ZW92eFBUR2NlZFVCT0hBWkVvTnYySTVGbElzbXRiTFoxMnR4TFNEWW5tbU84V3l2MVFJSHhybHE1ZFRQdl9jRXRWZ0dPMnlFSmVGU2x2bU9PeV9RY2Z0cnNfSjZQcEFTRWc1YktjRk9IeWo5ZmF6TjVlbmJ3dw?oc=5",
-    "title": "Even Healthcare Raises $50 Mn in Series B Funding Led by Khosla Ventures"
    }
   ],
   "indiaSignal": "strong"
@@ -2870,14 +2880,14 @@
     "title": "AI startup RapidCanvas raises $29 million led by Vertex Ventures"
    },
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUI1MXFlb0lHTFJwMHZwQlAycjBWRU0xM19fdkxWSnJ6X2lrRWZ6Sm55aEhQc2Z5YllXNlB2T3c0Q0I2UXBmbVBsMTh3c2tHcnZGYmZJQThWeUZKUmdQQzJqaW8xNU1aNEJmVVVqcG50SnNQZ25icjUzaVJrVFozRzJOai1HNWFVQWJkRS1pRWw0RTJEcXh6cDZTa1dRTlFzMThpb3dnTVdIRHl5S01ycg?oc=5",
-    "title": "RapidCanvas raises $29 million in Series B round led by Vertex Ventures"
-   },
-   {
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXc0Qjk5NFdOR1lvRGlYdjRzeVlqV25mWGxFM3RraHk3NDd2YjVwcXlEWjc3RjJlMFNwLURlYlVzenhDbXB3QXVZSHlFX2FsX0ltZUtodTNwNXJOSUtDS2txT1l6RURSSEZ3dlhXcVBVSHNSVXFyU0xiZHpmMUNkS0o2VVB3T3FrQTRqNmlHd2UxTG50Wm03b3JFMk1YeHNSa2fSAaIBQVVfeXFMT3l3NEI5OTRXTkdZb0RpWHY0c3lZalduZlhsRTN0a2h5NzQ3dmI1cHF5RFo3N0YyZTBTcC1EZWJVc3p4Q21wd0F1WUh5RV9hbF9JbWVLaHUzcDVyTklLQ0trcU9ZekVEUkhGd3ZYV3FQVUhzUlVxclNMYmR6ZjFDZEtKNlVQd09xa0E0ajZpR3dlMUxudFptN29yRTJNWHhzUmtn?oc=5",
     "title": "RapidCanvas raises $29 Mn in Series B round led by Vertex Ventures"
+   },
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUI1MXFlb0lHTFJwMHZwQlAycjBWRU0xM19fdkxWSnJ6X2lrRWZ6Sm55aEhQc2Z5YllXNlB2T3c0Q0I2UXBmbVBsMTh3c2tHcnZGYmZJQThWeUZKUmdQQzJqaW8xNU1aNEJmVVVqcG50SnNQZ25icjUzaVJrVFozRzJOai1HNWFVQWJkRS1pRWw0RTJEcXh6cDZTa1dRTlFzMThpb3dnTVdIRHl5S01ycg?oc=5",
+    "title": "RapidCanvas raises $29 million in Series B round led by Vertex Ventures"
    },
    {
     "outlet": "Equitypandit",
@@ -2891,7 +2901,7 @@
   "id": "capgrid-2026-10-16",
   "company": "CapGrid",
   "key": "capgrid",
-  "descriptor": "B2B manufacturing startup",
+  "descriptor": null,
   "amount": 462800000,
   "currency": "INR",
   "usd": 5259090.909090909,
@@ -2907,19 +2917,14 @@
     "title": "CapGrid Raises ₹46.28 Crore in Pre-Series B Round Led by Hero Enterprise Partner Ventures"
    },
    {
-    "outlet": "The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaVY1d2d4RlRwUGV4SVNuZTFIN3I1Y3NPSHBST243N2RlVS1Ya3lNS2tfRGlLQWw3WGFQWGd4ZWhFRzdGbmVBdEpYTnp4VTBra3VfSHF4d3BvSVNhNVducXZ2VnZTaW5adGk5U25aS2dOT0pKVjVQWC0tQXdfTi1xekFkWUJmNWhIdGh6clJmR2NyVlEwX2ZZZDllTjZvQS01WkhXMU1YbjhQTEtSZFlGZzVheFVUOFdoVEZHUmdxZEtKZ09XWTMzVkU3R0dudGFITmRKR01xNjDSAd4BQVVfeXFMTXNDdjhUdVBrNXd1dEEyekRHSFhCNlpkeTF2ckNHWjdkQ3Jkbml6clZRWEpvTHY1OTZFNGFpR0ZMZXJDazFYZC14Q2JpS3VYTVNHODNyLWh1Umh4RUFuMDUxTnl0TDlSNVpkZUlhNmlnaGJqdUw0RkNFWTFYbUctWTZaM0dlYnFKRUdxMkg1SzIxNi05LVBZSnptZzdzcnlPb1dDejNuSTNkYXZjQ2FhdzBHUjd0RjlFXzQ1WTJ2MUkyOG0yWGFUMjJoNHp3ZDQ5V2tFcDdwVTd0ZGV5RjBR?oc=5",
-    "title": "B2B manufacturing startup CapGrid closes Rs 50 crore round; valuation up 40%"
+    "outlet": "Inc42",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlpVZnhhcVFEWUZkdDhVSVRkSUVvSHdfTkhVMTdSZUd5enBmMXhUU1NxQzJMbUZldF9XRE83SFNTbXd6Yks5cnZVdXEzdjlEd3ZqMkVPeFFrNWxNQml0bEtUaFk2NjhrVnBHcnEzTWZoVUtjZlVSSXhPU3dkLTFyOW5fSDExc3c4YWdhVUdMWERCTlhwVXFIVkcxQQ?oc=5",
+    "title": "CapGrid Secures ₹50 Cr Funding To Deepen Its Manufacturing Play"
    },
    {
     "outlet": "Bharat Fast",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREExNHB3ZUh6UzBLOXR0MjJtUEVSc0NSQ29fakdiZXRHSkFpT2F2RVJiQnBrd1NRTTA2U2JydmRQVzhCTGdEbFpRTUlhemw2N0JjUVZHSlRLQUxQU1M3NVVkdUNDdjhwM19EcTVoU2FseW5xZWtEQVZnN3FfU2lKRXFrQlozOFR4RURoZ3BnVmZfTHoxbmZTOElLR3hLcmVx?oc=5",
     "title": "CapGrid Raises Rs 50 Cr From Hero Enterprise At Rs 430 Cr Value"
-   },
-   {
-    "outlet": "BW Disrupt",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEV3QUJhemVBc1I5M3dIT0pZaXI1R1dSTkFGM2pHZENKSWZULTEwZC1GMkJpcnNzNUFzZkpwMDBNS25wcDBKaXJidi1lWldhS1o2RXF0S2NPUjFOUFdybXE1UjJCQlNpbnB4RURGTkxkem1zSFpBbDJsdzVHVWZTX0tMN3BoTkFEYXZzRjJWOExMU2JxWmdyYVBCRU9WaWhDRDkxcUtyaUtYZ2hLd3c?oc=5",
-    "title": "Capgrid Raises Rs 50 Cr In Pre-Series B Round Led By Hero Enterprise"
    }
   ],
   "indiaSignal": "strong"
@@ -3008,7 +3013,7 @@
   "id": "cosmochute-2026-10-15",
   "company": "Cosmochute",
   "key": "cosmochute",
-  "descriptor": "Lunar robotics startup",
+  "descriptor": "Space robotics startup",
   "amount": 1500000,
   "currency": "USD",
   "usd": 1500000,
@@ -3025,6 +3030,11 @@
     "title": "Cosmochute Raises $1.5 Million in Pre-Seed Funding Led by Accel and Prosus Ventures"
    },
    {
+    "outlet": "Entrackr",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2pjR3VLV2l1ajl2bXVJMGtLdExWTHNxNF83dllLRmpHU0Exd0w3TWlFYW5xX2pSRkRWZkJMaFZmQjNvLVZqckc4WTVoQWg5QXlKdVUya3VHZlpsb01jT0JYYUhaRFBlZS0wTDZ2NUltdTBSaDE0SVFWZXlGYTF4bUpLdTl0Qy1ROXFTc1J0MldycWlzYjNTZmtUNDBNdWhURmx1Qlp30gGmAUFVX3lxTE43amNHdUtXaXVqOXZtdUkwa0t0TFZMc3E0Xzd2WUtGakdTQTF3TDdNaUVhbnFfalJGRFZmQkxoVmZCM28tVmpyRzhZNWhBaDlBeUp1VTJrdUdmWmxvTWNPQlhhSFpEUGVlLTBMNnY1SW11MFJoMTRJUVZleUZhMXhtSkt1OXRDLVE5cVNzUnQyV3JxaXNiM1Nma1Q0ME11aFRGbHVCWnc?oc=5",
+    "title": "Space robotics startup Cosmochute raises $1.5 Mn in pre-seed round"
+   },
+   {
     "outlet": "Siliconindia",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmg1Nm53WGx6M3ZQand4aF9TbHA4Ti1mcEpsekxEa3BybDNOeDJydURBMGJGU0lOQjhDTzRvVW5hU2FCWUNxYzVHUG1PN0oxc1VUNzR0XzEtV20zRGRFbUtXUnhncVBSM2RNcmJ0d0J2bXY2eS1RckpRRGkyR3owb1NCdTlOSnpzRDhMU1kyb1l2aEdDUmNqdE1hUFNVczRSWDFSaUQwTmNFSmc3VUVvQm83QlRvZVE?oc=5",
     "title": "Cosmochute Raises $1.5 Million in Pre-Seed Funding"
@@ -3033,11 +3043,6 @@
     "outlet": "Indian Startup News",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaVFTbFREemV0LXI5TGRmSm9pLUR0MUxHTkE1QW5RbG51dXlvSWVfejMyTTVqYkpZWHJ5dThmbThfTFJRQTdYZGpXSDV2Ml9uQ2xQS0RKOVdFM3Z1UDBzX0VxaXFfbGxLZUhqckw3M0tzZHFjQUUzY3VEVEtzY3lZWVBlbkltREZybEpXQXFCZllpbmFLRGcyUnRyQVctM1JOd2x3dTBZOTBfcHdiR1JmNlZLSWxVa1dBUkl5QkY4Q0VicVhwRldRc3lMc3dfc0hSTlE5TdIB1AFBVV95cUxQaVFTbFREemV0LXI5TGRmSm9pLUR0MUxHTkE1QW5RbG51dXlvSWVfejMyTTVqYkpZWHJ5dThmbThfTFJRQTdYZGpXSDV2Ml9uQ2xQS0RKOVdFM3Z1UDBzX0VxaXFfbGxLZUhqckw3M0tzZHFjQUUzY3VEVEtzY3lZWVBlbkltREZybEpXQXFCZllpbmFLRGcyUnRyQVctM1JOd2x3dTBZOTBfcHdiR1JmNlZLSWxVa1dBUkl5QkY4Q0VicVhwRldRc3lMc3dfc0hSTlE5TQ?oc=5",
     "title": "Lunar robotics startup Cosmochute raises $1.5 million in funding led by Accel, Prosus Ventures"
-   },
-   {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTA0QU8xQ3NENml3OHJXd3BLenFQV21MTE5TRUVXckkxWUhnY2VEVlBJMVRwZkJMdC1XTVNlWWZEOUFSRmw1OHpZd2RIaWVWR1J4Y2hSd01JZndqZVhiTUNTUUE3b1lCMHhOZjVoTzZwdzV0X1dPeGVKaXdBSnZ0Y0dhSnNfemUzTGlHc1NfMENFRTJOQXQ4OFhpZjhKWXJ5NlZVY0ljM0tFZw?oc=5",
-    "title": "Cosmochute Secures $1.5 Million From Prosus Ventures to Build LEAP Platform for Moving Payloads on the Moon"
    }
   ],
   "indiaSignal": "strong"
@@ -3072,7 +3077,7 @@
   "amount": 28800000,
   "currency": "INR",
   "usd": 327272.7272727273,
-  "round": "Pre-seed",
+  "round": null,
   "investors": [
    "Zeropearl VC"
   ],
@@ -3082,11 +3087,6 @@
     "outlet": "Local Samosa",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnpjeEtoYlZhYUt4VkVGbDY3RFp3UkkxRHA0SG1uU0piVzhUVGwzWjB2eXRhT1FubUpHM0E4NkFVNTRkUDNIdzhLX0prR21BVDBiR1lyUlFNR2x1N21ISk5pS0hpYVdXQ2dYV3J0UV9xYW44bmFYZDZCdV9nVHpNTUtsem80NTdWZHdZZ1AzY0FoZ9IBkgFBVV95cUxPYnpjeEtoYlZhYUt4VkVGbDY3RFp3UkkxRHA0SG1uU0piVzhUVGwzWjB2eXRhT1FubUpHM0E4NkFVNTRkUDNIdzhLX0prR21BVDBiR1lyUlFNR2x1N21ISk5pS0hpYVdXQ2dYV3J0UV9xYW44bmFYZDZCdV9nVHpNTUtsem80NTdWZHdZZ1AzY0FoZw?oc=5",
     "title": "Formial Labs Raises Rs. 2.88 Crore Led by Zeropearl VC to Expand Prescription Skincare"
-   },
-   {
-    "outlet": "ET Retail",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGZJeTV2VGtIdWlrcGFadE1PaGU0aHBaS0RFejRWS0NzQWtYSGdlZG1QcktjZW1Zdkk0ZEpUOURzbmtySVl6eHVKRkFSMko4QzhHQjRGX2hGWDJXaFg4ZHVNOTIyazdLd0VxOFRycUU5YnF0OGw1bFc0NlNWX3Npb0ZNUFhaYzNEOHg0WHRHcW8zTE9aM081VHUyVFpEbEFkdDJuWkVUZ1JUSjdMWm90UU9qdXQwSF9HalItWlBnTnI2NkpuVkpwRDJtMVA3dmotS0tGU2N2SjN2eWJvT2pOQld1TGEtWUXSAecBQVVfeXFMT1RmSXk1dlRrSHVpa3BhWnRNT2hlNGhwWktERXo0VktDc0FrWEhnZWRtUHJLY2VtWXZJNGRKVDlEc25rcklZenh1SkZBUjJKOEM4R0I0Rl9oRlgyV2hYOGR1TTkyMms3S3dFcThUcnFFOWJxdDhsNWxXNDZTVl9zaW9GTVBYWmMzRDh4NFh0R3FvM0xPWjNPNVR1MlRaRGxBZHQyblpFVGdSVEo3TFpvdFFPanV0MEhfR2pSLVpQZ05yNjZKblZKcEQybTFQN3ZqLUtLRlNjdkozdnlib09qTkJXdUxhLVlF?oc=5",
-    "title": "Formial Labs raises Rs 2.88 crore in pre-seed round led by Zeropearl VC"
    }
   ],
   "indiaSignal": "strong"
@@ -3218,10 +3218,9 @@
   "amount": 12500000,
   "currency": "USD",
   "usd": 12500000,
-  "round": "Series A extension",
+  "round": null,
   "investors": [
-   "Z47",
-   "Takes Total Series A Funding"
+   "Z47"
   ],
   "date": "2026-10-14",
   "sources": [
@@ -3229,11 +3228,6 @@
     "outlet": "The Economic Times",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW00UnI0X0VpdzNtcmw3X1B2ZGx5UURqSThGMkFfSGE3OGpwdjFmNE1qSnZXWlhkTTdZSDN5ZlVlRk5RWDN0V1pyTTZZdjE4RXloWjRxWmRtNkFVdVp4TUN0MS1QTnZWT1Q5VjV4b3M4UGxzeExQek9pMUctNUJ1cWVjU3R3ODQtWG40Ujh3SjA4LW82bEJzTDRPZ2Y5bUc1UVcyeEtMUlZyTGphNzNhXzVCMXluVklNYXhYbFkxLVVyc3JFV0NBempyWGhGaERNNnlrTWlpOFVkc1HSAeABQVVfeXFMTW80Q052MlpjQ3lLWjNudS1ESFlyeE14UXRnQ1RYNnYxb1JkYlpSWDFuM1VMNG5WYzFsdGpsYXRWOUVGMExoY01Na21wOEpKUGwzVXJIN3BHbVlfNUdDN3UyVFk0MWdacTNtOTdIQkMxUUozRDljYzhiaWNUXzNwaGRKejNRQXE0NkRQVVRuOWxCR1VpYy1kRnV0Y2piTmE0T0drUmVvc1dMWGtEZW1mUXUwMVViWU5JUmd6OU5QMksxUDVodUV4dWFtMzV1c2hjcW15WkZWS1V4OEFnYmlvWXU?oc=5",
     "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47"
-   },
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdVVYZzFqbWlBa015MXNNdlRhem9UOGFpRUdMWW0wOFJFNW1GeXRpaFRpSHJWaVRQTDhHRHU0b2p4Ql9RcUREcUtGdU1Mb3BZa2w0bXE4TmRIU2h4RjJTWWFKWWZTTkpsZzh5RzhTb1dUQTlmcldkM0plajIyV2RPQ01KUWNfdVBCOWV3b3UzbF9zY0Iwa3YydHkya28yTlRUMHBPam8ycG5DelB5M2lHRUFEN0JDN2c4a29YblRadi1kS2laeVQ1Z2s0SnF2cVRjMVROdHllbkF2YTduRFd6TXRCS0J5ZjkzbXFlLTlhUTc?oc=5",
-    "title": "Confido Health Raises $12.5 Million in Series A Extension Led by Z47, Takes Total Series A Funding to $22.5 Million"
    },
    {
     "outlet": "Indian Startup News",
@@ -3455,11 +3449,6 @@
     "title": "Mesa School of Business Raises INR 110 Crore in Equity and Debt Funding"
    },
    {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb19VTkNUakFPdGpIRW5GeE4wWVV4VFlYSXFqaGxXSDY2Ty16QlJZaVJGUW5BemVLXzFIR2g5MDl4T2ItelZKbVZPUjhrOU0weFFJeV90YmNDcC0yZEl2UmJHS2p6RGRaSzR5ZnVEbS1pcjkyNXVWLU9uclNkbk42dDUzZXFHSEZBcm45XzE1ZGxsZ1RGU2c?oc=5",
-    "title": "Mesa School of Business Raises Rs 110 Crore, With 58% of Placed Students Taking Founder-Facing Roles"
-   },
-   {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkIweHhpV1FsaGw3WnJXbzI3S0RZLXBxN0FaQl9td1M3aWViWWZ6Q04tbW5hWnhUSm9IVmUwZzcyMzlKaDUtSmtzQzJ6RGJ0ZWdqRVlqT0ItUHBPa3pZRUh4TVFOM2huS0ZxbGxyUWVNQ1pqVE1kQ3JnWHVNYmhjekt6WTFZZHB1djBZaUtNY2Y4Z0ZBNFhmNUdITW9ZTGZzcHdqZEkxQ2VzbXRjWnFpMkpVM1hmUlIwV3Z5aA?oc=5",
     "title": "Mesa School of Business Raises Rs 110 Crore in Series A Equity and Venture Debt"
@@ -3468,6 +3457,11 @@
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWNTWVlXV0VyclhxWHNjNzFZUUhLTHg3eUZoOG9xcGVPcWNrN2NWVkotNzJSb1hjY3VqMk81X1V4Q093QVdHcFB4QWpxTGFzeDNwTUp5eS1SVHlnS2dZbmNZNGRDcVhBR2VoSERYS3RUSFBiWEs4bXU3QmNVQnE0ZWU4ZXFMSlhKeVdmTVJVZjdjSWltVDV0djZ30gGaAUFVX3lxTE5hY1NZWVdXRXJyWHFYc2M3MVlRSEtMeDd5Rmg4b3FwZU9xY2s3Y1ZWSi03MlJvWGNjdWoyTzVfVXhDT3dBV0dwUHhBanFMYXN4M3BNSnl5LVJUeWdLZ1luY1k0ZENxWEFHZWhIRFhLdFRIUGJYSzhtdTdCY1VCcTRlZThlcUxKWEp5V2ZNUlVmN2NJaW1UNXR2Nnc?oc=5",
     "title": "Mesa School of Business raises Rs 110 Cr in equity and debt"
+   },
+   {
+    "outlet": "TheWire.in",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZHBuOS1pVjJPOWp5a1pJeEhlNGdwZE15QW1qUTFBUzNzdkhQaHVKbEdiZmpFLUFDUThIXzZhZzB1MkNiR25IeXZ1V3g2ZWNiSnFCQkMxLVh2Nk9GNGIzaG8zejB0YWtDbE5pbUVRRHRWY3FpaExMT01QLU92QkJ6dnNGU1hJa09sNTdQVi1GazF3UUFEOWo2MzVQV0VaU0JYQS1IM3FQRXBLUXZGcUt1czQxYjVBWjdzX2FZaHU4T1o0Zm55YUV4WUZyZ1RWZlFOanA5MjF1SERURE9KQ2fSAd4BQVVfeXFMT2RwbjktaVYyTzlqeWtaSXhIZTRncGRNeUFtalExQVMzc3ZIUGh1SmxHYmZqRS1BQ1E4SF82YWcwdTJDYkduSHl2dVd4NmVjYkpxQkJDMS1YdjZPRjRiM2hvM3owdGFrQ2xOaW1FUUR0VmNxaWhMTE9NUC1PdkJCenZzRlNYSWtPbDU3UFYtRmsxd1FBRDlqNjM1UFdFWlNCWEEtSDNxUEVwS1F2RnFLdXM0MWI1QVo3c19hWWh1OE9aNGZueWFFeFlGcmdUVmZRTmpwOTIxdUhEVERPSkNn?oc=5",
+    "title": "Mesa School of Business raises ₹110 crore to expand its portfolio of programmes for the AI era"
    }
   ],
   "indiaSignal": "strong"
@@ -3723,6 +3717,11 @@
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ3lSYm1NWWxkOTBnUUhNQ2VnaFdnbUlpU3J3NURyMzN5MjdwdzZfcXVldUozU2RtS3FOUldqTmlZQVk1aWgwRVN2eThZbVlFRVVzcXQtd1VvN1ZSX3ZrYnBhRjRValB6MWY1LVpOd2d0N3NvdzNIZkk5dWlPSVhlR2tPdnh4bmZnV3N5Vm9ZcUNJbkNpVWw1b2NhU0tHWTl3MG1Da0JEZUlWM241MEpLUlk2dF9VRUE0YUlkMGIzNUM5bWNrYnc3djN3?oc=5",
     "title": "19-Year-Old Zach Yadegari Raises $10 Million for AI Startup After 15 University Rejections"
+   },
+   {
+    "outlet": "The Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdlBtOWdkMUFRb3BqUmxDS2J0bU5Id2x1d1E5WF9wbWI1X3lWVkFkcnVpUVJacEc4Z0RNT2N6dFZ3aEMtXzBydUNmcWxIQk0tNm1RQlp5ZW8teWVtYVQyQkJKalIyWDFMQ3pEcGlzdV85WHBrT0FSbl9RZDRwMXRuTVV2UFRYZk1XZWdZbVgzTkFGdklaMGJYUEZNT1lNZkFfNjVZbk1iRzd6MHhmYlJITElPZ3BTbk0xNURCVzFURWl4azFPTGROVUcwbTM1SGVJbGswN3k0bkhSQUstSG5UUHlnOWsxekc1b0tJR3ZR0gH0AUFVX3lxTFBXYi1rRDV6SXNKNWd1MUE3czBGQ0VqUVY2Q3BzT0FEanhFelppdW1UZkFRTzNFeVY1MmJ3NEdOdG5LQWkwX2paUF9jbGZsb1ZRVVQtRXVaTE53MjY1VkZ6XzJ2Ui1NUmNMQmhSUzhCQTRib1RYcldSb1laYkdnbWdvZHd5TjVOcFl5d25nUFJWdm1MUDFfRWRXMGtEZ0l4dU95VUc3TFBoekhmVkM1RXpDUXY2UlA2T1U1U3QtRW1UT2NOYnhGRHhEX3VOR3dxTkR3OHhqTXhkWEJnbFowaVdremxTa2NWNGJIWmJJVU8wOTlNT0g?oc=5",
+    "title": "19-year-old raises $10 mn for AI startup after 15 universities reject him"
    }
   ],
   "indiaSignal": "strong"
@@ -3884,36 +3883,6 @@
   "indiaSignal": "strong"
  },
  {
-  "id": "dailyobjects-2026-10-09",
-  "company": "DailyObjects",
-  "key": "dailyobjects",
-  "descriptor": "Lifestyle-tech accessories brand",
-  "amount": 3320000000,
-  "currency": "INR",
-  "usd": 37727272.72727273,
-  "round": "Series C",
-  "investors": [],
-  "date": "2026-10-09",
-  "sources": [
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZXd4NzdwQkNfbWVKZkwxVVJCZXRLd21zZ3VSb2VtSlA1SkxRTXVLUmhKX3R5dmFETkxaZHNiSTRxa016cnRQczVKanlZTTRsVXUxVFBkbFVLOEtxcHNMWVV1dFB2Nm5iRUh1aEFCeXZsYnpVRnlEcDd1dFVER1FuOWJKQXJRTG4tZ1dhRmdKeWJKLXNIRkQwcWNpTmxfRHlZSW5TMm5qUWZadkVrZnBSbnZBS2VISUdiaTVtbnk2SVhkbEt5eFF1bWNpbW55MFZtRG1HbHdn0gHWAUFVX3lxTE9ld3g3N3BCQ19tZUpmTDFVUkJldEt3bXNndVJvZW1KUDVKTFFNdUtSaEpfdHl2YUROTFpkc2JJNHFrTXpydFBzNUpqeVlNNGxVdTFUUGRsVUs4S3Fwc0xZVXV0UHY2bmJFSHVoQUJ5dmxielVGeURwN3V0VURHUW45YkpBclFMbi1nV2FGZ0p5Ykotc0hGRDBxY2lObF9EeVlJblMybmpRZlp2RWtmcFJudkFLZUhJR2JpNW1ueTZJWGRsS3l4UXVtY2ltbnkwVm1EbUdsd2c?oc=5",
-    "title": "Lifestyle-tech accessories brand DailyObjects raises Rs 332 crore at Rs 1,050 crore valuation"
-   },
-   {
-    "outlet": "CNBC TV18",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0VHYVI5RS1PV1Y4aEhaR0RsV1hVOTN6VTIzcllwRmFzanBwODcxaW9NMUtYd0t0ZE1tVkxma2N0aXhPWDV4T3h4cUlPVDFRVlVEWFZ5SUd2bzFmT29ua0t3MFNVX1F3bkRpVXBDdzNCZDd3d3FlYTVQV21BbDJTV3d5SG9sT2tFamVPNUQ4WXMxcDV3UXgwWUZ5Mlg0TEZHOHk3c051b2JTOXdVY0d4aHZSdHhfMTRrVlN5RF9lbEVmMnptUFBJNkQ3ZWQwWjjSAdQBQVVfeXFMTkJaRDZwdy03YjMxTWNLSGhpT3VET2pYSzhHbUVPRl9jUk1XZXE5RXBTREFnbHU4TlRZNElFSDMtWTR3OTVJLVJaNi1jVnFEQlpMVk9ZMHhkN1FxMUVIcmF0dkU5bTJzbGhVd2JnZDA3Ui0zRU9ZTHY4c3RXRDZGUTdjS3JtNFJmTVdadmJObVhHTmhNbWw0eUo4Vy05bkp3VkdOd0RTaTJqNWF1d3lwSzBtaUI5RWhrNEdRUkdOS2gwbHlYamFfU3Y3NjNsR3hncFduZDI?oc=5",
-    "title": "DailyObjects raises ₹332 crore in Series C round; valuation hits ₹1,050 crore"
-   },
-   {
-    "outlet": "BW Disrupt",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3FXNVZOZjJvbkxqb3laUmRFekxtMnZZb2lwWFpIQUpEMGZ5Q0JNbFRYWHRrVXFXbldaUmhTdHhzSXhUTUpDMks4aXNEQTNhQzh3N3otWTVJSDlnZi1PeExieHlmcnBHY3pvUTBQQlFJODM1TjFpWGVSdDlON0hkMVdVRnJUaWdOdi1aYk04U3VKR0phNTVPcEJkODRicU51ckxiUjAwbHpQS3F5bllNdzd5VDVRZw?oc=5",
-    "title": "DailyObjects Raises Rs 332 Cr In Series C Funding At Rs 1,050 Cr Valuation"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
   "id": "neogrowth-2026-10-09",
   "company": "NeoGrowth",
   "key": "neogrowth",
@@ -4002,6 +3971,45 @@
   "indiaSignal": "weak"
  },
  {
+  "id": "dailyobjects-2026-10-08",
+  "company": "DailyObjects",
+  "key": "dailyobjects",
+  "descriptor": "Lifestyle-tech accessories brand",
+  "amount": 3320000000,
+  "currency": "INR",
+  "usd": 37727272.72727273,
+  "round": "Series C",
+  "investors": [
+   "Xponentia",
+   "Anicut",
+   "Axiom"
+  ],
+  "date": "2026-10-08",
+  "sources": [
+   {
+    "outlet": "Moneycontrol.com",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaC1yMlhBUGlQX0c0OFlKNHFPQ21RNU9SVUdBeFIwdm9PVzU3eGRmbTJOdzVQRlFDQkU1VG5JVU12SnAwMHhNcjJvV3pWZmFGS0lraUxFNnJPcXBoeDFMUmRfejFJTE1VSk8xcUxfaXNpaU1ES2g2WHB1SmRtd3lHZGFTOENualJxZDZHZFFzalJKNGF6aDdhTFNsZ25kNnNVSEVqOEtsZGJXMkcwOTk4eFhUX1d6WHB6SEtGMGtZVk9iQkIzQ19hWDdLOFl1XzJ4U2V6ZHlPcmPSAd4BQVVfeXFMTjJaQ0tHcVMxdm5QSjkwNDd4ME45d2FKeXVTSXBlWGdoZ2dWMTJTY0pQQnhhSnNPWWxacklSekJLSzBoa0JTQzQwZ05yM1FPVWE3R2xXWXlSNlpLSXY4bXhockdoZzd5X2FtR01sSXFIeU8xM3E0UVpsa2E0Q19tMmtrcm1pVURONmVocWhoRWN1bXdEOVNOMm1wTVNDOHA4UmVpUE5ZQUxUSWJ5UUJhd200WWdMWXl2N050Vkk0UTNzeGpmcnozVERGcnJwYW1yVHlnUEJzekJCZWdYc01R?oc=5",
+    "title": "D2C startup DailyObjects raises Rs 332 crore from Xponentia, Anicut and Axiom"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZXd4NzdwQkNfbWVKZkwxVVJCZXRLd21zZ3VSb2VtSlA1SkxRTXVLUmhKX3R5dmFETkxaZHNiSTRxa016cnRQczVKanlZTTRsVXUxVFBkbFVLOEtxcHNMWVV1dFB2Nm5iRUh1aEFCeXZsYnpVRnlEcDd1dFVER1FuOWJKQXJRTG4tZ1dhRmdKeWJKLXNIRkQwcWNpTmxfRHlZSW5TMm5qUWZadkVrZnBSbnZBS2VISUdiaTVtbnk2SVhkbEt5eFF1bWNpbW55MFZtRG1HbHdn0gHWAUFVX3lxTE9ld3g3N3BCQ19tZUpmTDFVUkJldEt3bXNndVJvZW1KUDVKTFFNdUtSaEpfdHl2YUROTFpkc2JJNHFrTXpydFBzNUpqeVlNNGxVdTFUUGRsVUs4S3Fwc0xZVXV0UHY2bmJFSHVoQUJ5dmxielVGeURwN3V0VURHUW45YkpBclFMbi1nV2FGZ0p5Ykotc0hGRDBxY2lObF9EeVlJblMybmpRZlp2RWtmcFJudkFLZUhJR2JpNW1ueTZJWGRsS3l4UXVtY2ltbnkwVm1EbUdsd2c?oc=5",
+    "title": "Lifestyle-tech accessories brand DailyObjects raises Rs 332 crore at Rs 1,050 crore valuation"
+   },
+   {
+    "outlet": "CNBC TV18",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0VHYVI5RS1PV1Y4aEhaR0RsV1hVOTN6VTIzcllwRmFzanBwODcxaW9NMUtYd0t0ZE1tVkxma2N0aXhPWDV4T3h4cUlPVDFRVlVEWFZ5SUd2bzFmT29ua0t3MFNVX1F3bkRpVXBDdzNCZDd3d3FlYTVQV21BbDJTV3d5SG9sT2tFamVPNUQ4WXMxcDV3UXgwWUZ5Mlg0TEZHOHk3c051b2JTOXdVY0d4aHZSdHhfMTRrVlN5RF9lbEVmMnptUFBJNkQ3ZWQwWjjSAdQBQVVfeXFMTkJaRDZwdy03YjMxTWNLSGhpT3VET2pYSzhHbUVPRl9jUk1XZXE5RXBTREFnbHU4TlRZNElFSDMtWTR3OTVJLVJaNi1jVnFEQlpMVk9ZMHhkN1FxMUVIcmF0dkU5bTJzbGhVd2JnZDA3Ui0zRU9ZTHY4c3RXRDZGUTdjS3JtNFJmTVdadmJObVhHTmhNbWw0eUo4Vy05bkp3VkdOd0RTaTJqNWF1d3lwSzBtaUI5RWhrNEdRUkdOS2gwbHlYamFfU3Y3NjNsR3hncFduZDI?oc=5",
+    "title": "DailyObjects raises ₹332 crore in Series C round; valuation hits ₹1,050 crore"
+   },
+   {
+    "outlet": "BW Disrupt",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3FXNVZOZjJvbkxqb3laUmRFekxtMnZZb2lwWFpIQUpEMGZ5Q0JNbFRYWHRrVXFXbldaUmhTdHhzSXhUTUpDMks4aXNEQTNhQzh3N3otWTVJSDlnZi1PeExieHlmcnBHY3pvUTBQQlFJODM1TjFpWGVSdDlON0hkMVdVRnJUaWdOdi1aYk04U3VKR0phNTVPcEJkODRicU51ckxiUjAwbHpQS3F5bllNdzd5VDVRZw?oc=5",
+    "title": "DailyObjects Raises Rs 332 Cr In Series C Funding At Rs 1,050 Cr Valuation"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "quanfluence-2026-10-08",
   "company": "Quanfluence",
   "key": "quanfluence",
@@ -4016,14 +4024,14 @@
   "date": "2026-10-08",
   "sources": [
    {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0JIdjgzZm8xSDVQWXJTYm1adVhoaXppTERyNlk1TXo1eXVPVUFiSmJVeW9ORlN1NWdkY0VVbkJDZ0hMZEZBRUY2NkdKTUx3WE50SHA1cGVlN3ZuT1JQcmt6NXJmV2lxRkNOaG1WQ2RLRUNqYTZjRW9aU1F4WTlyWUxyaW1zOC1IRnNvUTB1ckIxc2w5a252Si1Xbk1fLVBDZTMzWExDbmk?oc=5",
-    "title": "Quanfluence Raises $10 Million Led by Chiratae Ventures, Targets Scalable Quantum Computers by 2029"
-   },
-   {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNWxlQWw3TnJhdWdXYUoyOU1jcXFCemxiWWFpbmVLckRUd3BTNWVwT29BWHdtR1FDN1Q2N01QTzNwRUJPMHZIN1p2bmRqbHUybDBQeGRGRzJya2RCenRaM2RFNTJLU2hZYXhnSXBHRU10eEdMcVZlZnhBYkZ6cThzRDZETW45N0dacS1Ddm9QYU5zUXJIa0IxSTFVd2dNcWhWREV0VG9USjJob2VCaVl5SjZqTFRHRG40QTRGOE90SDU?oc=5",
     "title": "Quanfluence Raises $10 Million to Advance Photonic Quantum Computing in India"
+   },
+   {
+    "outlet": "https://ascendants.in/",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0JIdjgzZm8xSDVQWXJTYm1adVhoaXppTERyNlk1TXo1eXVPVUFiSmJVeW9ORlN1NWdkY0VVbkJDZ0hMZEZBRUY2NkdKTUx3WE50SHA1cGVlN3ZuT1JQcmt6NXJmV2lxRkNOaG1WQ2RLRUNqYTZjRW9aU1F4WTlyWUxyaW1zOC1IRnNvUTB1ckIxc2w5a252Si1Xbk1fLVBDZTMzWExDbmk?oc=5",
+    "title": "Quanfluence Raises $10 Million Led by Chiratae Ventures, Targets Scalable Quantum Computers by 2029"
    }
   ],
   "indiaSignal": "strong"
@@ -4107,6 +4115,11 @@
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORjdPOWZ3eGIyVnR4U3FDTHQ1SWZUa1VTLUxSYnVwM0J0WVdESVhBMGtldm5qbTA4RWl4VHhtdDRjY29JbXlpWGo1MzZVcWJWX1ViOGotYjhJMVdsNnc5NnE4dE5sUTAtN2llZ3Z3MTV0ZmNaZVNYa1gwOC1nejBNc2Z4ejRTOGZUS2NyWm5iV2lHLWMxZlduc2trblZNbFZEZGVic0VCbE9jYU1xb0IwaXlLa0owcm56ZG5BRWRJeFJuMEJEMndn?oc=5",
     "title": "Zinara Raises ₹3.61 Cr in Pre-Seed Round Led by Inflection Point Ventures"
+   },
+   {
+    "outlet": "Entrackr",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQczdJUTd5Q2VCX19fd0M5UUZPM1d2TEJWdGhjSkhGT0pvLTBaRmx3VzFpWE1FSVdaQkZPMTRweGJ1XzJmd19kQThmRmRvYUZzcnV3YlZwUmIyTklOTUdFVlZ0REU3NWRMTktRVkhPaUVtei0tZGlKTWk0NThXVEtHQTlxYUZ1cEhWbGpLVHpYdG1zTG9TMHNPbFJPOXBiUkFzREZlX2xPZmFqcFRMOE1odjBodFFUaVJKdUc3TUxVeHVTMlY00gHEAUFVX3lxTFBzN0lRN3lDZUJfX193QzlRRk8zV3ZMQlZ0aGNKSEZPSm8tMFpGbHdXMWlYTUVJV1pCRk8xNHB4YnVfMmZ3X2RBOGZGZG9hRnNydXdiVnBSYjJOSU5NR0VWVnRERTc1ZExOS1FWSE9pRW16LS1kaUpNaTQ1OFdUS0dBOXFhRnVwSFZsaktUelh0bXNMb1Mwc09sUk85cGJSQXNERmVfbE9mYWpwVEw4TWh2MGh0UVRpUkp1RzdNTFV4dVMyVjQ?oc=5",
+    "title": "Lab-grown diamond brand Zinara raises pre-seed funding led by Inflection Point Ventures"
    },
    {
     "outlet": "Indian Startup News",
@@ -4288,14 +4301,14 @@
     "title": "Zomint Raises Rs 36 Cr In Seed Funding From Lightspeed, Prime Venture Partners"
    },
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDlLRlhGNFVaQUp6bEEyOEZ6TS10d09oSFFkSlhveHFxbEdGaDdoR2owR1BraEdpRXc3bnhKTmtBZm9TTHFjTzRTVS1uRF9udkdnaFhEXy1nX3dLNTVZV0t4Vlo2Z3EzOE1UbEkydFVZN1lpREI3R0J2OENJU3dWUmJoa1hwU21ySll0bWJaUUJpYk5oTFdkamZlY2FZeUxpeHRCWUd2c0Q1dXNyR3hQekk3cEpsX2VPbDBfOVZBZ29wTnJjaWlMOGdTYURZVlE?oc=5",
-    "title": "Zomint Raises ₹36 Crore Seed Funding from Lightspeed and Prime Venture Partners"
-   },
-   {
     "outlet": "The Economic Times",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ0xDOUlfLWdVQXVhcWt0UTBLR2ZFaktEZlI3V3VQajVNZHVjU2s1T2pGdXl0QzdteEZZYzBCUWZnYjBxRnk3NVpfZmFJRGFOTzFyS3hLYzd5MjE5aC00WFBUQlhlTDhDd2RmWjFpemZBQjNJOGRvTVpPTHQ5SmJ5VGQ3aV9IMmxYNC1PR1M0T0VncUl6dE0tYUpHV0pZQXZLTmRHN3JjS2dfRU10WFlJRVpTSm93aXYtQmZDNWUzUEJPSEJST0RMUTlqSnFvck9fcUJzUmhpX2V0RDFLeTJwN3E0ZmMxd9IB6wFBVV95cUxPNWNKVDZqX1V4WkJ3cm9CNHhBZDlnYjdpaG1RQ1J2NHJwRUM1RUVwRERlMzlXbmNleTl5R3R5MnN0eG9GTGdGOTZWb01RMlc0VEpvMGpfQWZlZ19wcDY4eEQ3S29VQ1NiNkt4NmpuRDhnUS1YNjFRN2VyUWlZTVpYUXRyR3NwMG8zZEkxS1k0X2tHTENlbldZam4wcG5GYVNUbDZBbHBmbHVnTDN1SE9RWC16eUp6cmIwbTNjei1uN2FpYkh6NjZ6cVNZTkkwalZLMkc3Sk1xN0tWSk9QeUwwWF9DQ3lqckwxcHdv?oc=5",
     "title": "Wealthtech startup Zomint raises Rs 36 crore from Lightspeed, Prime Venture Partners"
+   },
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDlLRlhGNFVaQUp6bEEyOEZ6TS10d09oSFFkSlhveHFxbEdGaDdoR2owR1BraEdpRXc3bnhKTmtBZm9TTHFjTzRTVS1uRF9udkdnaFhEXy1nX3dLNTVZV0t4Vlo2Z3EzOE1UbEkydFVZN1lpREI3R0J2OENJU3dWUmJoa1hwU21ySll0bWJaUUJpYk5oTFdkamZlY2FZeUxpeHRCWUd2c0Q1dXNyR3hQekk3cEpsX2VPbDBfOVZBZ29wTnJjaWlMOGdTYURZVlE?oc=5",
+    "title": "Zomint Raises ₹36 Crore Seed Funding from Lightspeed and Prime Venture Partners"
    },
    {
     "outlet": "Indian Startup News",
@@ -4439,14 +4452,14 @@
     "title": "Kitchen appliance startup Beyond Appliances raises Rs 110 crore led by Fireside"
    },
    {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHRSejEtMzRxcTRuSWpDQmRxc3FHb2xEVXQ0WEEyV3pFQV82NDBaQWlLVmFuSXJkLUFuYi03dDFPdm5abUNqbW9UMEl2Sjdzek9leVN5WnJDZUdObnJUUVB6b0hhUGgzVmZjeVlTTlZRWmhlTnF0XzhNOEJxRGx2RDF2VF9CWWNZcjRCNVJDbXN3U19YUzJXejZTeUx2dUlSZ2dpYmVMZzhfRnpkQVpz?oc=5",
-    "title": "Beyond Appliances Raises Rs 110 Crore in Series B Led by Fireside Ventures"
-   },
-   {
     "outlet": "BW Disrupt",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXE0bV9TSkxqSEl0VWJBcF9zTkRnMnFCOEJNUUtuZ08tbkQ1a2Z6SDZYbTEtN2licEtCeUI4WlRiNWpqcWhFZ2p4Q3g3cFFHWm94ckwtaTVVQTRSZVpCUE9xc3B2Um9tVHk4RzcwUWRmRjgzbUViQnY2QXpTa3dxcE0xQ2h6c2tKLWlqeFhEcEk5QVBhdlB2OWxQc0tNWHJ4Q195TGtiY0J3MnF0RlFqeHVzZU5xOHd4ZGc?oc=5",
     "title": "Beyond Appliances Raises Rs 110 Cr In Series B Round Led By Fireside Ventures"
+   },
+   {
+    "outlet": "https://ascendants.in/",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHRSejEtMzRxcTRuSWpDQmRxc3FHb2xEVXQ0WEEyV3pFQV82NDBaQWlLVmFuSXJkLUFuYi03dDFPdm5abUNqbW9UMEl2Sjdzek9leVN5WnJDZUdObnJUUVB6b0hhUGgzVmZjeVlTTlZRWmhlTnF0XzhNOEJxRGx2RDF2VF9CWWNZcjRCNVJDbXN3U19YUzJXejZTeUx2dUlSZ2dpYmVMZzhfRnpkQVpz?oc=5",
+    "title": "Beyond Appliances Raises Rs 110 Crore in Series B Led by Fireside Ventures"
    }
   ],
   "indiaSignal": "strong"
@@ -4562,7 +4575,7 @@
   "id": "refitglobal-2026-10-06",
   "company": "ReFit Global",
   "key": "refitglobal",
-  "descriptor": null,
+  "descriptor": "Refurbished electronics startup",
   "amount": 1000000,
   "currency": "USD",
   "usd": 1000000,
@@ -4572,6 +4585,11 @@
   ],
   "date": "2026-10-06",
   "sources": [
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3JGa0lQTnpBQnVpYmdjUkpSV292d09oU3I5bGYtX2xJdDRRSkNfbTFqTmZreUtmV3dHQzhjYmxJdUNmVmFOLUdmZHR4azhwWXREb1JranA4a0UzcThMTGJELXJkLW9wemtkMTJvZEpuaHBsRTk3SGFFYXpNNWlLUEpPRFYxVUxKWHhlMWhjNXNuTW5LWi1VeG5nWlZCS0ZNQjZyNnJNd3lCdzZGQmlqZmw3ejEyQ2llVkRMMEJNbTNTWm9JazRSVFZ1c2NuWllNcVlj0gHTAUFVX3lxTE1XckZrSVBOekFCdWliZ2NSSlJXb3Z3T2hTcjlsZi1fbEl0NFFKQ19tMWpOZmt5S2ZXd0dDOGNibEl1Q2ZWYU4tR2ZkdHhrOHBZdERvUmtqcDhrRTNxOExMYkQtcmQtb3B6a2QxMm9kSm5ocGxFOTdIYUVhek01aUtQSk9EVjFVTEpYeGUxaGM1c25NbktaLVV4bmdaVkJLRk1CNnI2ck13eUJ3NkZCaWpmbDd6MTJDaWVWREwwQk1tM1Nab0lrNFJUVnVzY25aWU1xWWM?oc=5",
+    "title": "Refurbished electronics startup ReFit Global raises $1 million from UAE-based family office"
+   },
    {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTFRHUVJfZWFqcnhkaTFNSFF1ZndyMF8zRmF6ZXE4bHd1aWNoQVNiZktnMlVNSWJSWU9SbUszd1JkdGZHS2twMHRib2dtRHpVVHVFOGo3YWlDOVlKTndGQkZDdy1aZk81bHgyNlVGbDJzeEVmdGk0SUQwYTRnd0tFeHAzb0lNdlRGeFpxOHZMRzlQUzBqVERDWHBSN2ZWUFNMeHhYeFBMbWxXRzBkekxzbkNJLXB1cXR5OGZBNHV4TDZpQmVBbzFtQXZNbVZ0bzJa?oc=5",
@@ -4661,7 +4679,7 @@
   "id": "qpiai-2026-10-05",
   "company": "QpiAI",
   "key": "qpiai",
-  "descriptor": "Quantum computing and AI firm",
+  "descriptor": null,
   "amount": 500000000,
   "currency": "INR",
   "usd": 5681818.181818182,
@@ -4675,11 +4693,6 @@
     "outlet": "Siliconindia",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS1RkSzB4Y2RQRGNNZ3E4TlBkWGlMdTJUbEdyNjFTYWxiXzhnR3lZQ2FJekxfaWJBWmVOcnJnZXVuekp0NHRfSV9LQTlxWElxbGF4MVhfY0phMlFQNmp1X0dTY3JEX3ZEbFdWcnFxNUZ6R1dxNGRraFpNQmFXNHI3SW1PTkE1WUhXZFlIMDlfcDIwaGQ4bnJ3UGstWHF6NjVOcFZZOThJcGxFanBHa1lEM2FNNHBvTEdVRkJ2WTNEakVxSDQzanFBYmdzMlNhZEhwMlJJd05nOUpyTFJ5RFVr?oc=5",
     "title": "QpiAI Raises Rs 50 Crore In Debt Funding From InnoVen Capital To Scale Growth"
-   },
-   {
-    "outlet": "YourStory.com",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0R1U0JtMVdQTWZDSkNyU0NPT1hiQTBtXzdrME1QTGZEdHlReXlrM2tkZEhmVnZfTFlERkhUOHFCU1hmTXRfZFh0ZnNwanl1NGRkU2Z6ZjlKMnI4SHg5MEIzYkxpWVY3Q3o2Z0tudGt0NExMdE1LS2c4VkRkb19MeTg1LV83eVRrNTAzcDFZbVJKdw?oc=5",
-    "title": "Quantum computing and AI firm QpiAI secures Rs 50 Cr debt financing from InnoVen Capital"
    }
   ],
   "indiaSignal": "strong"
@@ -4797,26 +4810,6 @@
   "indiaSignal": "strong"
  },
  {
-  "id": "bangalorewatchcompany-2026-10-03",
-  "company": "Bangalore Watch Company",
-  "key": "bangalorewatchcompany",
-  "descriptor": "Luxury watch brand",
-  "amount": 1400000,
-  "currency": "USD",
-  "usd": 1400000,
-  "round": null,
-  "investors": [],
-  "date": "2026-10-03",
-  "sources": [
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnlFZ3BJLU9pcGhFMm5nQ3dsSWM3NG1uTmItcGpFSjRrZWFOeWxiQUJ6cExwY3gxZkJkODdOQ3BEZWlrYm55b3Y4aW05WkUxNjE1RUdRM1YyWGdtZTJTVkZUNUYxTzlrNXJSV1N3ZVFEdjRvdnIzWTBWNlNfaFV2V3otNW5DblN3ckd5c2lkbjljdmY1b1Bfa0wxODFlQ2JCZXpLY21hRUJaVy1CTlRxSGJNeldINE84TkVXU2tSNE1Id01qeTNaQnA2bHFfUdIBzgFBVV95cUxOQnlFZ3BJLU9pcGhFMm5nQ3dsSWM3NG1uTmItcGpFSjRrZWFOeWxiQUJ6cExwY3gxZkJkODdOQ3BEZWlrYm55b3Y4aW05WkUxNjE1RUdRM1YyWGdtZTJTVkZUNUYxTzlrNXJSV1N3ZVFEdjRvdnIzWTBWNlNfaFV2V3otNW5DblN3ckd5c2lkbjljdmY1b1Bfa0wxODFlQ2JCZXpLY21hRUJaVy1CTlRxSGJNeldINE84TkVXU2tSNE1Id01qeTNaQnA2bHFfUQ?oc=5",
-    "title": "Indian luxury watch brand Bangalore Watch Company raises $1.4 million to expand globally"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
   "id": "growxcdfinance-2026-10-01",
   "company": "GrowXCD Finance",
   "key": "growxcdfinance",
@@ -4857,14 +4850,14 @@
     "title": "Gurugram-based NBFC Seeds Fincap raises over Rs 100 crore from Michael & Susan Dell Foundation"
    },
    {
-    "outlet": "Tech in Asia",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ09JdnpSeHhCQlB2QnFuMkZJT3pjTzVUeC1GSVB4dUJsY21YVmlUaERHdy1DUXhUYzlOVjdBNHFwaDNQX1p0R1V2YUZuZUV2VHc1LTR2dGctYU5rOWR0YmViWTdGbE0zN1duaGZzN2ZrSERzemNxLUE3ZzMzS2dWbmtiRXBGYmZJbEl0Ni1vaXJpYnV5T2c?oc=5",
-    "title": "Indian lending tech firm Seeds Fincap raises $10.4m series B"
-   },
-   {
     "outlet": "Siliconindia",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRzhSMS1uUWVRcU9sRmI2QjVXelRzc0Z1ekFvTG5UMEEtNU5LT3FLNk43MzNBTmJzajlCT2NKUkRkdm1pZExoN1VOSGZiSGJCTE83TlozdFc1b3ZPd3Bya0EyWXh6c1d3QUxQbjgta1dsZGp0aDJGYmRETUVrZzhudEw4OWRrVHFYZWxoUHE3d1F4dGZGRzlnZmMzc2FucVN4WXVrMjFFaDdMZUkyWmN0bTJDWmlGWmFPR2JjWTBjY1NXQW82a0Jn?oc=5",
     "title": "Seeds Fincap Raises Rs 100 Crore Series B to Expand Lending"
+   },
+   {
+    "outlet": "Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ09JdnpSeHhCQlB2QnFuMkZJT3pjTzVUeC1GSVB4dUJsY21YVmlUaERHdy1DUXhUYzlOVjdBNHFwaDNQX1p0R1V2YUZuZUV2VHc1LTR2dGctYU5rOWR0YmViWTdGbE0zN1duaGZzN2ZrSERzemNxLUE3ZzMzS2dWbmtiRXBGYmZJbEl0Ni1vaXJpYnV5T2c?oc=5",
+    "title": "Indian lending tech firm Seeds Fincap raises $10.4m series B"
    }
   ],
   "indiaSignal": "strong"
@@ -4899,30 +4892,50 @@
   "usd": 1897727.2727272727,
   "round": "Pre-seed",
   "investors": [
-   "Aviral Bhatnagar’s AJVC",
-   "AJVC"
+   "AJVC",
+   "Aviral Bhatnagar’s AJVC"
   ],
   "date": "2026-10-01",
   "sources": [
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd1hLUXJtM0laTUVkYS1QeXdlMmd2N29hY19MNE9qRFBRdnpGd1JZdUNoZTY5djdNN0M2QjFDQ1RXTHNkZXRyNWY4UHhQNDRodF85eGtZaktMSzB1YnRmcVJPeFZMcnBoaVdNV3RsN08wU0tCQk5INmNrWk5jcDNFMkdYbmRKNWFuUzFyOG5EOHpDVjhHZk53N1JPRDhHcTI5d2RrMTVzaDNYQlVaOFZkQXBvU3VEUTR3Q3Jvd2pKZTJkcE1WQ2t0TzhEU05hcEN0ZTZ0WkFEZ0I1M3NXQ2Y1YzRHMGk?oc=5",
-    "title": "Unveilr AI Raises Pre-Seed at ₹16.7 Crore from Aviral Bhatnagar’s AJVC to Turn AI Search into Leads"
-   },
    {
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcC04b0F2UGtoS3FqdTJKSFh3OW8wVW1qQ09GS0s2TURLS3ltLUEyMUtjSlVjUkhxOFNHb2dlTG5ka3pybXFLLWJFVkVYdURkSG5iU2gtREZnSS1yOXJSTWRUM0VJa2ppOE5XT0E3NFdMVTlRM3lPU3p2ODg5bHcxckRLT2hiSHZFNWk0dHB3VWtIY1ZTb0pVbTlZbXd5ZHBQcGF0MzliQdIBpwFBVV95cUxNcC04b0F2UGtoS3FqdTJKSFh3OW8wVW1qQ09GS0s2TURLS3ltLUEyMUtjSlVjUkhxOFNHb2dlTG5ka3pybXFLLWJFVkVYdURkSG5iU2gtREZnSS1yOXJSTWRUM0VJa2ppOE5XT0E3NFdMVTlRM3lPU3p2ODg5bHcxckRLT2hiSHZFNWk0dHB3VWtIY1ZTb0pVbTlZbXd5ZHBQcGF0MzliQQ?oc=5",
     "title": "Unveilr AI raises pre-seed round from AJVC at Rs 16.7 Cr valuation"
    },
    {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRHZMbDRNYXVwLTNZVGdfRWlTblJ3SVRtbi1tQWd2QTRVa012MXBNbHB0LWpGaks3SXpCRmR6ZXNpeXpQZkIxUC1QZk9udGRBbmF4WEJjSWxZYVpVekdFSDJGam96UDNDUEZ0THFFazRXcm5wWlN0bjEwWEE4VlhHWmJzc2xReC1fdWxPemdxaXdRdlJFakFz?oc=5",
-    "title": "Unveilr AI Raises Pre-Seed Funding at Rs 16.7 Cr Valuation to Build AI Search Agents"
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd1hLUXJtM0laTUVkYS1QeXdlMmd2N29hY19MNE9qRFBRdnpGd1JZdUNoZTY5djdNN0M2QjFDQ1RXTHNkZXRyNWY4UHhQNDRodF85eGtZaktMSzB1YnRmcVJPeFZMcnBoaVdNV3RsN08wU0tCQk5INmNrWk5jcDNFMkdYbmRKNWFuUzFyOG5EOHpDVjhHZk53N1JPRDhHcTI5d2RrMTVzaDNYQlVaOFZkQXBvU3VEUTR3Q3Jvd2pKZTJkcE1WQ2t0TzhEU05hcEN0ZTZ0WkFEZ0I1M3NXQ2Y1YzRHMGk?oc=5",
+    "title": "Unveilr AI Raises Pre-Seed at ₹16.7 Crore from Aviral Bhatnagar’s AJVC to Turn AI Search into Leads"
    },
    {
     "outlet": "Indian Startup News",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdGJQN0RPUThmeEtrSXRjSExKUlBHRjF6Y2prZTlNamU1Z2RXVW44TW93cnRwbFVQZm1HRmhkcGlTM29YbmJsOWptRmN6OXJIa0M5anExVkk4TlpJOENUTzNoaWhZMVJ1aEI2SU92X0lDR1FpQmVGb20tbnZrYkZUN3dOUHk0OFdVS3AxM0hkMWctakhuQTVyblgzTmVfclZnbmhVYllMNzZnRFpTUGRYTzAzUE5kRjNKS1QydmU1aDNDTGg0QmFOSHhzRFp6eHhn0gHQAUFVX3lxTE50YlA3RE9ROGZ4S2tJdGNITEpSUEdGMXpjamtlOU1qZTVnZFdVbjhNb3dydHBsVVBmbUdGaGRwaVMzb1huYmw5am1GY3o5ckhrQzlqcTFWSThOWkk4Q1RPM2hpaFkxUnVoQjZJT3ZfSUNHUWlCZUZvbS1udmtiRlQ3d05QeTQ4V1VLcDEzSGQxZy1qSG5BNXJuWDNOZV9yVmduaFViWUw3NmdEWlNQZFhPMDNQTmRGM0pLVDJ2ZTVoM0NMaDRCYU5IeHNEWnp4eGc?oc=5",
     "title": "AI search startup Unveilr AI raises pre-seed funding from AJVC at Rs 16.7 crore valuation"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "bangalorewatchcompany-2026-10-01",
+  "company": "Bangalore Watch Company",
+  "key": "bangalorewatchcompany",
+  "descriptor": "Luxury watch brand",
+  "amount": 1400000,
+  "currency": "USD",
+  "usd": 1400000,
+  "round": null,
+  "investors": [],
+  "date": "2026-10-01",
+  "sources": [
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEJIM3lQNS0ybjRJZVY5VEtmQmFXZ3h5M3N3ajduVUxkSFR4ZXhjUlhXM3EycjlPYzl6eEV0WmlUOHNHMVBKWU5QYTJLSFhGalRVenZtNS1NR0Y1NVNTdlJwaTQ0bWVDMV8xdGp5dmNGTk9nRzBnRkxIUzd0LUgzZ1B0M1hDZjlkNFNVNU11YU1nMDJra25KUnVmWi12NnQ5U3ZSWmtONFZNclFLdkpna0JoOUN5UQ?oc=5",
+    "title": "Bangalore Watch Company Raises $1.4 Million to Expand Global Presence"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnlFZ3BJLU9pcGhFMm5nQ3dsSWM3NG1uTmItcGpFSjRrZWFOeWxiQUJ6cExwY3gxZkJkODdOQ3BEZWlrYm55b3Y4aW05WkUxNjE1RUdRM1YyWGdtZTJTVkZUNUYxTzlrNXJSV1N3ZVFEdjRvdnIzWTBWNlNfaFV2V3otNW5DblN3ckd5c2lkbjljdmY1b1Bfa0wxODFlQ2JCZXpLY21hRUJaVy1CTlRxSGJNeldINE84TkVXU2tSNE1Id01qeTNaQnA2bHFfUdIBzgFBVV95cUxOQnlFZ3BJLU9pcGhFMm5nQ3dsSWM3NG1uTmItcGpFSjRrZWFOeWxiQUJ6cExwY3gxZkJkODdOQ3BEZWlrYm55b3Y4aW05WkUxNjE1RUdRM1YyWGdtZTJTVkZUNUYxTzlrNXJSV1N3ZVFEdjRvdnIzWTBWNlNfaFV2V3otNW5DblN3ckd5c2lkbjljdmY1b1Bfa0wxODFlQ2JCZXpLY21hRUJaVy1CTlRxSGJNeldINE84TkVXU2tSNE1Id01qeTNaQnA2bHFfUQ?oc=5",
+    "title": "Indian luxury watch brand Bangalore Watch Company raises $1.4 million to expand globally"
    }
   ],
   "indiaSignal": "strong"
@@ -5033,11 +5046,6 @@
     "outlet": "YourStory.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRU9BWmNxWHpNeV9TUGVGbXdBeXBuMHFoYXdzQXVuSEU4SWlOekVpV2FuU0RoTTFsbHdPTkR1R2F4cV96YWF5S2ROSFotWEVJTG9mUDdJbGFxMFdVWFNTcEQzRTJieWhFc0RJa1dpdlhwWlVjVXNSNGtIa0xKcVBoYWQxRkVFRHJIajBTUjE5aWZJdw?oc=5",
     "title": "EV two-wheeler maker Simple Energy bags Rs 1,750 Cr funding"
-   },
-   {
-    "outlet": "TradingView",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXpKcVU5a0dXX0tRMkNQOFVINjdKdmVxZW1yYkl3b2Z5bmg2UFhBRUNSN01wUFdWd1J1Z2RBeGFTQzJ0bFhQX0c1cGE2VWxsVUpyTU0wbHdjZk9KUXBzVmFfSGxadUFJcWNsSjlPUFlERWlqT3lROFRxc1VBcjdTb2R1RGJtc0JwdHlxelJjcFZoQ2NCbHBrd3pTT2E?oc=5",
-    "title": "Simple Energy Bags $180m to Scale EV Ops"
    }
   ],
   "indiaSignal": "strong"
@@ -5068,14 +5076,14 @@
     "title": "Home interiors startup Gravity raises $15M led by 3one4 Capital and Info Edge Ventures"
    },
    {
+    "outlet": "CNBC TV18",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1RDSGhBQm9TUnR2cDVCbW8tYW5DTkdqbEFrNktMVEVtUWp3dTU3NFVnSThocDVGcUtQSjZfdDJnWlhSdExNNDVMVy05ZDR3THhCRjRIbENjVjYxSlZMVnVkV1NvakdKREtpZWc0M1VJVVhsVjFXUzJXc0xjUUxhX2NTS0dYR1ExN0hQN1dVcEc4MVkxSWd0eVM3ZGNpeTZGUVM4cW1JZjNlOHVGUjJSRmV3V0tKNk5HRWNhazQxTjQ3UExMeTJvVmxoSlBlR0plNUQ3bTFfMm9USFHSAeABQVVfeXFMT2ZMeHVVNllCYzJDaFZHX3htVk15QlV2Z2lIOHhYSUkzYUxkVlRJUW5zU2NiRmhpenhaaFJYV1l2Tk1JRndLSC1jQm9MczE5N3JqaEhUVXc5OXlwRTFzUlFaTnFJeVFEMVd0VjUyaTRIV3ZZSUJkOC00blU4THUtUG9qUFhaTnJrSWYzbDBUUWJVSHF0Umh5VDBOSVUyVUFKeFNaYm1hWGk2U2pWOG5PblhhVEpTbnBQZlFWUlN5OEdKMk8tbG0tVHJYQ0FNdGNLbnpyWUhOOVVvSXJjQzBRdGU?oc=5",
+    "title": "Home interiors startup Gravity raises $15 million to expand beyond kitchens and wardrobes"
+   },
+   {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUdXeTJvWDZ1eU4yQXN3YkpXTzlkZG1wX0VWMDZLLS13cXBlVktYbzBCV1ROLTlRUVplM0dDc0E5STNJd1dtSkpyS3ItSmVXRGJWUHRWTEFGZFM2UDZSSnVmVjJ4ajg4ZkVCQ3NqWjVHMW1yeTJfX2c0eXJJSVFDV21VajcyOW55dGlYbVlZOWtGOXdrQXhFSTNTOUpXa3ZPb0pXWXRvLTVVdFN1Skh2VTRzRHNrcnNOQVE?oc=5",
     "title": "Gravity Raises $15 Million to Build Technology-Led Interior Materials Platform"
-   },
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVAzMWtTQWxWdHRJWEx5Q2o2bV9nZENaajZKX1BCWGdnRThUR055aWxwT0h4N1lPdGFuTFRELXY1NlFMV0pxdkR0V1c1ak9ROFlKeU5wak1TWFhiOElLOHEtaXE5eTFldVVWN0R0aDBDekN3cWQxMEtCUEs2Tm5TM0YyTXVBb0RlaWJNWUZyZnh4dkI5ZjB4SUZENjBQdVZ3NlBKSWxiNFNBeHhXWUQ3WUtRbDBfbnNOUW5PWmt4LTQ0Z1JDd3FkejBhai16eE1xZHVnSkxsWjNDcmY30gHcAUFVX3lxTE1lUDMxa1NBbFZ0dElYTHlDajZtX2dkQ1pqNkpfUEJYZ2dFOFRHTnlpbHBPSHg3WU90YW5MVEQtdjU2UUxXSnF2RHRXVzVqT1E4WUp5TnBqTVNYWGI4SUs4cS1pcTl5MWV1VVY3RHRoMEN6Q3dxZDEwS0JQSzZOblMzRjJNdUFvRGVpYk1ZRnJmeHh2QjlmMHhJRkQ2MFB1Vnc2UEpJbGI0U0F4eFdZRDdZS1FsMF9uc05Rbk9aa3gtNDRnUkN3cWR6MGFqLXp4TXFkdWdKTGxaM0NyZjc?oc=5",
-    "title": "Home interior materials startup Gravity raises $15 million led by 3one4 Capital, Info Edge Ventures"
    }
   ],
   "indiaSignal": "strong"
@@ -5162,7 +5170,7 @@
   "id": "blitz-2026-09-30",
   "company": "Blitz",
   "key": "blitz",
-  "descriptor": "Quick Commerce Fulfilment Startup",
+  "descriptor": null,
   "amount": 287000000,
   "currency": "INR",
   "usd": 3261363.6363636362,
@@ -5181,11 +5189,6 @@
     "outlet": "Siliconindia",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzN4UGV0aDJ3Y1F5X3lsSEU1Mkc3VWRBY2IxQWtKMDVNT25oNlpkUmhtX2ctdmhsdlBnRmtfbzFFNzBxNUt5ZUtQNFVhZWxvNmI5Q1oxWXRKc1pScUFxWHhINUQtU0Qzb0QxMjNuS2dFSmxfNjhKRldBVDcwTVpORHhzeHJVaFA1cFJBcWdfb3cyU2dQcE1CY0hMR3Z4dmdSOGo1dGtSYmxSN2xYVndFRVR5SnBsbmRIT083S1lCcXdEb2RTcm5LUA?oc=5",
     "title": "Blitz Raises Rs 28.7 Crore in Pre-Series B Round Led by IvyCap"
-   },
-   {
-    "outlet": "Indian Retailer",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEM0V0MtczJ2M0p6c3d5Uks3aU9UdDJHU0JZeENkN05NcmZodndmUTVoc3VIejlZSVZ2NTVyclZWWERwV0cxRlFpN19BSUtZTTVyNzFET0dIWnlJcVk4SmRtdm5SSWZEZmNmQmVuQVN5OFczZ0pCUUp2LXVfRWVxLUpSSzh5cDM5Zlcxa1lVWk9UMTBmeGpnVnkxbW9PUnRUYzYwUDI0MDc1VWJfWXlNUk1uN1ZhUQ?oc=5",
-    "title": "Quick Commerce Fulfilment Startup Blitz Secures Rs 28.7 Cr Funding"
    }
   ],
   "indiaSignal": "strong"
@@ -5240,14 +5243,14 @@
     "title": "Longevity startup Vytalyou raises Rs 9 Cr in pre-Series A round"
    },
    {
-    "outlet": "Express Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTkwTExNei1sVVMtT0ZMOFdIS2RhLXBEc1BJMGZUVXZZcDN1VVNfOEN0bEtKZnh0SkNaZFJ6LS1UeE1TQndpX3h4TEdCc1JmQ3J2Z2pZaGdTWFYzMUpTcE5VQS1HS1FuUEdqRmhhTnktX3VJX21XcWFuRENtd29WQzk3RWdTUGUtb3huSHFCaEpUUGp0N2F6a3RXOHRiUzhYV2JFRG53cERjNmhEVlRSYWFUZ1FtajRWRndLRlVYb05IOGR6N0RBWFFyaWI?oc=5",
-    "title": "Longevity healthcare startup Vytalyou raises ₹9 crore to expand clinic network"
-   },
-   {
     "outlet": "ET HealthWorld",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVV4MC1maFhXeFp2T1hxd3VzUk1TeXo1Zm5YNklybXpWbWgtZzA1QTloZVJDdjVISnFDYmpfTV9weENfelZ5SE1Zc1N6Q3gzWnJubFFmU0Ezd2VjaXR1bEQ1M3VTQVRTV2xQOUVLTFVYejc3SnNMUThhcWpua1hueUwwNUE0cThNR1I5X0VyY0tzSlB6VTM2aVpNNHlPdnZ1NVhDZnk1Z3FVYnEzbWJLRXF4YVpVeTY2ZXJ0aGk3ZEJHcExsbHk4VTIwTdIB0AFBVV95cUxQbFlFVWk2OF9nN3FJdTlLQTNFbDVyVzgyczBwclVQUFRZT3U2Q0tqNDB4LVkxMGNHRGtKcjQ3SmJXaXcyVVZjRjhKNVhWM0xjaUhBOVZ5ZHRDeU1vbnhLOTNkOFMxM2xsZ2JqR3lBQnZwN1hZRW5KTVdKYkc3YVNtSkpQYWtsUWU0amRBR3lmeHUwUGVBUXBsb2E1UmxNQ3BFbHRjZzRnZmRzazhka0laSm9NS3E1Vk50VGhPbEp2amdpMkJlVS1ZQUFpekJYZ2ZH?oc=5",
     "title": "Longevity startup Vytalyou raises ₹9 crore in pre-series A round"
+   },
+   {
+    "outlet": "Express Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTkwTExNei1sVVMtT0ZMOFdIS2RhLXBEc1BJMGZUVXZZcDN1VVNfOEN0bEtKZnh0SkNaZFJ6LS1UeE1TQndpX3h4TEdCc1JmQ3J2Z2pZaGdTWFYzMUpTcE5VQS1HS1FuUEdqRmhhTnktX3VJX21XcWFuRENtd29WQzk3RWdTUGUtb3huSHFCaEpUUGp0N2F6a3RXOHRiUzhYV2JFRG53cERjNmhEVlRSYWFUZ1FtajRWRndLRlVYb05IOGR6N0RBWFFyaWI?oc=5",
+    "title": "Longevity healthcare startup Vytalyou raises ₹9 crore to expand clinic network"
    }
   ],
   "indiaSignal": "strong"
@@ -5536,7 +5539,7 @@
   "usd": 1000000,
   "round": null,
   "investors": [
-   "Powerhouse Ventures",
+   "Powerhouse",
    "Flipkart Ventures"
   ],
   "date": "2026-09-28",
@@ -5547,19 +5550,14 @@
     "title": "AI-powered experience-tech startup Alive App raises $1 million from Powerhouse, Flipkart Ventures"
    },
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWhMR285bmd4WVVwemllNmp0dS1CX193VHk3bVFrdnBnTWZrUnB3bTFocnBpenZPbG12b043TElKdFhKMUZRaHozOWJEV1ZibDREN1h2cWtSS2pHLTIxR25VU3dKbWtDYUFVcDcxdTNXN0duWHNNVV96Z2pyTmRucE0ycHdGOG5zU3Q2emZNbFJKVm9lN1A2dHFWMlBQX0VxRHVmWmJQNXJ5aE9DOVVLaFJsWVpJRTVzbnVMbHp1UTNLdzMtV1E?oc=5",
-    "title": "Alive App Raises $1 Million to Expand AI-Powered Experience Platform Across India"
-   },
-   {
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHVjZVRZd2RYY2Y2ZGp0b1gxUm5EeVRuNHc2UmpDRGZ2N21SbW9ObkFYbW1vNk1WR1V2cnY5cUY3OVJYN2ZBeG0ydVNSZDEzd09fV2RtMEtJSEVvczREbXdOeFo5MXRLV2ZSV2lOMjkzVlNyU2FkRFotUmFzZWdaeElnYmY3dF83ZkJ0b2MxQTV6X0QzU09EODNB0gGaAUFVX3lxTE84dWNlVFl3ZFhjZjZkanRvWDFSbkR5VG40dzZSakNEZnY3bVJtb05uQVhtbW82TVZHVXZydjlxRjc5Ulg3ZkF4bTJ1U1JkMTN3T19XZG0wS0lIRW9zNERtd054WjkxdEtXZlJXaU4yOTNWU3JTYWREWi1SYXNlZ1p4SWdiZjd0XzdmQnRvYzFBNXpfRDNTT0Q4M0E?oc=5",
     "title": "Alive App raises $1 Mn from Powerhouse, Flipkart Ventures"
    },
    {
-    "outlet": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnpsa3lqbTc1UWtySVZsdTd2OXRHb2habkxHbGZOUWo0bkFveENKX0N6c1NIUHBvTjhVZFI2bE9PejE0TTMtWWpVckVyTlNvd3RTdTJLeHEwUjBVdG9hZEplUXMxZlIzRGNrYTBpRVczTkVWMWhlQUMwNVZSelhiNlFzZk1BZThJMW8yX0pQWDEyVGhEWEE?oc=5",
-    "title": "Alive App Raises $1 Million From Powerhouse Ventures and Flipkart Ventures to Accelerate India's Experience Economy"
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWhMR285bmd4WVVwemllNmp0dS1CX193VHk3bVFrdnBnTWZrUnB3bTFocnBpenZPbG12b043TElKdFhKMUZRaHozOWJEV1ZibDREN1h2cWtSS2pHLTIxR25VU3dKbWtDYUFVcDcxdTNXN0duWHNNVV96Z2pyTmRucE0ycHdGOG5zU3Q2emZNbFJKVm9lN1A2dHFWMlBQX0VxRHVmWmJQNXJ5aE9DOVVLaFJsWVpJRTVzbnVMbHp1UTNLdzMtV1E?oc=5",
+    "title": "Alive App Raises $1 Million to Expand AI-Powered Experience Platform Across India"
    }
   ],
   "indiaSignal": "strong"
@@ -5652,7 +5650,7 @@
   "amount": 10500000,
   "currency": "USD",
   "usd": 10500000,
-  "round": "Seed",
+  "round": null,
   "investors": [
    "Peak XV"
   ],
@@ -5662,11 +5660,6 @@
     "outlet": "Inc42",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZDVmaVNPQlFCcnViR00tZ3hrSElXWEFFUEZxZldPanpPcmJSYnZ6bUZfU1VyNHU3UmxfZzg3c2xxMmg4RlAwV0ZHSURaTFExYjdlVVczVktpeHZFUnBsT1BzV1hyeVlNaTIwQkVJUUNIRUVJX3l1NVRhZGZmbEZjOVYyMzNlNC1QcUhGSmFrUy1QMEZ3YU1EQg?oc=5",
     "title": "Rivet Bags $10.5 Mn From Peak XV, Others To Scale Dating Platform In US"
-   },
-   {
-    "outlet": "BW Disrupt",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUxKdmEydW95MmdhcGNKMXJfTHozSWVjTnlaanRzRXAydTlpc3lQQk5wNVp3MTJFbkpKd2ZXUGNOQXRqZnU0bVp6bGhsTFlQck1ZQUlBMTZVUUVhYnhGbEVUWmhFRUJrX3BtdHVCTlpuUU5QSWwzODNlcDhIWWx4UkFwNA?oc=5",
-    "title": "Rivet Raises $10.5 Mn In Seed Funding"
    }
   ],
   "indiaSignal": "strong"
@@ -5884,11 +5877,6 @@
   "date": "2026-09-24",
   "sources": [
    {
-    "outlet": "ET Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObWdiak1KQVVDTDEzMXhaRmZ5M2VFckxUalJ3SzZKVk5HNnd0enlaUnltcUZqbFJmS0dKd2MxdmVaSjgwbFNrNFo2bm5nNldiR25HTlE3dnpMUV9meEIwQ0JiMXc4enJ0cUlmOGI1QWhZd2prNHYzdFAtSHIwek1kV0xOMS1aNGx4VHRwSHF0X3F5OE1CQlpjaWFWSlY2U19fWVY2eDlkR2FwTUZZZ0VmTXNkNEhUTnVENjNQQUlnMzloVk5jXzltQlpLOW0tem4wSV9TdmR3QVrSAd4BQVVfeXFMUEhjNG1kS1dLd05VX0VySndzYTJldGlxVmJZTVQwWmtobW04MWpmSXBJUm0zcXMwVWRZRlVIQnFXYUVBRkl1Ul93aTlDZzFJQkREbml6Tm9WSm9BNVg1dWNCSVlqaXFQdE1zWFo1NGlOa0dHallGVml0YXl3YTE0VURsak5jVnB3YWpGSWdfLVMxNGhOSFNacmlTb2pIUm1ObTFQWGNycXp1TkNfa1g2UHJ3bFdscUI2OFVmYm5PdDlsZXBMblQtQ0pfbmV0M1Zzc21oMWFQeXFPbG42aW5B?oc=5",
-    "title": "ONYA raises ₹12.5 Cr pre-series A funding led by Divisa Family Office"
-   },
-   {
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXdSa0d6YVJPd3QtdEp3Z3MtYldQOElwM1MtcWhyazhsd1ROdzNIY0JDMjMwNG5EWGR0RGR0ekpJTFNSZGcxQW9STU0yVF9meFZ4NWNmMXNjMHQ3dlZOdjJjYTdpcjdNbkdFYnpkY0xRVkJpSE1vdmU1c1NucTM3Ukc1eWhVel9HY25ib1hTUkhPNTREWlFpZHRFV1p6WHkwY1k4VF9FR0NKQmIyaml4dE1Pa1VDRlZCMTBB0gG7AUFVX3lxTE5Rd1JrR3phUk93dC10Sndncy1iV1A4SXAzUy1xaHJrOGx3VE53M0hjQkMyMzA0bkRYZHREZHR6SklMU1JkZzFBb1JNTTJUX2Z4Vng1Y2Yxc2MwdDd2Vk52MmNhN2lyN01uR0ViemRjTFFWQmlITW92ZTVzU25xMzdSRzV5aFV6X0djbmJvWFNSSE81NERaUWlkdEVXWnpYeTBjWThUX0VHQ0pCYjJqaXh0TU9rVUNGVkIxMEE?oc=5",
     "title": "Lab-grown diamond jewellery brand ONYA raises Rs 12.5 crore in pre-Series A round"
@@ -5902,6 +5890,11 @@
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjVhdTY5ZExfRlJNYkk0aFAyU2lmbGZfLUg5RUdudmJENmswYUVTbXJuMDRmUUVUZE9TQk9tU2xuQWhZNFoyQ3haamQ5MGpPamVhWm5td2tCTWZQeXFCakNSRnF5a1JUUnVOTXlfaG56Ulg5Y2ZlTjVUVVcxSlh5NHJBWDRtVGxBQTkxaWdhSXBpM2toakZPaElMLUVIWDhuMDI1ZUV1WDdMcjlDX18zM2tyRDEyX19BX1pnRFhnS0p5YkVSWFB3?oc=5",
     "title": "ONYA Raises ₹12.5 Crore in Pre-Series A Round Led by Divisa Family Office"
+   },
+   {
+    "outlet": "ET Retail",
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPM0hkY012Znh6LXgxWEVRb2UtR1NSODBYaXpRRXhucUlUcmlyREdlSlZyTUpQRXVhazVWNC1rRU4wb21Nanp5WG9HVzFRdkRmSXJNMVFYTWtOeHRFeW4yNVRXbnJkTl96X3RLUi0wV1QwaFdjbXRfbHByWjlvTzNqbVNFSUVXX3FFWkhXSWFvM1hDRHRTZXNvTzNTM1lFeXh3OFU4MHZnYURqUUtFNVZNN0NnVjlxTzRLUk0zQjJMc1cyZG9EUGd0cGRXUTROWGl2T1NtNmRHRUVETFN4OE5UdVBuMzhmSGliQi0xOGZQTTY0RzVQdUNfdGh4ZUIxVFBYcHYtWVUwdEhtWkFOMmoxWEE2c3h2elJrYmFhNDFRMkVZU3FURm00N0o4eE9TQk5xVUVxbEp2ckzSAYMCQVVfeXFMTTAxMFJQSEFkYU1kVFN1d1FKanA1RjlIZkd1b2gwMl9yTGhuUEk1VGN5d1lUeEpUWWthcjRQTDZaaTRTVmRYV2JoY01tRzNLeGhZdGo0b05qU2l0VThTZkFZRWR4TFVnSzhwbUdUN3QxTjZxcG1OM2pTQ0VlQWxLYmFqVDJENWZ1MnBQYnlueEdpVzlZLXhDV1MwaEl4b21pamwySnlmeS1vQ2dtbkxQaFI0TmRMVWhoM1VYX2oxXzJ1R1NSOExvcW9nYWhKaDEzejNISUpnN1NyTVpaT0tITFAxejYyNFNiczhsU2lJci1rYUtiQTVUWFJpajlaOURialh2NA?oc=5",
+    "title": "Lab-grown diamond jewellery startup ONYA raises Rs 12.5 crore in Pre-Series A funding"
    }
   ],
   "indiaSignal": "strong"
@@ -6209,11 +6202,6 @@
     "title": "Pain-care startup Betterhood raises Rs 11.5 crore in seed funding led by Sauce"
    },
    {
-    "outlet": "The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb2lCcnJjbTZYc3hYLWZyQlF5R1hrMlczaENsZzE4WFdOc0w2S2k2S2puby1wMWx3VklEekVJUEZXaHJqSjBlUk1oVllrUVdNOXdYWlVzbWgwdHozc2Z3Mm5yUG5jdWEtRFkyelRSZXpoVWdBdUdNMTBpOVR6cTQ2N0V2RDFxVHdoRkZ1Mlg1SU0xN0JHMVg4UUhmZWZ0ZmVJb2dtV0gtcWhXS3RJLTlwWTVaNWx3UUxucU4tVTBGYjN4QnFKSDd1M2hOQU9oeUllc3YwTzhaSE3SAd4BQVVfeXFMTmZ2Yk9sNzg5ak1RcU1qSTJDNGtNdU5OMl9oNnkyeW9TcG92dnR1M0JRRmJDenZyTlJfb0twdExLWjVTY0NHbDY3NmgyMUg1OFpxaUE4R2pWM2t0ZzA4X0JlUEYxQkI2YVFfN1cxX1I5XzZ2WWk2bWpSc1hfbnFGSlFtNGVKNGRhLU5fZElSU2tqeGF3dlVVV0pYWHltTm94M2RELU40VlE2T2tpaVlVQWVLeHBlZDVFRHljcTVFenNXTkkwLTY2V1dTZWtpY1kzd2p1MUxyTkNJMngwSXVn?oc=5",
-    "title": "Paincare startup Betterhood raises Rs 11.5 crore in round led by Sauce VC"
-   },
-   {
     "outlet": "Indian Startup News",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSXl0V05PdWJuVlpmRjNKenlPdGxnSlhPdnVlY19NLWphc3VMdkVpRXB0cFR5THhsbmZJSktrbGM5Q2I2SDktQ2trQUYtVVNDNHIzNUdDbEpjcFM3dUZuUC0yd3ZobDV0dFJMSWJTNEhiVi1PeGJiZzNudjQ2MTk4cHBMS3dwZnJmVmtDa2w3dkRYa2RYNG5yYU5maVF1cFFMNUJTZ2ROa1NVRFpCQ0RvdEo3alJfbkRIeGZQWnptcTlUeTI1WjgzS01hZHhwVHZlYXlsZtIB1AFBVV95cUxOSXl0V05PdWJuVlpmRjNKenlPdGxnSlhPdnVlY19NLWphc3VMdkVpRXB0cFR5THhsbmZJSktrbGM5Q2I2SDktQ2trQUYtVVNDNHIzNUdDbEpjcFM3dUZuUC0yd3ZobDV0dFJMSWJTNEhiVi1PeGJiZzNudjQ2MTk4cHBMS3dwZnJmVmtDa2w3dkRYa2RYNG5yYU5maVF1cFFMNUJTZ2ROa1NVRFpCQ0RvdEo3alJfbkRIeGZQWnptcTlUeTI1WjgzS01hZHhwVHZlYXlsZg?oc=5",
     "title": "Preventive pain-care startup Betterhood raises Rs 11.5 crore in seed funding led by Sauce VC"
@@ -6222,6 +6210,11 @@
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdzZmYU9KMVhiNWZXamVHUm9tT1hEbTduSklfYzRaME9iUmN1VzEzVXRIOE9VU2pYbUF1S29fSkpRRmFTZWJsQy04SVlHaWZTWUlfZ0RSTTJUMTFkS1dvMDZLamd5cjBXTDd2VmtOUnhCUEx2Sk9MRGIzb00xaUV5ZGFjTGxlOGRvLWs2RmV6TDF0R1RJZTBubUhyMm1GMDdSNXFEdEFzNU94U25BaVZXcktxSU5QTm9od0x4YkZUbmdsenF0YUQtRElEZ1ZEYlNDbnc?oc=5",
     "title": "betterhood Raises ₹11.5 Crore Seed Round Led by Sauce, Kairon Capital Participates"
+   },
+   {
+    "outlet": "https://ascendants.in/",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWdQLWx1S2QtYjRueEUxbm1xay1TY0xSWnRVTkEwWHRkcUZ2eGFMbTdOanJHdDdTUzl5NTFqSnZGY21fTHVJaFRpU1k0ZGFOQ3kwTGt3TTNkOGVGNFBxOXBkTFNwQkJCZ0I0Z21jZ29xUktmdEpVS2xRV24xb1VMbm8tcnprMjRGa3BzQ3VsR2F2bGlXUkZpbnRqWUpXcEZrbTNTOGNOSmdONk5tWXc?oc=5",
+    "title": "Betterhood Raises Rs 11.5 Crore as 7,000-Physiotherapist Network Becomes Part of Its Growth Push"
    }
   ],
   "indiaSignal": "strong"
@@ -6405,9 +6398,9 @@
     "title": "Pune-based fintech and brokerage startup Definedge raises Rs 22 crore in funding"
    },
    {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDBnWUVTN01RN1hvVm5sV0UtNUJ4dVVVOVB3QXB1YmlQUXhqOV9ORktUQi1fUTN6ZVFjMTJ2cGdCUlVNYk9MYXZ0WTNHZEZWNXFrd3dxWGRPYTh1S21LcWlrQWpXY3JqM2o1WkJfT1JBTThhTjBnbVQwQ1JaMnB3SkJlREs3eENjRXZmdV9aRHBkN25vS3k4alZjTWxIOVpsZHc0UWl4bHRxb3lWdGtz0gGvAUFVX3lxTE1sMGdZRVM3TVE3WG9WbmxXRS01Qnh1VVU5UHdBcHViaVBReGo5X05GS1RCLV9RM3plUWMxMnZwZ0JSVU1iT0xhdnRZM0dkRlY1cWt3d3FYZE9hOHVLbUtxaWtBaldjcmozajVaQl9PUkFNOGFOMGdtVDBDUloycHdKQmVESzd4Q2NFdmZ1X1pEcGQ3bm9LeThqVmNNbEg5WmxkdzRRaXhsdHFveVZ0a3M?oc=5",
-    "title": "Fintech and brokerage startup Definedge raises Rs 22 Cr in pre-Series A"
+    "outlet": "Dealroom",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX25teUdfZmVYYmpHLWt3alZRSjBKa0hudFJNUTNJekZha1dRdEhWR3pUYkxrTEt3cjFncnRaWGVYSFlvM2Y4Z1Jsbnl5ZzNKTDZsX0dya2l4bHVXcWc1UnZhVVMydVV6WkZUYkZxUFM1YlBsWjdkdlRUYWxmeGtOR1cwOUw4cmNPZXFHN1A4dUZ3TVg3ZTllOURMTG8zd00?oc=5",
+    "title": "India's Definedge raises $2.3M to scale its wealth-tech platforms"
    },
    {
     "outlet": "Indian Startup Times",
@@ -6415,9 +6408,9 @@
     "title": "Definedge Raises Rs 22 Crore in Pre-Series A Round to Scale Wealth-Tech Platforms"
    },
    {
-    "outlet": "TradingView",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0Z4T0hGSnVhOS1Rc3ZyNGxBY2dEc1JSU1VjaXo2UWFRMURxT01fN0tYWW5LVkFycHVjQzJfc0NzYVE1Mmg2UF80T0t3QVNKNXdDUTFMWG84TWppTUdpTXUweVQ3UXVwM0ZWcHVrRjBQeEVWQnlzZFBlcWdJd3cxOUo0TlBGUklmMUtKZTJRWTJia2JIY29Dd2lUSVIyZWxKRHR1ekNMUQ?oc=5",
-    "title": "Definedge Raises Rs 22 Cr In Pre-Series A Round"
+    "outlet": "Entrackr",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDBnWUVTN01RN1hvVm5sV0UtNUJ4dVVVOVB3QXB1YmlQUXhqOV9ORktUQi1fUTN6ZVFjMTJ2cGdCUlVNYk9MYXZ0WTNHZEZWNXFrd3dxWGRPYTh1S21LcWlrQWpXY3JqM2o1WkJfT1JBTThhTjBnbVQwQ1JaMnB3SkJlREs3eENjRXZmdV9aRHBkN25vS3k4alZjTWxIOVpsZHc0UWl4bHRxb3lWdGtz0gGvAUFVX3lxTE1sMGdZRVM3TVE3WG9WbmxXRS01Qnh1VVU5UHdBcHViaVBReGo5X05GS1RCLV9RM3plUWMxMnZwZ0JSVU1iT0xhdnRZM0dkRlY1cWt3d3FYZE9hOHVLbUtxaWtBaldjcmozajVaQl9PUkFNOGFOMGdtVDBDUloycHdKQmVESzd4Q2NFdmZ1X1pEcGQ3bm9LeThqVmNNbEg5WmxkdzRRaXhsdHFveVZ0a3M?oc=5",
+    "title": "Fintech and brokerage startup Definedge raises Rs 22 Cr in pre-Series A"
    }
   ],
   "indiaSignal": "strong"
@@ -6432,8 +6425,7 @@
   "usd": 1022727.2727272727,
   "round": "Seed",
   "investors": [
-   "Sharrp Ventures",
-   "other investors"
+   "Sharrp Ventures"
   ],
   "date": "2026-09-22",
   "sources": [
@@ -6451,11 +6443,6 @@
     "outlet": "Indian Retailer",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVE5PVkJkR2s1ZFp0MktmUktpZnJMLVZuUEkwWHZacWtNRjhDekR6ajZ1UUJQaGRuNEhvWEdST3ktVjM1WVpBeWNUT1hUTUZMUjJnTGo1RjZfbEsyZDQ1Z18tQmdDQXAzNVB6ZHQ2SXdYVm5HbUVKUUM2cF93TklpbWVFTkFnQlQzaGVZX1F5aVhkWlNhTWZNMExXRktMTzFSWGdneWhXVUxZWV8yMzhJc1AwTWE1b2xxMFhRYUxfVF9Rems?oc=5",
     "title": "High-Protein Food Brand Protein Pantry Bags Rs 9 Cr Seed Funding Led by Sharrp Ventures"
-   },
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNXzhuSXNrZWxlUWEtOGJ2UUhCdW5OemZ6V2VFQ1hydm5IUlNxSmdyRDFmQ1FfRWVaa0VSRVdodjlpQm96MEVId3l3M3VlTkRhby1SZUx4Z3JyVkM0VlowU2ZVQWhSYkltTkU0Q3k5cmpSOXVKN0NSVU1JVjZBLUlPbjJPbTlsQnBqNFZ3OWhmUkFnY0dsc1FGWFpWdjN6cnlzT1V6WGkzV0VOUEZUM0N4V3hUUXpEU1J1dW9MS01iUURNVk1lRjR3N3YxNmVsankzQlc4QXl6WGZRWGRfRVZz0gHfAUFVX3lxTE1fOG5Jc2tlbGVRYS04YnZRSEJ1bk56ZnpXZUVDWHJ2bkhSU3FKZ3JEMWZDUV9FZVprRVJFV2h2OWlCb3owRUh3eXczdWVORGFvLVJlTHhncnJWQzRWWjBTZlVBaFJiSW1ORTRDeTlyalI5dUo3Q1JVTUlWNkEtSU9uMk9tOWxCcGo0Vnc5aGZSQWdjR2xzUUZYWlZ2M3pyeXNPVXpYaTNXRU5QRlQzQ3hXeFRRekRTUnV1b0xLTWJRRE1WTWVGNHc3djE2ZWxqeTNCVzhBeXpYZlFYZF9FVnM?oc=5",
-    "title": "Delhi-based frozen food brand Protein Pantry raises Rs 9 crore from Sharrp Ventures, other investors"
    }
   ],
   "indiaSignal": "strong"
@@ -7010,6 +6997,31 @@
   "indiaSignal": "strong"
  },
  {
+  "id": "slayd-2026-09-17",
+  "company": "Slayd",
+  "key": "slayd",
+  "descriptor": "Fashion discovery startup",
+  "amount": 15000000,
+  "currency": "INR",
+  "usd": 170454.54545454547,
+  "round": "Pre-seed",
+  "investors": [],
+  "date": "2026-09-17",
+  "sources": [
+   {
+    "outlet": "FinSMEs",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTBrZDRfNGNMcjVnRmR1NnloVmZ3eXVGMzR4MlZOSzRRczR2RWttbXJGRXRTc19PRXU1R2xDSFFEQXA4Mk0xN3pMUEljN3I4dmRnNGYyMzd0cU4yclFSNjRxMlJaY2lVdFo4XzVBWnotVV9ETkExdVZ5d2ZYOTBxcTVIVG1LSkJwanV6SA?oc=5",
+    "title": "Slayd Raises Approx. USD180K in Pre-Seed Funding"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLWpaRnZSNXlQbmxyT0hCeGlXNGZEWS1aNEJXSmNTZFo3TFlpTUlxRnFpbnhqTllQbU1xNGtWaFZ1dmpwdmVWME5DY3VQXzFGVW5VM0VQYmwwd2RqZnduT2JzSmNJOFBwa3VZblFVUnUzMDRKcDBkX3lpU215MEpIXzZIZlFpZ19JSktsVXMxalg0VlpEWWpja2htOVByOWV2Q0ljTEttUUJFTzlCQ3N2dUNHNFhPby1Oa3lhTDgtNm1MVGU3VFZYT2h6aXlTYWdBRjJLblpwZmdsV2RkTUVTZTlvVmt2amx1LUlSMNIB7AFBVV95cUxNLWpaRnZSNXlQbmxyT0hCeGlXNGZEWS1aNEJXSmNTZFo3TFlpTUlxRnFpbnhqTllQbU1xNGtWaFZ1dmpwdmVWME5DY3VQXzFGVW5VM0VQYmwwd2RqZnduT2JzSmNJOFBwa3VZblFVUnUzMDRKcDBkX3lpU215MEpIXzZIZlFpZ19JSktsVXMxalg0VlpEWWpja2htOVByOWV2Q0ljTEttUUJFTzlCQ3N2dUNHNFhPby1Oa3lhTDgtNm1MVGU3VFZYT2h6aXlTYWdBRjJLblpwZmdsV2RkTUVTZTlvVmt2amx1LUlSMA?oc=5",
+    "title": "Fashion discovery startup Slayd raises Rs 1.5 crore to scale private-label business as it crosses 2 lakh users"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "hangtensystems-2026-09-16",
   "company": "Hang Ten Systems",
   "key": "hangtensystems",
@@ -7162,38 +7174,6 @@
   "indiaSignal": "strong"
  },
  {
-  "id": "slayd-2026-09-16",
-  "company": "Slayd",
-  "key": "slayd",
-  "descriptor": "Fashion discovery platform",
-  "amount": 15000000,
-  "currency": "INR",
-  "usd": 170454.54545454547,
-  "round": "Pre-seed",
-  "investors": [
-   "ajvc"
-  ],
-  "date": "2026-09-16",
-  "sources": [
-   {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3dSeGJkNXE2RlctelRGS3Q1TlJZQ3I4QkNQWW1PdFgxaTNaeUhCNVluaHRhWUJGbDI4T0wtVG85WlZaQXUyZ2dNM1NtM2JGcEVsdHRERFZTMVdWbFpFNHZscXRubTY1NnhPbU9OaWhkVkZhVXNhWkc3a3RaZ0dGd3JrZ3dmYnpxOWxxZTBNRUNNLUpiUFEtTERoX2ktakw2UnBoQ0hNU3dtTlXSAasBQVVfeXFMTld3UnhiZDVxNkZXLXpURkt0NU5SWUNyOEJDUFltT3RYMWkzWnlIQjVZbmh0YVlCRmwyOE9MLVRvOVpWWkF1MmdnTTNTbTNiRnBFbHR0RERWUzFXVmxaRTR2bHF0bm02NTZ4T21PTmloZFZGYVVzYVpHN2t0WmdHRndya2d3ZmJ6cTlscWUwTUVDTS1KYlBRLUxEaF9pLWpMNlJwaENITVN3bU5V?oc=5",
-    "title": "Fashion discovery platform Slayd raises pre-seed funding led by ajvc"
-   },
-   {
-    "outlet": "FinSMEs",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTBrZDRfNGNMcjVnRmR1NnloVmZ3eXVGMzR4MlZOSzRRczR2RWttbXJGRXRTc19PRXU1R2xDSFFEQXA4Mk0xN3pMUEljN3I4dmRnNGYyMzd0cU4yclFSNjRxMlJaY2lVdFo4XzVBWnotVV9ETkExdVZ5d2ZYOTBxcTVIVG1LSkJwanV6SA?oc=5",
-    "title": "Slayd Raises Approx. USD180K in Pre-Seed Funding"
-   },
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLWpaRnZSNXlQbmxyT0hCeGlXNGZEWS1aNEJXSmNTZFo3TFlpTUlxRnFpbnhqTllQbU1xNGtWaFZ1dmpwdmVWME5DY3VQXzFGVW5VM0VQYmwwd2RqZnduT2JzSmNJOFBwa3VZblFVUnUzMDRKcDBkX3lpU215MEpIXzZIZlFpZ19JSktsVXMxalg0VlpEWWpja2htOVByOWV2Q0ljTEttUUJFTzlCQ3N2dUNHNFhPby1Oa3lhTDgtNm1MVGU3VFZYT2h6aXlTYWdBRjJLblpwZmdsV2RkTUVTZTlvVmt2amx1LUlSMNIB7AFBVV95cUxNLWpaRnZSNXlQbmxyT0hCeGlXNGZEWS1aNEJXSmNTZFo3TFlpTUlxRnFpbnhqTllQbU1xNGtWaFZ1dmpwdmVWME5DY3VQXzFGVW5VM0VQYmwwd2RqZnduT2JzSmNJOFBwa3VZblFVUnUzMDRKcDBkX3lpU215MEpIXzZIZlFpZ19JSktsVXMxalg0VlpEWWpja2htOVByOWV2Q0ljTEttUUJFTzlCQ3N2dUNHNFhPby1Oa3lhTDgtNm1MVGU3VFZYT2h6aXlTYWdBRjJLblpwZmdsV2RkTUVTZTlvVmt2amx1LUlSMA?oc=5",
-    "title": "Fashion discovery startup Slayd raises Rs 1.5 crore to scale private-label business as it crosses 2 lakh users"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
   "id": "amazon-2026-09-15",
   "company": "Amazon Inc",
   "key": "amazon",
@@ -7276,14 +7256,14 @@
     "title": "AI interactive content startup Flam raises $40 million in Series B led by QED Investors"
    },
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeUF0UERZbkJuWjlDRWZNd0JoX09sU0JGTnF0YkM5SGNjU0piakdLYmhfbXd1eEdscVNGSEVBS3ROV1dDbzdaUUgwZHJ6VThPcENtLTB0T0lsSHA0bm9aY2d6SGVsNHhtSWxwNDhRWUIxZ3I1N19GNEthQ3VMUUJYaHFuZVR3MFdIVVdLR2x3UktCQ0Z0eDJhSkYzUjdGOWlFaEZHX0hyMzZWNzRjbHlVWTVlVUFHaTBRdC1FWDJUNWJyQXg3SF9HeWlpdw?oc=5",
-    "title": "Flam Raises $40 Million Series B Led by QED Investors to Scale AI Interactive Content"
-   },
-   {
     "outlet": "https://ascendants.in/",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalJ4ZU9jUUhRTW43NjY1OWtyYk5mZmlQZFVnRldnQnVLNUs5SzJzc1JOdERVX29oaVJvYlNiZUU1NFZab21hUTQ0TlZjVnk3VVZoQ2Rjd0pXbDVqVTBpc3pXR3AyRXY4NU5VZGRvU2ptZUFnOVMxUjVqWmhva3E2cjZIWDRtQ0pGam1xUGozQllySWowVlExSG51ZmFMcXdGc1E?oc=5",
     "title": "Flam Raises $40 Million Series B Led by QED Investors as India, Overseas Business Hits 50:50 Split"
+   },
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeUF0UERZbkJuWjlDRWZNd0JoX09sU0JGTnF0YkM5SGNjU0piakdLYmhfbXd1eEdscVNGSEVBS3ROV1dDbzdaUUgwZHJ6VThPcENtLTB0T0lsSHA0bm9aY2d6SGVsNHhtSWxwNDhRWUIxZ3I1N19GNEthQ3VMUUJYaHFuZVR3MFdIVVdLR2x3UktCQ0Z0eDJhSkYzUjdGOWlFaEZHX0hyMzZWNzRjbHlVWTVlVUFHaTBRdC1FWDJUNWJyQXg3SF9HeWlpdw?oc=5",
+    "title": "Flam Raises $40 Million Series B Led by QED Investors to Scale AI Interactive Content"
    }
   ],
   "indiaSignal": "strong"
@@ -7775,20 +7755,30 @@
  },
  {
   "id": "qnu-2026-09-09",
-  "company": "QNu Labs",
+  "company": "Qnu Labs",
   "key": "qnu",
-  "descriptor": null,
+  "descriptor": "Quantum Cybersecurity Startup",
   "amount": 2000000000,
   "currency": "INR",
   "usd": 22727272.727272727,
-  "round": null,
+  "round": "Series A1",
   "investors": [],
   "date": "2026-09-09",
   "sources": [
    {
+    "outlet": "BW Disrupt",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjFMV1BkRVhBbk1fOHVrdXdFLU5ZSjRDeGE0aEhXN2d2cXYtX1FiYnZERV9qWklTbzU0a0ZJZ19qUGpYNmVqSHJvaUFlUGg2QWYybDFsU1I0cHloNnFhRHpHc05RdU1qaU9IREs4VmJrSjhvQkplTi1OMFhxREFQZXVNZ1FPRkFFbjlfd3FJd0ZxdGZHYW1xQw?oc=5",
+    "title": "Qnu Labs Raises Rs 200 Cr In Series A1 Funding Round"
+   },
+   {
     "outlet": "BusinessLine",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXpjM1EyN1ZRWjdJN1k2RDJmcWVaZTlJZENkVEZybWJRamUweDl1YlpBMDYzYnVkajJ0OExXVjdybmVnd1psUm5PTFpaeWR4NmZqLTBnRkdDUXppRU45QkdHc3pudWZKWHpLYkoxUDB0NzlhcmhDbzgyU0xESGpldmtXT0UxQkZWM21lcW5ZS2xobmNSRXVFLXBzTEh6V2lMY1gzb1VaNFFLTWhVb0I5cWpkU0hueEw4VkpraGdSRmlqR0hyQXRQeGQ4cTV3RGhf0gHXAUFVX3lxTE9rcEIwVm9zTWFOYUlXaXRqWE1aeTNQVTUxM2lzaDFZdGZMRHpZVnhkS1lpRlZDdU5vVFNzQzBNUG93ZEREYmJDZk9BZ0Roa2VqbVFPWVlSenJlVkQyQkptb0lnMm96N3JmQzJSZ3hUUlRVeUMxczkyM0o5VGhTajlkYTIwSHlPY1Nzak9VWm1ZUHpOVTdNOTE5SGxKM0ZUSV9OUlZQdENqR05TZ3RFNFE0eFZQVDNFd3pES3Utc1d1SmJxTE5RSTZtSkM0LWNIOXl6R2V6Y01J?oc=5",
     "title": "QNu Labs raises ₹200 crore to scale quantum-safe cybersecurity globally"
+   },
+   {
+    "outlet": "OfficeChai",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2I4QUtBNXpMQUVOMG1JS3JaYTFsWmZhTUMzU3lOdmIzNEJ2eWlwU0s5VFZmMEt3LUJCOGpoNWw5akZYM2FUaUVjUzZ1Q3VlT2d2NHBOMWE4UlhrdXNOdVcwTEtLc3ZWQUdKVVlfa01QMGVUMTJSNlptMXJ4Z09qLTFNT0xTbFNzbmFudFl5TDBTTnpkQUxTVEFsLV9FX1g3eGc?oc=5",
+    "title": "Bengaluru-Based Quantum Cybersecurity Startup QNu Raises $21 Million"
    }
   ],
   "indiaSignal": "strong"
@@ -7859,7 +7849,7 @@
   "id": "marmalade-2026-09-09",
   "company": "Marmalade",
   "key": "marmalade",
-  "descriptor": "Alco-bev startup",
+  "descriptor": "Alco-Bev Startup",
   "amount": 60000000,
   "currency": "INR",
   "usd": 681818.1818181819,
@@ -7868,14 +7858,14 @@
   "date": "2026-09-09",
   "sources": [
    {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxoWTdJd0tHS3R3MjMyT1NrMVA2T3d3YllPM3N0a3YwWEpWdzdHOVVoR2NLYzlRMi1abXc2ZmlpX2J6SC1XaWtMcTVDQTdaUTFBOW1RbWhvVGphTXo5ZUZjX251a2JDTDFmUTF5WGZRN0JrWFNEYzMzaG01N2FDUVJsWVFIRWxqU3N30gGLAUFVX3lxTE1iTGhZN0l3S0dLdHcyMzJPU2sxUDZPd3diWU8zc3RrdjBYSlZ3N0c5VWhHY0tjOVEyLVptdzZmaWlfYnpILVdpa0xxNUNBN1pRMUE5bVFtaG9UamFNejllRmNfbnVrYkNMMWZRMXlYZlE3QmtYU0RjMzNobTU3YUNRUmxZUUhFbGpTc3c?oc=5",
-    "title": "Alco-bev startup Marmalade raises seed round"
-   },
-   {
     "outlet": "Local Samosa",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJQmw1V0ZYMGNYQWxCZFhlMUJKYzFKT1dIWlNabU85V3JSTW5BOElhcTJhbFZRZHJCQ3N2eVVNVHhBMWZ6ZnVHVnIxTkZ1NjRKZlJxR1lSLTdabHpFcndGTlQ5dm1uR3UyRFZrNzFHb0lmTW85MG9QTNIBeEFVX3lxTFBJQmw1V0ZYMGNYQWxCZFhlMUJKYzFKT1dIWlNabU85V3JSTW5BOElhcTJhbFZRZHJCQ3N2eVVNVHhBMWZ6ZnVHVnIxTkZ1NjRKZlJxR1lSLTdabHpFcndGTlQ5dm1uR3UyRFZrNzFHb0lmTW85MG9QTA?oc=5",
     "title": "Alco-Bev Startup Marmalade Raises Rs. 6 Crore to Build India's Next Generation Drinks Company"
+   },
+   {
+    "outlet": "Entrackr",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkxoWTdJd0tHS3R3MjMyT1NrMVA2T3d3YllPM3N0a3YwWEpWdzdHOVVoR2NLYzlRMi1abXc2ZmlpX2J6SC1XaWtMcTVDQTdaUTFBOW1RbWhvVGphTXo5ZUZjX251a2JDTDFmUTF5WGZRN0JrWFNEYzMzaG01N2FDUVJsWVFIRWxqU3N30gGLAUFVX3lxTE1iTGhZN0l3S0dLdHcyMzJPU2sxUDZPd3diWU8zc3RrdjBYSlZ3N0c5VWhHY0tjOVEyLVptdzZmaWlfYnpILVdpa0xxNUNBN1pRMUE5bVFtaG9UamFNejllRmNfbnVrYkNMMWZRMXlYZlE3QmtYU0RjMzNobTU3YUNRUmxZUUhFbGpTc3c?oc=5",
+    "title": "Alco-bev startup Marmalade raises seed round"
    },
    {
     "outlet": "BW Disrupt",
@@ -8016,7 +8006,7 @@
   "id": "circolife-2026-09-08",
   "company": "Circolife",
   "key": "circolife",
-  "descriptor": null,
+  "descriptor": "Cooling-as-a-service startup",
   "amount": 4500000,
   "currency": "USD",
   "usd": 4500000,
@@ -8027,14 +8017,19 @@
   "date": "2026-09-08",
   "sources": [
    {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTU5cFdLYUY4OTJsTzY5MEtJM3lCREhOUW9KSmpZRW5oWno3V3d3ZURISFUwZ2p1SWp2VllyYUNDeF84ZzU4WXY0UEI1aXJ5eFRTWHZTc0pYd2pZT0N3a0syZ2duc1pZSkJEZnp1anprMnlYOGFjVWNWRGRIa2ZMVGpBWmdtaDZRQTU0RUIzQi1LdGVVUVYwOXFFYWpRaXh2Q1BERW5QVkl1aXdKWVHSAa4BQVVfeXFMUDE1OXBXS2FGODkybE82OTBLSTN5QkRITlFvSkpqWUVuaFp6N1d3d2VESEhVMGdqdUlqdlZZcmFDQ3hfOGc1OFl2NFBCNWlyeXhUU1h2U3NKWHdqWU9Dd2tLMmdnbnNaWUpCRGZ6dWp6azJ5WDhhY1VjVkRkSGtmTFRqQVpnbWg2UUE1NEVCM0ItS3RlVVFWMDlxRWFqUWl4dkNQREVuUFZJdWl3SllR?oc=5",
-    "title": "Circolife raises $4.5 Mn in pre-Series A round led by Bharat Jaisinghani"
+    "outlet": "Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2tVTnpiVW5oSjRzdDJ3TVpWMWJpcV9pWUZicGF0NW5handOcktUY3hIWl9PRFF4bjR3RnpGdTRrTGN1UFgyWWNyS3lzU1BYbDFTYWVQM3E1UXNiNVhieTRDUm1VN1dYVFdwNG5NaWp4S3cyWjktbEw2QTdQS1hPME10dVBjTlJLU3hOZ2F3?oc=5",
+    "title": "Indian cooling-as-a-service startup Circolife raises $4.5m"
    },
    {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1p4TUFSRHBNUjN3LWdOQURjYXZPSFdfU3NHODA0Z05SUnlLdW5VYzlIU1pZZDNVVzcwRmpTNUdFNHFGbEdSbXFfNU5HQzN4c1JGQVc3SmtYWjc4SVdieW5fWHZIUmROYTBkVTlsSGgwR2Q0b0R3b09hZENKNU93RmlmVVFsMzdKOGhCRjlJVjl6dHRCMElYVFU0azNzWTY4SXhkQ252d2xqT01ONWphdFEzU1NKUQ?oc=5",
     "title": "Circolife Raises $4.5 Million to Expand Cooling-as-a-Service Platform"
+   },
+   {
+    "outlet": "Entrackr",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTU5cFdLYUY4OTJsTzY5MEtJM3lCREhOUW9KSmpZRW5oWno3V3d3ZURISFUwZ2p1SWp2VllyYUNDeF84ZzU4WXY0UEI1aXJ5eFRTWHZTc0pYd2pZT0N3a0syZ2duc1pZSkJEZnp1anprMnlYOGFjVWNWRGRIa2ZMVGpBWmdtaDZRQTU0RUIzQi1LdGVVUVYwOXFFYWpRaXh2Q1BERW5QVkl1aXdKWVHSAa4BQVVfeXFMUDE1OXBXS2FGODkybE82OTBLSTN5QkRITlFvSkpqWUVuaFp6N1d3d2VESEhVMGdqdUlqdlZZcmFDQ3hfOGc1OFl2NFBCNWlyeXhUU1h2U3NKWHdqWU9Dd2tLMmdnbnNaWUpCRGZ6dWp6azJ5WDhhY1VjVkRkSGtmTFRqQVpnbWg2UUE1NEVCM0ItS3RlVVFWMDlxRWFqUWl4dkNQREVuUFZJdWl3SllR?oc=5",
+    "title": "Circolife raises $4.5 Mn in pre-Series A round led by Bharat Jaisinghani"
    }
   ],
   "indiaSignal": "strong"
@@ -8055,14 +8050,14 @@
   "date": "2026-09-08",
   "sources": [
    {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUZSRjJuNWI3UlhLM3dreHdBbTZRaFNEZE5HQXZ1b1NuS2dBSGxPWG42WXFuZHdUMFN6QnFrYkhjSEQ1aE9EOUFSSk5LUW51RnlDV3FUSHdHbWFEOWtuY0prdlFiVEJZaVROay1NMEI4aUdWUzVtRWw3SkhYYjFmb1JkUlRwVDYzMFJPcGRVY0R2ZHNZQUNFd2tkcVFMVFNRUEJDSjZoX1hSaUhtOXk0NUltY9IBswFBVV95cUxQbUZSRjJuNWI3UlhLM3dreHdBbTZRaFNEZE5HQXZ1b1NuS2dBSGxPWG42WXFuZHdUMFN6QnFrYkhjSEQ1aE9EOUFSSk5LUW51RnlDV3FUSHdHbWFEOWtuY0prdlFiVEJZaVROay1NMEI4aUdWUzVtRWw3SkhYYjFmb1JkUlRwVDYzMFJPcGRVY0R2ZHNZQUNFd2tkcVFMVFNRUEJDSjZoX1hSaUhtOXk0NUltYw?oc=5",
-    "title": "B2B pharma distribution startup Fundly.ai raises $4 Mn led by Accel, Multiply"
-   },
-   {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVktWDF3Tk1XYU9pVVcxTWN2cGdnZnJnRkdFb29Qa0RyNTdVb0ZCSnlyUU5sSEJRRDBrejQ2RTc4Tk1aZWlGeHNtMFJzNURkUFlIVmdmczZJOS0xdFE1eVdEdFJGZWkxVEZJalFSN1lVTmJlZDRQNnpTckNNZGpHWjZiQXI2R3JOQ3lscWlPZG5VbklRR2U3cDRpUzhNWkZ6WFYyaU5vdDFIUlVqV05SWUVkaTRGcUE?oc=5",
     "title": "Fundly.ai Raises $4 Million to Expand B2B Pharma Distribution Platform"
+   },
+   {
+    "outlet": "Entrackr",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbUZSRjJuNWI3UlhLM3dreHdBbTZRaFNEZE5HQXZ1b1NuS2dBSGxPWG42WXFuZHdUMFN6QnFrYkhjSEQ1aE9EOUFSSk5LUW51RnlDV3FUSHdHbWFEOWtuY0prdlFiVEJZaVROay1NMEI4aUdWUzVtRWw3SkhYYjFmb1JkUlRwVDYzMFJPcGRVY0R2ZHNZQUNFd2tkcVFMVFNRUEJDSjZoX1hSaUhtOXk0NUltY9IBswFBVV95cUxQbUZSRjJuNWI3UlhLM3dreHdBbTZRaFNEZE5HQXZ1b1NuS2dBSGxPWG42WXFuZHdUMFN6QnFrYkhjSEQ1aE9EOUFSSk5LUW51RnlDV3FUSHdHbWFEOWtuY0prdlFiVEJZaVROay1NMEI4aUdWUzVtRWw3SkhYYjFmb1JkUlRwVDYzMFJPcGRVY0R2ZHNZQUNFd2tkcVFMVFNRUEJDSjZoX1hSaUhtOXk0NUltYw?oc=5",
+    "title": "B2B pharma distribution startup Fundly.ai raises $4 Mn led by Accel, Multiply"
    },
    {
     "outlet": "The Economic Times",
@@ -8133,9 +8128,9 @@
     "title": "ARC raises Rs 10.5 crore in pre-seed round led by Chimera VC, MIXI Global"
    },
    {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaWc1NU5Jb1RycHNRS3FOcVh5N2o1LXJuS2xkN3lKeHRiR0RpMXFVdmpSeWhpWVpjUUgxNHdicXpYY1lkX2RFdnI1V2UxdkNQcnVkNXRqVjU4RW51bUg1M1ppZlJyaWtLREhxYlUwR0NSblY1cGZlT2dQbDUtd1JEWnVicjVwbFR2Yk9JcWd5VFFYRGpBTTJyaWVCWFpVX3l5RTFuN0Z2OUxIYXNsdU5TWURFWnJ3RzdUVzJ0RTRsRWxUT1BLbThWZXpxTEg3UdIBzgFBVV95cUxPaWc1NU5Jb1RycHNRS3FOcVh5N2o1LXJuS2xkN3lKeHRiR0RpMXFVdmpSeWhpWVpjUUgxNHdicXpYY1lkX2RFdnI1V2UxdkNQcnVkNXRqVjU4RW51bUg1M1ppZlJyaWtLREhxYlUwR0NSblY1cGZlT2dQbDUtd1JEWnVicjVwbFR2Yk9JcWd5VFFYRGpBTTJyaWVCWFpVX3l5RTFuN0Z2OUxIYXNsdU5TWURFWnJ3RzdUVzJ0RTRsRWxUT1BLbThWZXpxTEg3UQ?oc=5",
-    "title": "Indian gaming startup ARC raises Rs 10.5 crore to advance portable gaming system ARC X1"
+    "outlet": "The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3VKQkdLUEF0X1dyQWJmUUR2Q1ZTMXF6bFk3QmtRb2RwR2o3a3VOcHQxOThYMUJpTHFqdVM3SUQzNndnTlJ5ZEhMbUhldDU1OU96bTEtc0t0ekd5WWZYVGtsRjNTLTFBOEdwbTE2cHBTcnR0cmNxZE1NQXlOWmlLdFlsdzM0WDhLR2ZJU3A2QmpjOFl2QkxjTTNsbjV4SWtSRi1wUXQtSnAzOWlRS2hfQ3k2ak5TQ2hjZ2tDYTgyYzlfOWg2UUHSAcsBQVVfeXFMTjU3N0NHQWJXX3BLR2Y1SEp6V0dBRlVzVW5zWENPS0JCMTIxbV9mYWhvdWdwX1JldVFZZTJzTDBrdXd0RzRzcGV6bzJkck9uZjcxNm94YVZHbmEzVE5vQWx6NXRiZjhiMFc1NWR1cUx6Z2Rxdy1haDhBU3dZZDF5S1FlRGFaYThFU2dBdmlpejRScWFvenFkR1hIcjVsZGVMUENyMXN4V1BUZVlpbkk0TGktMUpjYmN6NmpoS3hDdGxfWGNrREpoWVNObjQ?oc=5",
+    "title": "ARC raises Rs 10.5 crore in pre-seed funding"
    }
   ],
   "indiaSignal": "strong"
@@ -8218,24 +8213,24 @@
   "date": "2026-09-07",
   "sources": [
    {
-    "outlet": "India Today",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnl2UXZlb1NGb3N1VTJBM0d0c2JPTXluTkpjenMtUjV6cFlyQzJNNml3UDFvR0szVU9pNUgzZUJXUmVGTXVBbUo0bGNRUjhXbGRWVF83ZmpuR2dYN1BFalR5eHc4N3JQanBuZEdOSWZJWi1TdnJNakh5cEdyejhMMlpkWEJSdGo5dE56VERSY0pGZi0tR3FlRjdlQnFVb1phb0duc0JOeEctaHNZS1lyVXM5UUwtbDVvQVltWUR6VWxoaHMxcXJWeDR2VUo4U2FkWHBDaTRn0gHbAUFVX3lxTE1FWjZKRVVmVzgxNng1SnVmcmdYZDByRU5kdWl3aGltQmN1emVZSWZhVTlLQkVJT09UbGhONlBQZHI0bWVOeHgtNDM4NXh3Wi1UU05iOWMycWJOQ3RONFF6TkYtRWdBV0pRN1VIS3pmT0xsWlY1b1ZFd3RXSndxcnJKQ1g1QW9Kd3NnUHI3NExZSHlvSDBPek80aWdkd18yZ2lUTXdDeDl4MFU5TEVjSnVHMC1OaUNTdURJZGRPdGtmckJTVjJ0Zi1uT0E3V3NwQmI3cHp1U3M2ZmxHdw?oc=5",
-    "title": "Google-backed Pixxel raises $100 million in India's biggest space-tech funding round"
-   },
-   {
     "outlet": "APAC Media",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmd4RjE0SEQ0Tm1NYVlhY0ZlN3l0UDhZSmtLSlpPeUNvSldwSWwxcnlqb0QweEFfMzN1TDlPYndZU3BSdFFqN3I5bUxCVE1KSVR5aWFadGxuMDhvT3kwOTFqUlFsV05TbjA0cldhMnQtZTRBWHpBTzJkX3gxTzVFeHdB?oc=5",
     "title": "Indian Space Startup Pixxel Raises $100 Million to Expand Satellite Production"
    },
    {
-    "outlet": "News18",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa0tqZXZOU0J5eHhTampIX1RIOVpxOHIyUTNkdFE3NWN4d1REb0NqR1phRncyRFJzYW03QkQ0ZzVIRzdYM0FjTnh4alBhTENaUmxobjBWbC1aQlRXSmlacmQyNW51SHdOYTJVeVZiRWUxMGJYVzNUVzdSeTEwamNIRmp0LXVqM3Q2QVNiSU1xMFZiOGtjeHh1Qm9qVjdvTzZzdWpGQUVYemQzRkJTVjR6d2hwNjdUbVVDVWhsQ25iOURDOHNhTlBPeUdKcDFaTFVZa19Wdkl2eDZSd3VCRkE1UtIB5gFBVV95cUxNamNTSVp1VDdkbHNGSjhCNnNmQ1k5d1hVMEFQUk0ySGVORTBON29WMFhaa1U2c05vVUZhV2FfY0FCWmlqU3dIX0k1NmVhR0F4NXByRFJYbWt2NlRsSDh6Y3FLZ0ZCaWo2YzAwNUNMQk1fV0NnYVJRVUxhLTIxS29hOEhQM1ZTX2JPVEc4d3JDSnpvYThydFFFRHJzNGpIOGo1V3NjMjBfYUNrR1FyWHJGVnZtcUtEM3dDc3YwaFhZdmFBM19FWGI4TzVidUprZnU5b3ZFeHNEZkdEQlI2OEo1NGpxaXZEZw?oc=5",
-    "title": "Indian Space-tech Startup Pixxel Raises $100 Million: Why India's 'Space Race' Is No Longer Just About Rock"
+    "outlet": "India Today",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWVvdVIxRVZqX0dFQzVTRFdzTl8zUkFkT0tzd0tMWVFiZVhlUV9YSy1fcmxIYVFYb3dsMThMOEFEYWVUR216TG1wajVQcFlJdmpqMnlERVlwb2EwQ1NtQjlsdjlpMWpYUDB4LTJkdURUbk5YV3Q3ZkRuLW9zZUdnaXJNOW9McTRBdGxNVnE1NkdxdGowVXFnejNVQk1JNGZHVk1IRk1DVmROMFdaMFBYX1lwbXh2Z1E1MC0tRE5IbnhyWU9naldiSDBfczFTNllIckHSAdcBQVVfeXFMUHpHX3p4S3dPN2dKSDNtdzNuZG1UVUpFUWk4NUVjdXJhTXVYbUZGQmRBZW1xem9YTVR2cFdHQVllNlhqRC16QTE0cFZlREJrdXJiTS1ZLWpjMHMzNmhBSHpPd293b3B6TkNVNGUxMzVBLThHQ3hQVHhQckVCLU5FVWJnYUEyS0VWbGRjMWlzX3E0ZG1YVVNFVFZ5ZmQtLTQ5YTd3akVQNzBRTnRpUll5a1FCY0ZCN1o1UmdWSUlpMlBrd0hmLVFWaEJMbTlCcXVpNS1TMVNUUEk?oc=5",
+    "title": "Indian space startup Pixxel raises $100 million, plans big technology expansion"
    },
    {
-    "outlet": "Sarkaritel.com",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmNwbV9nMy1UUjhhVkpLX0w3d0xxUTRnSkREbDNaX0lIX0d5UVA5bkhGSGZXbkw3TGxhZmduUEFzTjIyVFByNWcwdVVLNk5UeFNsUUkxZHpROEh6UHlpTXR3WEZtQ2JDNy1SZHA1T0FZRmlMUHJCRVozbWZ2SkFERFBnUE1LeU9qQ1QxVkV5WQ?oc=5",
-    "title": "Pixxel Raises $100 Million in India’s Largest Space-Tech Funding Round"
+    "outlet": "Entrackr",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcktpNnY2NlZDVl9UMEVSdUlsTlc0UmFzbHZiSXVDWE03MDVoTmotcnBIMDdMd0d1MDNmTG90MGhXT280WloxaWpnczZQVGFSbXczcXJjT21YbGtNY3JCLUsxUnFwMXFqZmhNazUyRU16TEJyQTllNS1jSW1FS25nbXNOZllydjdJVVdCdUNDZUkwc0RFdFpkTE9Sb3g2UF95ZDNsZHc4clVBTEJZ0gGsAUFVX3lxTE9yS2k2djY2VkNWX1QwRVJ1SWxOVzRSYXNsdmJJdUNYTTcwNWhOai1ycEgwN0x3R3UwM2ZMb3QwaFdPbzRaWjFpamdzNlBUYVJtdzNxcmNPbVhsa01jckItSzFScXAxcWpmaE1rNTJFTXpMQnJBOWU1LWNJbUVLbmdtc05mWXJ2N0lVV0J1Q0NlSTBzREV0WmRMT1JveDZQX3lkM2xkdzhyVUFMQlk?oc=5",
+    "title": "Spactech startup Pixxel raises $100 Mn in Series C led by Temasek, Seraphim"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGhWb2d0c2xZUE1qNWFMNzNYUlFVTFhicC1IVGdRSGpNZ085YnA3VTdDbDVyUEZyZ3hQdmNtNDZZejZqNjZTRTVGUm1aOWt1U243SVNYdndsU2xudmVUUnctcWxfQmZSWUVtbzZucGJOcVR6TUs3UlgyQVZ4X0lkdG1vXzBxaUJrdzY2cmtBRXNRdWpZQTBxb2JQamdTYzFHcVhSU2g2TE14UnE2cDBXemtLUHdCSTV5VnZJN29zSUFxbFg3eUxCWnNTa3nSAcwBQVVfeXFMT1BoVm9ndHNsWVBNajVhTDczWFJRVUxYYnAtSFRnUUhqTWdPOWJwN1U3Q2w1clBGcmd4UHZjbTQ2WXo2ajY2U0U1RlJtWjlrdVNuN0lTWHZ3bFNsbnZlVFJ3LXFsX0JmUllFbW82bnBiTnFUek1LN1JYMkFWeF9JZHRtb18wcWlCa3c2NnJrQUVzUXVqWUEwcW9iUGpnU2MxR3FYUlNoNkxNeFJxNnAwV3prS1B3Qkk1eVZ2STdvc0lBcWxYN3lMQlpzU2t5?oc=5",
+    "title": "Spacetech startup Pixxel raises $100 million in India's biggest spacetech funding round"
    }
   ],
   "indiaSignal": "strong"
@@ -8250,7 +8245,7 @@
   "usd": 50000000,
   "round": "Series C",
   "investors": [
-   "Peak XV Partners",
+   "Peak XV",
    "Filter Capital"
   ],
   "date": "2026-09-07",
@@ -8259,11 +8254,6 @@
     "outlet": "CNBC TV18",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZm9fUzQ1TVNib0FTazg1dTE3eVA5WHhybXU5UlZoU2U2a1Byc0pfdXg4RF9xYk9zbW1hWWpiaDNZMW5kVU9VRU9mQVRHWUVNM01nUGJhNEhlUzZRN0lCY0s0a2pNakhzY0lzMFRjLUpWTWJJUFg5cTVfQUFPeTh4TjZvUklaU09nWGxyemhfWEM5TmRhYTB0MlctOVBXX0pjaHZaOW9DSWxIbEgxbFN5WF9nRVN0VkJEQ09FRm1NajVYb2hLcThXWlVqUWxvbXNwa3A0RGdEQmlsZ9IB3wFBVV95cUxOdjl5YWJ6U1hWbnRtek1VMzRFYng4YXRxV2VxUXZZZVNoX2MyWjdrX1hINGlrLUozS05Hdkl6enpjQzVmOUp3dHFVeFVDVmVWM1gxek5ZV2MzYl91UHN3TmJ6LWgwdXo2dzR2LXNpLVpEM2lFdWxMaXBCdGtPRlN4b2thZ3A0RFB1ZHJQcDNpUmNQeDdESHNtZVROUTdyYWU2TkZVbVJ0V1laZEdwVmJZZEVFdlJXTG1ER0RpbU1rRUZTT2t3TmJDaGNHcnJHYWJ2aDE5Vkw3OHRBTkw3YUhV?oc=5",
     "title": "Women's wellness startup Nua raises $50 million in Series C round led by Peak XV, Filter Capital"
-   },
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM3BLRkRkMWxKV1haTG4weF9Xc3V6bUZfT2NWWDhZMm1vQmxsc1IwSW1pU1UzSDdvNnVob3Z4QnlRQ0N0ME94TElyNmozVGxJX3NsSG54dHE4c0NaeE02NGdVZEJlbXZvS3lSNW9rRzdxakt2LUw4V1Y5elRteGQxdkZfU05ucnNUOWxpazRRZXRfdWxTYVJSMnVpMkZqTDBSMDk3QnUwRHJQaEdzQXYxQXZXRGdaYzNaMnpXNkVxS2NyWmxzUjlMdnBqUXEtMDVXNUlUaVdHcU7SAdgBQVVfeXFMUDNwS0ZEZDFsSldYWkxuMHhfV3N1em1GX09jVlg4WTJtb0JsbHNSMEltaVNVM0g3bzZ1aG92eEJ5UUNDdDBPeExJcjZqM1RsSV9zbEhueHRxOHNDWnhNNjRnVWRCZW12b0t5UjVva0c3cWpLdi1MOFdWOXpUbXhkMXZGX1NObnJzVDlsaWs0UWV0X3VsU2FSUjJ1aTJGakwwUjA5N0J1MERyUGhHc0F2MUF2V0RnWmMzWjJ6VzZFcUtjclpsc1I5THZwalFxLTA1VzVJVGlXR3FO?oc=5",
-    "title": "Women’s wellness brand Nua raises $50 million in Series C led by Peak XV Partners, Filter Capital"
    },
    {
     "outlet": "Entrackr",
@@ -8342,7 +8332,7 @@
   "amount": 4300000,
   "currency": "EUR",
   "usd": 4730000,
-  "round": "Seed",
+  "round": null,
   "investors": [],
   "date": "2026-09-07",
   "sources": [
@@ -8350,11 +8340,6 @@
     "outlet": "Inc42",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVlxZ195X1llRGhYeXdJdWJMSUNkdmZUWXhTZGNlYWtHWm5YQk5nZVE0bHJvaEdSV25SQ3R2SU9YVGRvT3ZCUkxYLVhhdVdZdm1fRzNhaWJXLVB4b25uMVFNaW9RaG55SjlaazJIRHJsaFBoM3d2ZFRONmdoSHJqc2ZQRlctbXhQZDVYSXZucDB2WW1EYzh3?oc=5",
     "title": "Deeptech Startup Jaipur Robotics Raises €4.3 Mn, Eyes India Expansion"
-   },
-   {
-    "outlet": "Dealroom",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXNDNTd6NUpCMi1fUDBKOVZqYUlVVzFYZE92Wi1MLWtkWDViamdfVDdzeUZlVWptT1pTaGNiM0NnOGdUOWd1Q0ozLV9tdmlvSTZ3azJaUDBkMGpsNWg2VG94dEJzZWhhTEt2MGdZV1lTX0VsNS1FOXJHUjBtZGNGTzB1OWpWQnNNYjlzWENhUVJ4ZlhHeTZIWlFEaFF6dk9pVERoaWtPd2I5OVFRcGlVeFZOOVpaczg?oc=5",
-    "title": "Swiss deeptech Jaipur Robotics raises $5.1M seed to automate waste-to-energy plants"
    }
   ],
   "indiaSignal": "strong"
@@ -8384,14 +8369,14 @@
     "title": "Voice AI Startup Navana.ai Raises Rs 40 Cr In Series A Round Led By Ronnie Screwvala"
    },
    {
-    "outlet": "The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOenNGN2J4VV95T0JGc3pSUjJxTllLQ2NRY2E3eVJFOGtxVXlZYzhTWXRJTkJsY3hfdGthWFFNQzZNSmJSZ2ZkLS1IYVRqTEI4U3EwM2k2dkhvMTRycjJxQ0dXcUdTR2FfSEZMNzZoUk53M0pia0NRRFUxdmJXWGJ3TTBrSi1OQ0JjTGxxSzctQUYzaTNSZFkwYldtLWRweEZ6RHZBOHFFTnZpWWVwb2hTUy12VjZYb2ZRRUNaRFFwRHNZbTVrX0pwZWR2RlNHT2Q1UE9QT05qaFkyaVRLand1OHBWbERjZ1p4WkhhTkZR0gHzAUFVX3lxTE1FRlZSZ2NFaFhvQXF6Q3drRERkZ2V0bzFoelVibjdWSzFNWG1MSGlIUkF5QXRMZnV0SXZ6YjgtSk1odGNza3pzdnlDRUJDUV8zR2N3RkxJYlJ2ZGh4UmVHN1NVcXB5SkJrNDVIbzhFa0lJaWN3UUxVN0NyTFlXbmhkNUFrdVdIY0tYUWZZNUo5S2tYbEpDUHlUdmh6VV9NcGtLZ21LYkdOOEhKUXgta0VRLXdwdVNKcDZTTzBkZlpqWU5CQzVTUFNfRDYwS0NMcEZtQ0JkTHV0SzZPdU8yU1dZUjU1XzREOVdfbk4tY0F4RHp4UQ?oc=5",
-    "title": "Voice AI startup Navana raises Rs 40 crore from Ronnie Screwvala, others"
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU1VOeWdHYzFhaDMxV2hMUi0waGl0Z3lENFNibFlRN1BIMW5pZmVpblRXalNVT091NWE5Z2VabDRkSFkzcVk3TU5EWEFoRU9ZZ3Q0bmh0a1h6cUdHeU9RSkhtUzNJVkt0b0taXy1TZU1ZVlFDbDQzUkpVczJtTllCdTJVMlpNVGxZYjJDVVZQUkRGMkk5UGF4Ylc0WFkzOE1yWVV5M2d1VjhNTkEzTkJoUjJ3a1c2OUdoQXgyWVc3RDZoTGFrcWpZZUtFM0VGOXZKcnJpQg?oc=5",
+    "title": "Navana.ai raises Rs 40 crore in Series A led by Ronnie Screwvala to scale Voice AI for BFSI"
    },
    {
-    "outlet": "ET Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRG54aUtTaUp3TjJ1bEgxS0R6ZEo2eEJTZlJhZzNrTHhuU3ktQUxtVXZuWUtaVFN4RWtkVXlWWHlnTHh4THdwRFFkY3dIdTRBcW1XZ0l3QVZpZ2QxSVhDLXp3QzM2eGN2eVE1amNPR2ItcnJsS3kyWmswaW1aSm9XUmRkYllSQ3pBSG8wU2FWZUIwc0VGXy1rcWJPbDJ1YVFKRUItS1JmRld5R1QxVHNWUWJCS3hBUlpZc2JBdUprOTZOdUpOVUtnSG9jNVJjc2xTZmk1N1pvcmNZN2xmTnA2S0V2T3BNZ9IB6wFBVV95cUxOZ0JiR3ZTbjMzVVlRZm9qbkhxRVgxTENSYTFkSXFqUm4yV3RRWFFvcm5pU3UyY2d5X01WOGRUZGFqcFYxbTZvYjV1R25FY3lwVGU2emhudGZjQ1lFMllUZ1ctb0FzRWs3dldKVVdFNGQ5enZzSFBDdWh1ZF8xbU9KNGdpRHlhT1RWQXYwN3oyY28zMTZVSzlkQThHV2pOcHFuWGhrZGNSRVhFSHV6eWt4aFdLWUtNYlVLRXVxWHdTZm9NUjFGUFlaM2RCaVlobk9pVWl0My1FRHFTby1ocDNhZ0hUR25DNzR0LWJJ?oc=5",
-    "title": "Voice AI startup Navana.ai raises ₹40 crore in Series A led by Ronnie Screwvala"
+    "outlet": "Analytics India Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUzkyNGNBVFJONW93d0xzNFA4ODJ0cGtsOWx6NHlBVkF5Mk1lM2NGTVlpUHNid3hzbGhGTUJ2enZqWm1wR1pKalBHQ1pOWGU0ZkpTUjlZYlRiRWxqdGwtZmZ3eGgtUDlFR2NEOTNJRF9yRTdIdGw2ZGZYVFkzbDlFNWVOOTNFNFI5bHhQclhLSnVMaThBUThoT2dIUmdzdFdoa0VuYnFwZHdCX2J0aHVFTmZQcw?oc=5",
+    "title": "Voice AI Startup Navana.ai Secures ₹40 Crore Series A Led by Ronnie Screwvala"
    }
   ],
   "indiaSignal": "strong"
@@ -8484,9 +8469,9 @@
   "amount": 1700000000,
   "currency": "INR",
   "usd": 19318181.81818182,
-  "round": "Series C",
+  "round": null,
   "investors": [
-   "Sauce.Vc"
+   "Sauce.VC"
   ],
   "date": "2026-09-05",
   "sources": [
@@ -8494,11 +8479,6 @@
     "outlet": "Inc42",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbU03VzY5eG5pa283N2lUWUFHWGItNWJ2WFQ5WWRoU3FvN0JtQzZycDAwSXYxOHdMNEFHM3NwQlB5M0dnYjFjaXdBS1JfNUZKUWtSUUhEWW5Mek1iVk1vd2JvUGdUTDQ1dXpocVpyQlQ1WmxtMlVCNTNlVQ?oc=5",
     "title": "D2C Luggage Brand Mokobara Bags ₹170 Cr"
-   },
-   {
-    "outlet": "BW Disrupt",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTJYaWNCbW84UFdJc0FmMTBXd2xyaVFwb1hJdy1kU3dReXViYi1zYTYxam5uOVprdmVadnRUaVR3dUt3RUVPeEtUN250U0JSREVPS01XZ2JBNUFmU1dzXzVJRVFZM1pPUjdWYlRDMTlrN2VWM3FxeFVfbnM2NVdHQWVacXdpU2ZWTnNiY09BbnpobjRYVHYtZXl4WHlEenVlS2VqWVBvTGlwMHVv?oc=5",
-    "title": "Mokobara Raises Rs 170 Cr In Series C Funding Round Led By Sauce.Vc"
    },
    {
     "outlet": "Indian Startup News",
@@ -9098,25 +9078,18 @@
   "id": "alteon-2026-09-01",
   "company": "Alteon",
   "key": "alteon",
-  "descriptor": "Deep-Tech Aerospace Startup",
+  "descriptor": null,
   "amount": 2500000,
   "currency": "USD",
   "usd": 2500000,
-  "round": "Pre-seed",
-  "investors": [
-   "Lachy Groom"
-  ],
+  "round": null,
+  "investors": [],
   "date": "2026-09-01",
   "sources": [
    {
     "outlet": "Inc42",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHlPSnZGOFhLcjZER3lYOFhsdlZROWhzNTh6ZzlzVUIyTGc1X0ZDMkZEeUYzOFBTRVJkcENnM0l5YWlISjRVRUtMWkxFNXplYUlONTEyU1FtQVVMeUNmbUVYYkpadGVDNHlIOUxuMFB0cUFHVVJkcGhWYjlYNUM2RTRRb2lnQXNmTWlQdjQ5R0xia0I4?oc=5",
     "title": "Alteon Raises $2.5 Mn To Develop Long-Endurance Autonomous Aircraft"
-   },
-   {
-    "outlet": "CXO Digitalpulse",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGZiRnFJNnJrakw3VjVXZmFMNnZ2eDZUclhOdGpoMUNUbnprWjZPQjJPUlRzRzJHMFRqYzFjSTAwcU91Mml1TFlydnF5eEMybG5kZHZENFYzRFUzcXpYS2hJNGVlSlhzalNvMndBWGEzazVOUUtIMHZPUTZESVo5VTk0eWNWaHNVYl95MHc0aUNtZHQ5eThhUkdWRVdELUJQSk5WeHFiamo3aXVMd3Raa2Z6bGhIblNOV2N4TEw3VVc?oc=5",
-    "title": "Deep-Tech Aerospace Startup Alteon Raises $2.5 Million in Pre-Seed Round Led by Lachy Groom"
    }
   ],
   "indiaSignal": "strong"
@@ -9141,19 +9114,14 @@
     "title": "Oppex AI Raises Rs 4.2 Crore in Pre Seed Round Led by Info Edge Ventures"
    },
    {
-    "outlet": "ET Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVnNLaXBYOE1wSHM0LXY2azNnODJQSXlCYWNJT3dMWjZfV05ybEdsMFMzbzBKSTRWVXYtMUNNZ3pNNi1aMERDak5iX3BVeERZQklFWGdwMTlqd1RsNzA4NGhuS3FsMTFCMndMRTZTVUdKQ2w3d2hvVVpqUG5QSDg0aXg5dlYyUGhrVlpiTmlRaVBrQXdmR3dvM2lia3RwSUJlVVF5dFhibzZsYktEUlYzNzVrZHVQbnRfdmRVeUhVaF9IemFZcVVlQzdyRkIyYUlCZHfSAdcBQVVfeXFMTmtXaS1CeE1SVXJfYk5vZGpEaHg4amg5Q3hsMWZraEl4VHhLVko0Zkg2Z1FkRzRicncyaU1hQkVVWEVpQzRZZ1g5eUFQMjJfRlRCTS0yLTVKWTFsVFpjczNDRW43OXEzN2NBdk5nbHhYdHJ5SWhLTHlxNmUzbkdDTFRQSEM1VV8wOU9mZUdhNXhiV3g5NVdteWNJV0FSSTB0c1BFYUlDbU91R2Y1M1hlU0pFYjVKVU5TQTNkYlYzNUpHQW1nZjdCWkdEc0dmZW9tellzZ0FXWEU?oc=5",
-    "title": "Oppex AI raises ₹4.2 Cr pre-seed funding from Info Edge Ventures"
-   },
-   {
-    "outlet": "BW Disrupt",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkdueFhHUmtLVWNsVzV6anVwOUR3d0E2SG0wQm1HQnRXLWpPckFTLVZpVkxSWENmdjM3U293Rnd1YzJnYXFRU3ZWYkw0WjEzTmNBOWRzeUVGZE9kejdOeC1MZzFHZmY2dnFGbEEtWTBqM1lNajE4aXlIYUtweWVJV2JhM1RDNk9yYVhSaGFaYjNBdVA3LUtJck5Jc2VZOHlldVEwMHVGZVM?oc=5",
-    "title": "Oppex AI Raises Rs 4.2 Cr Pre-Seed Round From Info Edge Ventures"
-   },
-   {
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWJFY1VXNEhGTmxoYS1ta3p3WkY5ZjRlOGJwTzk3YjRIRGFMOGVMaGhhZjJwYlVORERpckd4NktjZm5oX2QyR0ZwX0RZa0dLenRHcU9CUXVmbUltTnNvQkJQSnJWWFY2X0VpZ0NjZkFoVHR2YjBmWlM0QUFJeWlpMXlzbVlmbWRISkhMYlROVU15UTlGaUo2RjUtSVUzRzlBTFZMUWhRM21kUGfSAasBQVVfeXFMTmFiRWNVVzRIRk5saGEtbWt6d1pGOWY0ZThicE85N2I0SERhTDhlTGhoYWYycGJVTkREaXJHeDZLY2ZuaF9kMkdGcF9EWWtHS3p0R3FPQlF1Zm1JbU5zb0JCUEpyVlhWNl9FaWdDY2ZBaFR0dmIwZlpTNEFBSXlpaTF5c21ZZm1kSEpITGJUTlVNeVE5RmlKNkY1LUlVM0c5QUxWTFFoUTNtZFBn?oc=5",
     "title": "Oppex AI raises Rs 4.2 Cr in pre-seed round led by Info Edge Ventures"
+   },
+   {
+    "outlet": "ET Entrepreneur",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVnNLaXBYOE1wSHM0LXY2azNnODJQSXlCYWNJT3dMWjZfV05ybEdsMFMzbzBKSTRWVXYtMUNNZ3pNNi1aMERDak5iX3BVeERZQklFWGdwMTlqd1RsNzA4NGhuS3FsMTFCMndMRTZTVUdKQ2w3d2hvVVpqUG5QSDg0aXg5dlYyUGhrVlpiTmlRaVBrQXdmR3dvM2lia3RwSUJlVVF5dFhibzZsYktEUlYzNzVrZHVQbnRfdmRVeUhVaF9IemFZcVVlQzdyRkIyYUlCZHfSAdcBQVVfeXFMTmtXaS1CeE1SVXJfYk5vZGpEaHg4amg5Q3hsMWZraEl4VHhLVko0Zkg2Z1FkRzRicncyaU1hQkVVWEVpQzRZZ1g5eUFQMjJfRlRCTS0yLTVKWTFsVFpjczNDRW43OXEzN2NBdk5nbHhYdHJ5SWhLTHlxNmUzbkdDTFRQSEM1VV8wOU9mZUdhNXhiV3g5NVdteWNJV0FSSTB0c1BFYUlDbU91R2Y1M1hlU0pFYjVKVU5TQTNkYlYzNUpHQW1nZjdCWkdEc0dmZW9tellzZ0FXWEU?oc=5",
+    "title": "Oppex AI raises ₹4.2 Cr pre-seed funding from Info Edge Ventures"
    }
   ],
   "indiaSignal": "strong"
@@ -9448,14 +9416,14 @@
   "date": "2026-08-27",
   "sources": [
    {
-    "outlet": "BusinessLine",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa2ZXNHh0Vm95MjFjaHpzRkEzMTBPMmpWOGRoU25zcHJBSVQ2QkhIUUlXQmFWTEhwSVRkSlR5clM1VUk3OWhsLTVkX0xTelBQWUY5Rlc2YUJlUjdydDlDQVU5NXNrN05ab2w2bnp0V08yU3IydDJHMThmQTByTzA0UUlDMVoybWgwUkswMDhFLUExdnR1SXNWMDQtcS1tVThLVmxrSVExSG9jY05HSTBHdGhEMEc1Ml90b00tNTZBaERsbUFfdzhOSTZrMmVLQdIB1AFBVV95cUxOOVRTZk1CS0ZrRkpXQjE2NkU4N1NkUlEyR2ZlUldnWnNYYU5fekFKaWd5SFJtODhFTjVkZjJ0dkNyX2xLdGxPc0pYQTF5OG5jbUxZY3ZLbVlHRGE2UGlIVnRhbE12alIyVlY3d05oVUVWRmhFb3VtR3NjTGpNVzFFMlVXdzlaOW5vSnd3bDFZbV9oN002eXJFUk9HQ2NGZ0pMMzVPSGIwNWphaVVDblhKTnFKSjViTGtKUExGLVpoVnNXQjNaQlppV0szZ093YmFyY2hkOQ?oc=5",
-    "title": "Spacetech startup InspeCity raises ₹100 crore in pre-Series A round"
-   },
-   {
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWjduSmM0cWE0cUVEMXluOEZHdTg3blgzOV94cnBSWHZyaWpSTDhINEZid19TcWh5dVNKTzMza08yLUh4RWRmbjlmcVgtOV9Nd29uVkxsRTRnQUpHMjd4cHFkWFhKUDQ5OHBScllHT2FoUnNNME9zYklZZXU4YTZnZ0JKZERvTW9zbmNFQ2t2OFFCQWRYalVNaWRZSnZFTEZaZV9n0gGjAUFVX3lxTFBaN25KYzRxYTRxRUQxeW44Rkd1ODduWDM5X3hycFJYdnJpalJMOEg0RmJ3X1NxaHl1U0pPMzNrTzItSHhFZGZuOWZxWC05X013b25WTGxFNGdBSkcyN3hwcWRYWEpQNDk4cFJyWUdPYWhSc00wT3NiSVlldThhNmdnQkpkRG9Nb3NuY0VDa3Y4UUJBZFhqVU1pZFlKdkVMRlplX2c?oc=5",
     "title": "Space-tech startup InspeCity raises Rs 100 Cr in pre-Series A round"
+   },
+   {
+    "outlet": "BusinessLine",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa2ZXNHh0Vm95MjFjaHpzRkEzMTBPMmpWOGRoU25zcHJBSVQ2QkhIUUlXQmFWTEhwSVRkSlR5clM1VUk3OWhsLTVkX0xTelBQWUY5Rlc2YUJlUjdydDlDQVU5NXNrN05ab2w2bnp0V08yU3IydDJHMThmQTByTzA0UUlDMVoybWgwUkswMDhFLUExdnR1SXNWMDQtcS1tVThLVmxrSVExSG9jY05HSTBHdGhEMEc1Ml90b00tNTZBaERsbUFfdzhOSTZrMmVLQdIB1AFBVV95cUxOOVRTZk1CS0ZrRkpXQjE2NkU4N1NkUlEyR2ZlUldnWnNYYU5fekFKaWd5SFJtODhFTjVkZjJ0dkNyX2xLdGxPc0pYQTF5OG5jbUxZY3ZLbVlHRGE2UGlIVnRhbE12alIyVlY3d05oVUVWRmhFb3VtR3NjTGpNVzFFMlVXdzlaOW5vSnd3bDFZbV9oN002eXJFUk9HQ2NGZ0pMMzVPSGIwNWphaVVDblhKTnFKSjViTGtKUExGLVpoVnNXQjNaQlppV0szZ093YmFyY2hkOQ?oc=5",
+    "title": "Spacetech startup InspeCity raises ₹100 crore in pre-Series A round"
    },
    {
     "outlet": "Via Satellite",
@@ -9619,9 +9587,8 @@
   "usd": 21000000,
   "round": "Series A",
   "investors": [
-   "Susquehanna Venture Capital",
-   "Nexus Venture Partners",
-   "Susquehanna VC"
+   "Susquehanna",
+   "Nexus"
   ],
   "date": "2026-08-26",
   "sources": [
@@ -9634,16 +9601,39 @@
     "outlet": "Inc42",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXJlUHBKZzJSamJGcFU4YUV0OGFFR19Ob1NQWVMxYjMyYzRBYTBnTllpRFJ4VUxqeW5CVm44SGowRmpZTllkUHB3bUd0NnNEMW9sdmpvRG4yRVRHTFQ4VW44Y0I0aVM4aTNkakRPRnFoSkpRX3EyUFhoX29QWTVSVHdMMGJSb2llNTNYUUlrcm9LeGJmdWdn?oc=5",
     "title": "AI Agent Platform Runable Raises $21 Mn To Help Small Businesses Grow"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "ringg-2026-08-26",
+  "company": "Ringg AI",
+  "key": "ringg",
+  "descriptor": "Voice AI startup",
+  "amount": 10000000,
+  "currency": "USD",
+  "usd": 10000000,
+  "round": "Series A",
+  "investors": [
+   "Peak XV Partners",
+   "Arkam Ventures"
+  ],
+  "date": "2026-08-26",
+  "sources": [
+   {
+    "outlet": "YourStory.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWxVQUltcFJ5cDhTcmRaR2pIYnJ6b1ZPQWJoeG5XWkxEWnRaMnF1UVZnYVZTclN0N25oUWRiTVprTFgwc2pfN2lZa1ZXeWpPc3NfVXljNHdscU5pYk81RENudzh3UUluS20zcDhaNkd1UGVuZ0JOZ1oxSHhBUTBuNzJ5SHB5ZGswY2psOUFDb1FPU0txMm44?oc=5",
+    "title": "Voice AI startup Ringg AI raises $10M in Series A led by Peak XV Partners"
    },
    {
-    "outlet": "Moneycontrol.com",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZDRHdWp4eGhaYTk3N0M2Z3lIcXhHOUxUT0NGb2FlVlluZjNEQ09MSHg3d3FzXzNvaEpOV3RteDMyYkl6OTZXa0VWZklkekw2V0lBUHFiODQtaUdUaTVmU1R3aEtsTE50QnFybHprQ0xhRVJXWlhwYlRxMkxxOEtfNjBqYjBZVXZfSGlIanlOdUE1WGNNSVhrcTJYczduaFFuSzFkM25ZYzJETTd2RmJSUWx6SDV3azdjNVg0NGxoeEN2a3Z1dWV0Z0VkM1c2TkRpcjBiN204ZkhaenRSME9FY3c1ZXJmbEt1ZkFJ0gHwAUFVX3lxTE1zeGhmWm9IdVRYRzRPV0pscmZOb05HQzhVekpHV2FTU0kyNldfTFBnZG9YUkdNb21uV2liWnQ1YWNlZV80bzl5d1VLSFRXdHUyR2t4ZktHZVd3N2sxM0VOTzJDYWJUZS00aDFtdlQ0TUZPdnBnUjdScjZEVS05Vlh2c1pRem50cWtVSWl3WGliWkdwX3NRRmdiMTJLeXQycnJsWkgwdjdUZUsyZkRrVUJPejdVMXBFWEpiUUtWWVVCTVVPa2QzWEhaM2xISkZFS0JiUWxSSlZGcUsxVkNMR2tBS3oyaTBGU21QaWx6eTFyUQ?oc=5",
-    "title": "Runable raises $21 million co-led by Susquehanna Venture Capital and Nexus Venture Partners"
+    "outlet": "Entrackr",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFBqRlZzYW1FX3Q1OFdHb3lmWExLaGRqek54REZLQlFwNVllQXN6a2RIcmFlclM5R0VnNDhHVm01eWdERnlHX2tDN2dGVGRSRENqVVNKa09QeGIybXhSc0Z4OW5zMGJzSjFuZkhnYjMyYm0ya2ZNOGN1ZUU4eWlMY2FydGN4T3lLSU9ISERn0gGOAUFVX3lxTE84UGpGVnNhbUVfdDU4V0dveWZYTEtoZGp6TnhERktCUXA1WWVBc3prZEhyYWVyUzlHRWc0OEdWbTV5Z0RGeUdfa0M3Z0ZUZFJEQ2pVU0prT1B4YjJteFJzRng5bnMwYnNKMW5mSGdiMzJibTJrZk04Y3VlRTh5aUxjYXJ0Y3hPeUtJT0hIRGc?oc=5",
+    "title": "Voice AI startup Ringg raises $10 Mn led by Peak XV"
    },
    {
-    "outlet": "DealStreetAsia",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MS1JfdTMxdk9GcDdFeTY0ekwtaHZYa2xVVWx0NC1ZOXV1RnMwVjNBUWtQSWV5YzZUMFk5VVJQZjNnLWxhc1U4eGU2UHZBS2tnamRJMG44MEN0N1Njemk2YkdKdFRaYU5xZUlMUjJkMmN0ZGdjTVE0c2VUbXp0Tkk?oc=5",
-    "title": "AI startup Runable raises $21m co-led by Susquehanna VC, Nexus"
+    "outlet": "Inc42",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenJIT1p4Nkh1OHlsYjVoQ3Q1cjF2MHZ0ZldwdE1uS0tibGZNeUs3V0Q0TWZicHZ2cjI1Tk1sOV9aVG5yRTFSSVltbW5lOWk5NHgxd2hxbHVvc0FUWUM3dmlSV0FnTjA3aHdqTm9zM2doV1JYZmxfYXRrNTYzMk5tcTFoMkQ?oc=5",
+    "title": "Voice AI Startup Ringg Bags $5.5 Mn From Arkam Ventures"
    }
   ],
   "indiaSignal": "strong"
@@ -9827,44 +9817,6 @@
   "indiaSignal": "strong"
  },
  {
-  "id": "ringg-2026-08-25",
-  "company": "Ringg AI",
-  "key": "ringg",
-  "descriptor": "Voice AI startup",
-  "amount": 10000000,
-  "currency": "USD",
-  "usd": 10000000,
-  "round": "Series A",
-  "investors": [
-   "Peak XV Partners",
-   "Arkam Ventures"
-  ],
-  "date": "2026-08-25",
-  "sources": [
-   {
-    "outlet": "TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTVFNHF0YUNMaFBZdkRiS0hfQW4wUUVZTmJ1UDB5Z3IxdTdWb1RxNUJsOWxoX3RyMkwxQ1VnRG9JeExzek1XSlhaaTgtTkhueS1NdWd6ZklhbDRscDdneEctenhjcFJfVEd4ZmxrLWJpSzVZZTNiUWJYUUR2U0Y3ZDJsS1Y1cnJUc3I1bGwtYmw5TVpFSEdBVkFnZy1hdlZDelNVVVFkNWxDM3JFTHVMeHp4WDBxUQ?oc=5",
-    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call"
-   },
-   {
-    "outlet": "YourStory.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWxVQUltcFJ5cDhTcmRaR2pIYnJ6b1ZPQWJoeG5XWkxEWnRaMnF1UVZnYVZTclN0N25oUWRiTVprTFgwc2pfN2lZa1ZXeWpPc3NfVXljNHdscU5pYk81RENudzh3UUluS20zcDhaNkd1UGVuZ0JOZ1oxSHhBUTBuNzJ5SHB5ZGswY2psOUFDb1FPU0txMm44?oc=5",
-    "title": "Voice AI startup Ringg AI raises $10M in Series A led by Peak XV Partners"
-   },
-   {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFBqRlZzYW1FX3Q1OFdHb3lmWExLaGRqek54REZLQlFwNVllQXN6a2RIcmFlclM5R0VnNDhHVm01eWdERnlHX2tDN2dGVGRSRENqVVNKa09QeGIybXhSc0Z4OW5zMGJzSjFuZkhnYjMyYm0ya2ZNOGN1ZUU4eWlMY2FydGN4T3lLSU9ISERn0gGOAUFVX3lxTE84UGpGVnNhbUVfdDU4V0dveWZYTEtoZGp6TnhERktCUXA1WWVBc3prZEhyYWVyUzlHRWc0OEdWbTV5Z0RGeUdfa0M3Z0ZUZFJEQ2pVU0prT1B4YjJteFJzRng5bnMwYnNKMW5mSGdiMzJibTJrZk04Y3VlRTh5aUxjYXJ0Y3hPeUtJT0hIRGc?oc=5",
-    "title": "Voice AI startup Ringg raises $10 Mn led by Peak XV"
-   },
-   {
-    "outlet": "Inc42",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenJIT1p4Nkh1OHlsYjVoQ3Q1cjF2MHZ0ZldwdE1uS0tibGZNeUs3V0Q0TWZicHZ2cjI1Tk1sOV9aVG5yRTFSSVltbW5lOWk5NHgxd2hxbHVvc0FUWUM3dmlSV0FnTjA3aHdqTm9zM2doV1JYZmxfYXRrNTYzMk5tcTFoMkQ?oc=5",
-    "title": "Voice AI Startup Ringg Bags $5.5 Mn From Arkam Ventures"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
   "id": "utsav-2026-08-25",
   "company": "Utsav",
   "key": "utsav",
@@ -10035,7 +9987,7 @@
   "id": "waterrobotics-2026-08-24",
   "company": "WATER Robotics",
   "key": "waterrobotics",
-  "descriptor": null,
+  "descriptor": "Physical AI startup",
   "amount": 2500000,
   "currency": "USD",
   "usd": 2500000,
@@ -10061,9 +10013,9 @@
     "title": "WATER raises $2.5 mn funding led by Endiya Partners"
    },
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONTZTQkpOd1NVX3VhOXBsa0JjSXpoSmllR21KUG96MnNLSWs4dndRSGVnVEpNaGF5SlpsckQyTDdFOUZfX1dHZ01tZ1pLeFJ5aHh2S0gxU1p4aGIzaE5yWVhCMGVnR2xVelhXMTlHV05WWVkyeHZtVUcyUE96eTJYQWJJT0MyQmJfejRGYjdxNXEtVndwLUp3bkJPNEt1ZXB4V0J4Q1Jzdzd2b0V6MVNoM0I2a0ozcGpRek0wTk9qN3FnVGl1TXg3b2VoQjhlZFU2WHY3TDlKYmIyWVhxNTZyRmdRd1dNSy1zd2xEalpoRmRyQQ?oc=5",
-    "title": "WATER Raises $2.5 Million in Seed Funding Led by Endiya Partners to Build Intelligence Layer for Adaptive Surfaces"
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94N9IByAFBVV95cUxPZjFNcTBoeXR6a25mdnZpaVNuSzRucTZ4RjVNX3ZncmdJdUJuLU85VWhxVDFPVGVWYzExUElxOEwzSk52MjE5cklzMkpGb1N3UTl3UEtqRHZwc2JuLVJFWGM3anduRS1fRmJzWmR3RWk5d3FSWkw0VHk3MnlCOGVzeHI0MUdVVzFiU1BxZDdJM05jemVxUmpncGhRQWI0Q2ZQMUR3ekFkYzBmbjM2aFFMTmRVUHQtbkM3S19DakVfaEQtR2JxWW94Nw?oc=5",
+    "title": "Physical AI startup WATER raises $2.5 million in funding from Endiya Partners, others"
    }
   ],
   "indiaSignal": "strong"
@@ -10392,7 +10344,7 @@
   "id": "navi-2026-08-19",
   "company": "Navi",
   "key": "navi",
-  "descriptor": null,
+  "descriptor": "Fintech",
   "amount": 100000000,
   "currency": "USD",
   "usd": 100000000,
@@ -10403,9 +10355,9 @@
   "date": "2026-08-19",
   "sources": [
    {
-    "outlet": "Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeGZUUmZYbFYzY2hlMHBQS1ZyN0d5dEJmdWJRMjNEamhWZkItck5OcXZBcnc1Y09zUnktNS1NS29fRUdMalcyaVBNNHViQkdLcDN2TW9PNzV5MTlrTGRaQllQU3RlTkc0MEU4TThFSGhEQUdBc0NTaDBsZlVJM1NXSVNuZzdVRkE2Yi05UGNCeG9MSlI3UHBlcHh2VEJlVnBBVmZYLVYwc2dzQnVkcWNMc0wxSjNydnNFXzdmME1FRUJTRlNoVHp2NVBuSWhGdVlLZkVOTG9EWmxFd28yeUF30gHkAUFVX3lxTE1rX2daWWRjSmZKUzNScENHU1I2NEo3ZlptZkNEczFFOXhjcHp3WmpXTG4ySC0zbWVpcXNsOVF5ZnJRVTJReUVOVTRHNEJ4TUxxeHk3TllYWERoOHBKNlRaZWdMWENWd3BKM3NiQkZfMVF6X0JIVUtHZS1qbUtfWmxoaEhXLWFqajcxY3o5OXJaak05SEpWZ3FncFhYdzJtYVA4aFRoN2ROVUQ3VzNRRkliRkdoZUotM2dOVTl2SzBsampURXQ3a0U2TFdLOG1ZUjRHVlA5SEp6cXFZdTQ3Q0NZUHdENA?oc=5",
-    "title": "Sachin Bansal-led Navi raises $100 mn from Prosus in maiden funding round"
+    "outlet": "TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0NaQkhITDY0dDFsVHBpUDNkV1FQZm5JZEotM194YXh0emJzOHVGNlVwTzh6QkRlZlV4V1RENFNqSWlORjBXZEMtZjdEcWJmQXRjelBFVERZRzkxQS1NUUJVYmJub3BYaV9iU29FNU1DNzF4UmIxa1ZNTS1fSTktQmNudHYzc1JHZVBWVUR5SjdwMkhZQzhHdWRnR0N3cEc1S09XNVdqeHp3dDNiNzBKcWtNLThpa2lVWmU0?oc=5",
+    "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment"
    },
    {
     "outlet": "Fortune India",
@@ -10560,7 +10512,7 @@
   "amount": 480000000,
   "currency": "INR",
   "usd": 5454545.454545455,
-  "round": null,
+  "round": "Series A",
   "investors": [],
   "date": "2026-08-18",
   "sources": [
@@ -10568,6 +10520,11 @@
     "outlet": "Indian Startup News",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON3psNWtrMVdpZ2NJMUtJQWVCNjQ3U1ZjeTQ1dlFxUmVhTjAtaHJKVGRGSHhHY21iUVJBa0J4QURqQ3UyaGpDdHdaTXhjWDhITHI0Nm9CSWRyVmk5a2l1MmJ6QWpHbXpmTEQzcS1qd1dYZFJBWFBXdzRNUHRzS0JTQ0tEZ1l5aFFRMFczc0xRT3dHZWpoR3hvNGxGWUVNUDhlN1g4cl9fVXdlVXU4RUE3YjdlXzY5aWdYdlpaenhabnpHaU1sSVlnQldTQkNySEFhSGtnX3pmVk9iaGRI0gHcAUFVX3lxTE43emw1a2sxV2lnY0kxS0lBZUI2NDdTVmN5NDV2UXFSZWFOMC1ockpUZEZIeEdjbWJRUkFrQnhBRGpDdTJoakN0d1pNeGNYOEhMcjQ2b0JJZHJWaTlraXUyYnpBakdtemZMRDNxLWp3V1hkUkFYUFd3NE1QdHNLQlNDS0RnWXloUVEwVzNzTFFPd0dlamhHeG80bEZZRU1QOGU3WDhyX19Vd2VVdThFQTdiN2VfNjlpZ1h2Wlp6eFpuekdpTWxJWWdCV1NCQ3JIQWFIa2dfemZWT2JoZEg?oc=5",
     "title": "Children-focused healthtech startup Lissun raises Rs 48 crore to expand its centres in key cities"
+   },
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHlvbnBZWGRJVWYzRWU2endoTHdXc2ZUUjRWS0hwbFMydk5odkxQZU4wZEwyZ0JMbnVoTG01NndaM1hGbndad3ZhMjhWTDVzeWJILXpFekVISl9IVkhVc2x0SzZGWnhTLTZyWEtYM2NtT2k2Q2dWWTNVXzRJVm1LcDJtR1lpbHdvUWpzel8xWGFzVmdlZU5LbHc0N2htLTZCblpJT0JET1kyY3EyZjl3SXdOVk5ZRnN4Vkx4UlptcFlGR2tYY1lFTWRBdVVTNUlqaXc?oc=5",
+    "title": "Lissun Raises Rs 48 Crore in Series A to Expand Child Development Centres and AI-Led Care"
    }
   ],
   "indiaSignal": "strong"
@@ -10724,6 +10681,11 @@
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa0xueEVjd251WDNOMzNWSVp5bkVnakdpUVlXTmRtVWY0NUJvb3ZBdl90U1dBOFBvaEhsZ1ZET1YyMm9OQ1Bqa2ZyQ3B0YUFKcHhyZWZxbjh4SDktM0ZKekNLUVJhd2dxaFhnU1lHZmw0eUF1SDdfTjNVRU1IcnQxZU9XRk5ET0VsLTdhWlE5VFZUdEdCdXdaVThKR1Q3OUVwNGhZdjVvVUltVkQ2WXE00gGvAUFVX3lxTE1rTG54RWN3bnVYM04zM1ZJWnluRWdqR2lRWVdOZG1VZjQ1Qm9vdkF2X3RTV0E4UG9oSGxnVkRPVjIyb05DUGprZnJDcHRhQUpweHJlZnFuOHhIOS0zRkp6Q0tRUmF3Z3FoWGdTWUdmbDR5QXVIN19OM1VFTUhydDFlT1dGTkRPRWwtN2FaUTlUVlR0R0J1d1pVOEpHVDc5RXA0aFl2NW9VSW1WRDZZcTQ?oc=5",
     "title": "AI code testing platform Blacksmith raises $45 Mn in Series B led by Peak XV"
+   },
+   {
+    "outlet": "Analytics India Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcW5nOHhsQXRWY2xLRmt2eW1fWWpIdUMyU2ZxTEtMV3FfT25Obkc1aTZ1c3hwUnVTR29VUm1GSnJhZkVuSWFFbUMyeUFORGNiUGFIcVpMVFYtMExhNUVTaWZBMEtoM0dsaW5iN183UHMwNUhlR1hvVEJKYTFEZHlVOHUtZXdtN3BiSEtsSEpTZHNjZXg2NmJrNGIzelVDeDZpTlVoNFE5d2ttSllo?oc=5",
+    "title": "Blacksmith Raises $45 Mn in Series B Led by Peak XV at $550 Mn Valuation"
    }
   ],
   "indiaSignal": "strong"
@@ -10808,6 +10770,33 @@
   "indiaSignal": "strong"
  },
  {
+  "id": "yulu-2026-08-12",
+  "company": "Yulu",
+  "key": "yulu",
+  "descriptor": "EV mobility service startup",
+  "amount": 93000000,
+  "currency": "USD",
+  "usd": 93000000,
+  "round": null,
+  "investors": [
+   "GEF Capital"
+  ],
+  "date": "2026-08-12",
+  "sources": [
+   {
+    "outlet": "YourStory.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYl9uWk1USFpDempNWUl2RVg2UU5haFdOZi1oSmpSOGN6WXlFblB3UkV6cE1MSndEb0RJS1VzYl9oOG85TzZNcnIxS282SUluU1JVaUVXYjhnel9wQ0ZwNmF0V2ZTZHNlWVBJRWJrTkg3NGUzQnppa05aNGhaU2x3YW4yTmNGemRkUkJTM09Sbko0d29nMWNxcGZiVjVhTmlM?oc=5",
+    "title": "EV mobility service startup Yulu raises $93M led by GEF Capital"
+   },
+   {
+    "outlet": "Inc42",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWlobkhwdGxYOURRYUluRWp6MTRIeHlLNVNiMGVOaHp6bExyMWZyMW1NMGxCazRHMmVFVHQ2ZndsMjdvRHNfNFNUaFFJRFZWTUh6LWNWMDdYLTR6SUI2Y0dRQ3ZFSmYtZzBOTVRYVXl5VzF0OG01aWtfQWJWQlBPSDY1dFBmdnpjdlhZNDFQYkcydmFaQmpneEEwQWJzSU0?oc=5",
+    "title": "Yulu Bags $93 Mn To Scale EV Fleet, Enter Full-Size Electric Scooter Segment"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "noccarc-2026-08-12",
   "company": "Noccarc",
   "key": "noccarc",
@@ -10872,6 +10861,11 @@
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaGt6ZUlXUU5nYnNLLVV6SWpPYTB2S1kzZl91MzRJSjZTbEoxTnFFZ25sMmdONzR5X2VKNjN4UmxWaXNweGMzMWJYZ1k5WW1kQzFyblBONGtlWjFCMmViTDJveElSUHRNODNVbzl4cGJiZzkzc1VCTGo0eU1oQThmczFXQ256eDl5TkF1M3BOcVpfOXBjS1JQUjA1LVllRkhQVkQ1WUd6NG5DbWxobFlVMjI1WDlNMFhHajQzR012NEREMll4VzdlT2hqY3hNcmVMWTVXZDdUV00xQjFnUlQyX3BGUFJwaGJoZHc?oc=5",
     "title": "Lane Raises ₹8.5 Crore in Pre-Seed Round Led by Kae Capital to Scale Tech-Enabled Driving Education"
+   },
+   {
+    "outlet": "Siliconindia",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDRnc1pxeWNJdlpVRkxvRXdQZkRDTHpXQlVOblUwZGpnZWNxVmNIanlpaUNERFJ1VGNOLWk5ZGExTkQ4ZUpMVXNhc2Zsbkl4YXZ3Z0xRS2FmRXRoNFRleVFXRlM1bkpHaDVYcmp0UGVVUFo5VE5lckRNNGtEa3VqWWk0OGYzNmZNSHpEZ0NmbjV0eVlYc1hnb0tlSm16UlBvTW9BTzVZMDl2cnF1OVFUdE5TUVZBWXR1V0NzV2RqUERjUEhuazhV?oc=5",
+    "title": "Lane Raises Rs 8.5 Crore in Pre-Seed Round Led by Kae Capital"
    }
   ],
   "indiaSignal": "strong"
@@ -10914,38 +10908,6 @@
     "outlet": "analyticsindiamag.com",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2lFMlFMSmpheHp6Y0dXSkdHNGdMMXlyckVzeVFEVHpTbFM2cW9fSVN3bF9GNUktQ0hBa1M2cGVPaWdzdlpyTkZUUFp3b3BDeFRsd1FqR2xqUXFHZzRMbDNWYWtMenJmY0Z6ekVwU3VGNFh1eWRBdkRXVnpIMmtTOGViRmR0RWw4RDBsT3FNekMwSWYxUFBmSzdmTmdzU09QRFI1TXh5eUROSVNaRGtiX1o5dlBwbFBN?oc=5",
     "title": "Lightstorm Secures ₹2,500 Crore From IndusInd Bank to Build India AI Superhighway"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "yulu-2026-08-11",
-  "company": "Yulu",
-  "key": "yulu",
-  "descriptor": "EV mobility service startup",
-  "amount": 93000000,
-  "currency": "USD",
-  "usd": 93000000,
-  "round": null,
-  "investors": [
-   "GEF Capital"
-  ],
-  "date": "2026-08-11",
-  "sources": [
-   {
-    "outlet": "TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2JLN3kyb3hveks0aWVTUXJTM2ZBLS1MMV9GTGZuanUxUTdiamRNSWxvS1piVEdFbkFYZG1sRUZEM2tITmlEY3RiVm1yejVVNEplWTlWcHp0N1NfbWdTWVE5Rl8wc2pNZ0s1a2dyTm9UUkM4TVN6d1BnS3lCbklteU1BX1dUQktvVTFJOEJ0MW5KMG42X1U2bkdZNVVJaXEwRmc?oc=5",
-    "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand"
-   },
-   {
-    "outlet": "YourStory.com",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYl9uWk1USFpDempNWUl2RVg2UU5haFdOZi1oSmpSOGN6WXlFblB3UkV6cE1MSndEb0RJS1VzYl9oOG85TzZNcnIxS282SUluU1JVaUVXYjhnel9wQ0ZwNmF0V2ZTZHNlWVBJRWJrTkg3NGUzQnppa05aNGhaU2x3YW4yTmNGemRkUkJTM09Sbko0d29nMWNxcGZiVjVhTmlM?oc=5",
-    "title": "EV mobility service startup Yulu raises $93M led by GEF Capital"
-   },
-   {
-    "outlet": "Inc42",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWlobkhwdGxYOURRYUluRWp6MTRIeHlLNVNiMGVOaHp6bExyMWZyMW1NMGxCazRHMmVFVHQ2ZndsMjdvRHNfNFNUaFFJRFZWTUh6LWNWMDdYLTR6SUI2Y0dRQ3ZFSmYtZzBOTVRYVXl5VzF0OG01aWtfQWJWQlBPSDY1dFBmdnpjdlhZNDFQYkcydmFaQmpneEEwQWJzSU0?oc=5",
-    "title": "Yulu Bags $93 Mn To Scale EV Fleet, Enter Full-Size Electric Scooter Segment"
    }
   ],
   "indiaSignal": "strong"
@@ -11006,13 +10968,20 @@
   "currency": "INR",
   "usd": 568181.8181818182,
   "round": "Pre-series A",
-  "investors": [],
+  "investors": [
+   "HighLeaf"
+  ],
   "date": "2026-08-11",
   "sources": [
    {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX3dLTVV3UnZDX1cxX3dnZi04UHp3ZEg0ZHJlenlMOElDdzZZdVNKSVhmMldJNUlDM2cweGljY0hnNXFGMU1IZWRBRmJwWFNNUVg2VnVzc1pic21ZeXprWHBDQ1Z2V1o0cjhKT2hQV3VEcVRxN0VJY3BWYUQ4YTF5MEM5X1dZemJMNnd2UnVVRGtKU2NzZTc3eGJ5RUlYTlQ2ZTJhWVJtXzNVaVVmTGhDbU5vMEFEZ2VDQ1FSWmc3QmhMSUZoRl9nbkFLcS04WHlLa0JPcDlIUQ?oc=5",
     "title": "FreightFox Raises Rs 5 Crore in Pre-Series A Round to Expand Enterprise and Global Operations"
+   },
+   {
+    "outlet": "Indian Startup News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVktVSnhFTEgtaFJkOHpZT1FfU2hkdE00QUtBdDh5ZmZfYUFnbmNNNDEtUDE4NjVMSFJ1dnhRNURtV0tuLVRJOHd6RkJEWFlfcTNYQVN4N2tmVHVBYmtEZWdqR2FhTFZ4bHh6LUNyVjN4WkZ6QU9uV0NVdHd0Um9zNjVraXpZR3NSRHNLU2k0YmZRbnJUaWF5enNOc2dtcXQyTzA0SNIBpAFBVV95cUxNVktVSnhFTEgtaFJkOHpZT1FfU2hkdE00QUtBdDh5ZmZfYUFnbmNNNDEtUDE4NjVMSFJ1dnhRNURtV0tuLVRJOHd6RkJEWFlfcTNYQVN4N2tmVHVBYmtEZWdqR2FhTFZ4bHh6LUNyVjN4WkZ6QU9uV0NVdHd0Um9zNjVraXpZR3NSRHNLU2k0YmZRbnJUaWF5enNOc2dtcXQyTzA0SA?oc=5",
+    "title": "FreightFox raises Rs 5 crore in funding led by HighLeaf"
    }
   ],
   "indiaSignal": "strong"
@@ -11259,14 +11228,14 @@
   "date": "2026-08-06",
   "sources": [
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMUpTblB6YVZBazRJZVB3LWxUX0hqLVhNSlVtZHB2UDdEdDllUmRfY0ZvUEZVbVRvZGltM05xUkRyM0JuMHhqcmlqS2Rib3RXRVNTR1J0dWdseVo5SEFITEc4bG1GQ1V5R3FqSjVEMkhOZU1GdDIxSVdiUVhYYm51OF8tQkJKdkhNSlcyRGg1aXB1N21ZRV9TODV6b25TR1VKT296V29MeFI0Ym1vWWZnMXZBdy1YX0c3allCc2ZlMm1MRHBRMFV2bV9ubmhSY05tTTE2cVd3LWgxVlJlcW1GY1hzU2I3SzdiN3c?oc=5",
-    "title": "Mitti Labs Raises $9.5 Million Led by Aramco Ventures to Expand AI-Driven Climate-Smart Agriculture Platform"
-   },
-   {
     "outlet": "Green Queen Media",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzV3UVc0WEh4RlcxYThUTWhUVkUyaUl2NGJXaDlEVEtTOVZlZnhKcmRtSTAtUFJMUnB3cW8tc3hXUHB5STRjNy1xWWJmZ3VuQ2M3RUIzbVk2Znh2WTRnUkRXLW9QdndpT0NQSjFRT05tclJvam16dlFscnZMQnFUaHV5UkVtT0JXN2F2cXB4MWdIa3ZUd1ZTRGF0a0tjUGlnMjktRFNYa1FRZw?oc=5",
     "title": "Mitti Labs Bags $9.5M to Ramp Up Climate-Smart Rice Farming in Asia with AI"
+   },
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMUpTblB6YVZBazRJZVB3LWxUX0hqLVhNSlVtZHB2UDdEdDllUmRfY0ZvUEZVbVRvZGltM05xUkRyM0JuMHhqcmlqS2Rib3RXRVNTR1J0dWdseVo5SEFITEc4bG1GQ1V5R3FqSjVEMkhOZU1GdDIxSVdiUVhYYm51OF8tQkJKdkhNSlcyRGg1aXB1N21ZRV9TODV6b25TR1VKT296V29MeFI0Ym1vWWZnMXZBdy1YX0c3allCc2ZlMm1MRHBRMFV2bV9ubmhSY05tTTE2cVd3LWgxVlJlcW1GY1hzU2I3SzdiN3c?oc=5",
+    "title": "Mitti Labs Raises $9.5 Million Led by Aramco Ventures to Expand AI-Driven Climate-Smart Agriculture Platform"
    },
    {
     "outlet": "Inc42",
@@ -11511,6 +11480,11 @@
   "date": "2026-08-05",
   "sources": [
    {
+    "outlet": "https://ascendants.in/",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tQ1lIZmtpN2liY3FVS3p6TGdvX1l5czA1S2tRNS1HTzNRR19hY3FweWZKOXdFVU15STFmNkF6OTV1Z3kxNUxaQ3pyZkdBOU1BbVdaazYwV2JuVFFzbHhITmgzUVAtQzhLYldjODB0Y3k2NTVj?oc=5",
+    "title": "Vingo Raises Rs 10 Crore Seed Funding Led by IndiaQuotient to Expand C2C Marketplace"
+   },
+   {
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1lQelZtNHdYc2YtdTZXaUdYOTlkZDNNQXZULWR0UmpJYmVMbEtJVDhhZEFXY0ItbDR3cGVFNTcyNDhxYks1eVM3TmFTLXh2THFqYzJRZ2dwNkRBRTdjdkJnT1V3b0hEeHpIN18xczJBR2xKUk5QQU8tNnYwTnphZzZvZVBYbnNuLUsyQnFIRFd3VjJNR2FpME95dTd4WnpReXdhSWlpZ0xNSUI30gGsAUFVX3lxTE5XWVB6Vm00d1hzZi11NldpR1g5OWRkM01BdlQtZHRSakliZUxsS0lUOGFkQVdjQi1sNHdwZUU1NzI0OHFiSzV5UzdOYVMteHZMcWpjMlFnZ3A2REFFN2N2QmdPVXdvSER4ekg3XzFzMkFHbEpSTlBBTy02djBOemFnNm9lUFhuc24tSzJCcUhEV3dWMk1HYWkwT3l1N3haelF5d2FJaWlnTE1JQjc?oc=5",
     "title": "C2C marketplace Vingo raises Rs 10 Cr seed round led by IndiaQuotient"
@@ -11584,6 +11558,11 @@
     "outlet": "Entrepreneur India",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU2swakN0b2RMQXdkS2I2Y1M0N09GUWc1QTdqYTRnUWEyUUFnYWpleExyZlloUmZTejZSV0lORllfWTBTUmkyWmc0anduTUZ2c3JnQU9HRE11b244eExOaTgyMUV5R2tMQUR1cHZpWmt0OUt3QUJjdVZiYWNzYnRTWm94NXRzWGZfajhoMGk0aWl6N3p6UjM3bUhCZ0t5WGRSNE04YUtMa2RROEw0M1lSTjd5LXNicXZ1UWc?oc=5",
     "title": "Matel Motion & Energy Solutions Raises INR 130 Cr in Series B Round"
+   },
+   {
+    "outlet": "BW Disrupt",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0xUOEJGVzVoWnRIQ2t4QVFNZ1JVMWw0TEhxUzJSeGJCS05kT19aODRFdzk5WVZRbWEyQ2llYjQ5UG1rRGpSd25QU1l0eXBYWjJvZnNWLWJPeWdXOHFYNXB0OUphcEp3WUlSNWk1RDIzV1JYRUlXZ2VfY0s0T3JkRkpYR1VsaEZCWE9SSDhYdV9oVG5YOU14ajJiWlF2dEVUU3J1cC1PeTdJaFRaNDA3YW5aWXAwSmt4dElDTUxn?oc=5",
+    "title": "Matel Motion Raises Rs 130 Cr In Series B, Plans To Expand Manufacturing Capacity"
    }
   ],
   "indiaSignal": "strong"
@@ -11592,12 +11571,14 @@
   "id": "vaaree-2026-08-04",
   "company": "Vaaree",
   "key": "vaaree",
-  "descriptor": null,
+  "descriptor": "Home Decor Marketplace",
   "amount": 650000000,
   "currency": "INR",
   "usd": 7386363.636363637,
   "round": "Series A",
-  "investors": [],
+  "investors": [
+   "Hero Enterprise"
+  ],
   "date": "2026-08-04",
   "sources": [
    {
@@ -11606,9 +11587,9 @@
     "title": "Vaaree Raises Rs 65 Crore in Series A to Expand Home Décor Marketplace and AI-Powered Discovery"
    },
    {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1NwMEFtVGx2aTZOQ0oxdXF1RUozdW5sdEZiWXZpWGpkeHpJVVNaZUtIQy1keTdKQ05iMUxncUZHMk1Lbm9OQ2hJTWJZeXBidnhWbTlja3ZldV9qeTFOazQ0N0pXNHVaSGQwNV96V25vZUJBYWhuck1lZ1piZmNteWpYRUI?oc=5",
-    "title": "Vaaree Raises Rs 65 Crore in Series A to Expand AI and Delivery Network"
+    "outlet": "Inc42",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbE03alVsUk55eTlSanhpS1ZDRVlSU2ZrZTFvajBnX2NRWDl1NXBTcU1RTTlFNHFyREptVFJFS0tzcFYwTndyQXZ5WWFZSWpoX2ltUUs0Y2NucmZKRXdPcGZPRDRoOEw5Q2NfWkQ4eVlvcV9jcUlKTnp0cnNWWEthWGZIanZYWW1OZ2xLQ1ZibXA5eVlPSnB6ZEx3QlQ1NDA?oc=5",
+    "title": "Home Decor Marketplace Vaaree Raises ₹65 Cr Led By Hero Enterprise"
    }
   ],
   "indiaSignal": "strong"
@@ -11681,7 +11662,7 @@
   "id": "kily-2026-08-04",
   "company": "Kily",
   "key": "kily",
-  "descriptor": "Agentic AI Startup",
+  "descriptor": null,
   "amount": 300000000,
   "currency": "INR",
   "usd": 3409090.909090909,
@@ -11689,11 +11670,6 @@
   "investors": [],
   "date": "2026-08-04",
   "sources": [
-   {
-    "outlet": "Inc42",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWpCVDNqZG9nejB0SVpuWVR4RGRxckx3RjVhTGtjR0FvdEhHV2FmNDZVeFZWT2dlSlRNS0tVMTF0OFA3clFLNHhrb2wzanJTakZrNEJQZEU4b3Bqa3RiQWlnTEFnY2FlYmZZTTRIODY5bDZYTlF2NlNfN1JfOUY1OVB3eXBtR0lsU0FRYWNpT19Ba0l1WTZtQWJicml4QUliTWEtb2pn?oc=5",
-    "title": "Agentic AI Startup Kily Raises ₹30 Cr To Accelerate Platform Deployment"
-   },
    {
     "outlet": "Indian Startup Times",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkxLM2pyNG5WMTF1MXhRelhRS21WLVBRdWdjSGY2RzV5Q2pTbWdUSUFtaTlua2EtNnVDWVpYWmx3VGZpT0h3REI1bW91RFVwWjdqYWZ5aUFDOTgxbnZYV3RKZGpTNl9TT3I4bXlDQWkwUlVPYXdGS0s5c0locUVUc3NCbDJENVM5OEtqLXFUX3VFZUtWLTJVeng1Tkd1eDNxRTgxTWgwenViWXQwcHZNeUMzemxjeW15V0ZfX0w0VGpSaVd3ZUFSaFRrYmpsZDZqZy1zanF6WQ?oc=5",
@@ -12105,11 +12081,7 @@
   "currency": "USD",
   "usd": 5500000,
   "round": "Seed",
-  "investors": [
-   "Accel",
-   "Fireside Ventures",
-   "Lightspeed"
-  ],
+  "investors": [],
   "date": "2026-07-29",
   "sources": [
    {
@@ -12121,16 +12093,6 @@
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTJKbWItQXEzQWVpZzdGQ1hqdUJDWE5fZUFVUWdwSEpNVnpubEpOWmgySjhjZVk5MjdHZ2FLZl9jXzhpeFc4dHFCVmlEQkp2bTBabUxrdHQ1X28xYWdVMFhBTGxPTTdpNm9BWEtuelN4ancwT0tvUll4ZUM0bVlVOHNOeHNCV0EyM0hyZFBBTEg0bTF6WjEtV1pReVdmNzBLd3lLRE02MmtlMnNKeXdKQTRTMzHSAbQBQVVfeXFMTXkySm1iLUFxM0FlaWc3RkNYanVCQ1hOX2VBVVFncEhKTVZ6bmxKTlpoMko4Y2VZOTI3R2dhS2ZfY184aXhXOHRxQlZpREJKdm0wWm1Ma3R0NV9vMWFnVTBYQUxsT003aTZvQVhLbnpTeGp3ME9Lb1JZeGVDNG1ZVThzTnhzQldBMjNIcmRQQUxING0xeloxLVdaUXlXZjcwS3d5S0RNNjJrZTJzSnl3SkE0UzMx?oc=5",
     "title": "Building materials quick commerce startup Fixxly raises $5.5 Mn in seed round"
-   },
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQam90aDhKX2FhTVZfSzdvOFB0Z09Pbng3b3FybjQycV95RjdaVS0tTzJJcHRQcldpTUlWTy1jQ3hmQzIxLVhTT1I2Q1hlRkRZeld1bFh0VFNTM2k3d3c0SDMycGNGcWFJVUlKVUI4b3owUjdiNC1EVUNOa054bFgtTVlYRVpKYXFpMUNNYXBBVldPYXdXT3k3cFd3UFlvb0Z5TmZodG5WUVp2NS1uZ1FtaDBPLVNmTl9OYW11VGRRTkwtVUl0eGNhZmtCU3NVSnFOVnAzYnY2QzMxM3N3M29sMk0tREpjQW5qLThERW1kYU9LUDZMTzAxR0dmemJ0UlFRZERPWTNfbnRuWmRPS1N4ZUcxOTBzZw?oc=5",
-    "title": "Fixxly Raises $5.5 Million Seed Funding from Accel, Fireside Ventures, and Lightspeed to Build AI-Powered Quick Commerce for Building Materials"
-   },
-   {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lZjlHNXhFQXZ5QVdBRjZzRHh2NkhGZl9DaXV5ZWlRc0stZ0pYVkVnRDJjMDdLaXg1REVjUkVfbHZSeldpdHFoSVVaUmdpcUt1SUt6OVVjb3pwMlFacElwY3RCdW9vZWdyTzM2QU5LS0lyQVFRRUE?oc=5",
-    "title": "Fixxly Raises $5.5 Million to Build Quick Commerce Network for Building Materials"
    }
   ],
   "indiaSignal": "strong"
@@ -12173,6 +12135,11 @@
     "outlet": "Business Standard",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdlFSeE9Damd3bFpId0RQdkhIR2dJblpMb012ODJEdUVmempjMzhxNVg1b1lYZDJCd29BM1BxbFRWcGk0YkdpM2c3TXM3ZWxJWmNla2JKMEp5Njd5TVRTeFhJTDNPeEQxQTcyTXRKcDNwQnBMaXllZGNEMEswVFFBVkRlc3FBTUl1NzQzcVZRb3ZuR0hYVGRaWGNVU3BIMlJuQUxmUFdic0lxeDRmazFaY2xRY3BtZUZXM0Z4UVMtNUJyUHQ3LUw5aHZvM2Vka0JGemfSAdcBQVVfeXFMTlRhOXJzNzJ1eXktZXNiQXdMbUhjd2tzWWRuQlp1NnNmbjEzcXVnTGFiVGpxTm9ISWR5VVQzcVVsMmt5LUtFanNTUXRmQXA4T0ZNMWVySnVsUnpPMkExTlhSeU1qamI3bkp1R1BMN2x6UnNhTjFUQjFtQzdMZlRRaE5iaE9yODdmS3J2ajQtV2NEMVhSYTZEbF9wd2FiUDZhMzJYSkRIMlhHMG9yTHZUdXV1OHRna19mZVpBM1ZRRG04cUo3NUJ2TzFiN1J2VHhrZFJtMWtkb00?oc=5",
     "title": "Deeptech startup Yaanendriya raises ₹15 crore from Piper Serica"
+   },
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNamlXTGkyenFwalh5NE1sTXg3WjM1TG42TmNHbmx2Z2xrNXI1TWlOcWlSUUxYU0VkaUJLeUgwbVlfeTJmTFdvUlRndjFqdFoyRkYtS2tkaGtFUHJ3OG1ja0pCQUI5UF9PREh2TDZFcnBIS2x3MHhRcjJuNXpSMXBHYXZuNWJzOFdKR0xnVXNxRkt5aGFhbHhWeFJOcEFqVDhmcE9kRjI4MGthUjQ4aThXd2Z4bG0zc3U4VDVmY2ZfZlM4ekpvYk8xV05DVVNYLW5EVENDeXU3eTZVVXFkZmZQOVlrUGRSUVNGbDZr?oc=5",
+    "title": "Yaanendriya Raises ₹15 Crore from Piper Serica to Strengthen India's Indigenous Navigation Technology"
    },
    {
     "outlet": "BusinessLine",
@@ -12287,21 +12254,14 @@
   "amount": 10000000,
   "currency": "USD",
   "usd": 10000000,
-  "round": "Series A",
-  "investors": [
-   "IFC"
-  ],
+  "round": null,
+  "investors": [],
   "date": "2026-07-23",
   "sources": [
    {
     "outlet": "Inc42",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM28wOFNVQTQzN25GcHNJQ1NXb2R5S09jWkt5NWFYMkhSbVptV2h6cURiZ3B5VkpOTmhYcUg1ZFh5aUw4a3JZZW04OXpyZjJ3V3hCTXBjUXN6RlBuRnhRd2ZpQjRRdXVFY0FmNlU0bndpa2Rrb3N6Yl9xQ0JhUms5cjRnLWF3X2M3SmdYa3ZXa2M?oc=5",
     "title": "CARPL.ai Bags $10 Mn To Scale Its AI Medical Imaging Marketplace"
-   },
-   {
-    "outlet": "Medical Dialogues",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeklRVkV6STlkczlxT29fYzRtRVBlN2ZMVExrZVFIZWNVb0VReWgzczlfQ09OUUczbEJwS291Q0U4WWZZRmJVUGhlRTJ4aUR6UGs0d2xXa0k0YXI3WWxzbVVvb1lRQ2FNZTdCLWJhejBqdEdSVzlpMHlHSjhwNXVQSEhSSTB6RmVMTHpUZUtZVkc4ODk5ajlWOUZaZ2hkVXNRNXdpeFhXUm13Qkc0Y2NFU1NjQWJ3NXEzMWVSOXRiZGFuS1XSAcgBQVVfeXFMTTFMZHdTUXA0SVBkWWxPR291RDdvQzlES3A0eFEyVkM5Mkt4cVRoSEdqeWgwaXFoVXBlY2g5eFFKS2IzeGhhX0NCbFRQZHQ1U1FqOUZNVldXb2wtY1NYeXJ4bEltd0kzbkd4UVRWMUs1SlcxeWI5bExfbWdBY2lzU0VGUW1SV2xUN3lLTjVOa2x6bmV4OWpfV2YwVVlWNWQyb21JQmVIYTUzaW8tVWdmQTY2dGVDTmt4MlV3cm5jWVpHNG1sWUMxOXE?oc=5",
-    "title": "CARPL.ai Raises USD 10 Million in Series A Funding Led by IFC"
    }
   ],
   "indiaSignal": "strong"
@@ -12907,14 +12867,14 @@
   "date": "2026-07-16",
   "sources": [
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMnFNeW4xOU4tNU1iNHlTMWdleVdrUWJIOFg3X3N2TzRVcThPUWIwZzRFQzRPSVRJcTZzaFM0TzlLWFlIZkJRNE9ObDBiM09oYlJOWVRSMlZVNnZfNzlKcFlOcGFqYTd1MUE2bzROMGpBcVNWSjBfODJDcXFhTDFmZEgzTThwSXZyZXNkampsN1A1SkdJa1Z0VDZkM3ZEUndnX29BRVJ3dkJaa0phbnh6amhCUVlmaU8yeEs4RlMtM0w0NWxnMEJqYVA2cTNJOC1NeG84NkZrSW9IbzBrb1hxYnBBX0RFU0RvXzRtWThxV283Wm5HQVluOUh6MUJzRm5JWmc?oc=5",
-    "title": "SwitchOn Raises $8 Million (₹78 Crore) Pre-Series B Led by IvyCap Ventures to Scale AI-Powered Manufacturing Quality Solutions"
-   },
-   {
     "outlet": "YourStory.com",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2lNSVZRWkhTRVlDMDJWTTRmdHpaXzI4aFVkdEtOT3hEaDJMVnZuankxcTlFb1pZUEY4cUpjZi1ld1k0UWw4S0l5MC1ndUc2ZlpJSjRaNWZoZjJQUGVNOVVLZmZpUDkwS01wdE5fbGtUdDMteWZtVmE3bEUxMUg2cnNmdTY2TG56eFhZTG9pbDQ0ZDZmVFpndmZCT0JlRUE5ZHNNbw?oc=5",
     "title": "Manufacturing tech startup SwitchOn raises $8M in pre-Series B funding round led by IvyCap Ventures"
+   },
+   {
+    "outlet": "Indian Startup Times",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMnFNeW4xOU4tNU1iNHlTMWdleVdrUWJIOFg3X3N2TzRVcThPUWIwZzRFQzRPSVRJcTZzaFM0TzlLWFlIZkJRNE9ObDBiM09oYlJOWVRSMlZVNnZfNzlKcFlOcGFqYTd1MUE2bzROMGpBcVNWSjBfODJDcXFhTDFmZEgzTThwSXZyZXNkampsN1A1SkdJa1Z0VDZkM3ZEUndnX29BRVJ3dkJaa0phbnh6amhCUVlmaU8yeEs4RlMtM0w0NWxnMEJqYVA2cTNJOC1NeG84NkZrSW9IbzBrb1hxYnBBX0RFU0RvXzRtWThxV283Wm5HQVluOUh6MUJzRm5JWmc?oc=5",
+    "title": "SwitchOn Raises $8 Million (₹78 Crore) Pre-Series B Led by IvyCap Ventures to Scale AI-Powered Manufacturing Quality Solutions"
    },
    {
     "outlet": "https://ascendants.in/",
@@ -13051,11 +13011,6 @@
   "date": "2026-07-16",
   "sources": [
    {
-    "outlet": "ET Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmxpTlhDWUZBTU5QbUZfVUJSR3JIWFFXSm8wZjZjRkR1OHp5dnQ1TE5EcHRZMDRBVE51UTdiUVlIcjNFYW11Y3BYMTBvVkI2TkVONF9EalJuT0R0T0lkY2VLVFlFZDcwaEptbUJkdmc3ZjBVa2VUYTJJMy11UVItcy11c2FaeXVTeWNMTERjbWJHWjZVdjFaY29SY1otZHVkX3JSeDF5VUpjbk9SdmpLQ3pWXzhDUlZJaDdNY05PUHliOXc3NWFzcS1Hdmg2T3gydDNTanIzY9IB3AFBVV95cUxNZEtoaU1rd3JIUEhJSHJrWER0eW8yV2Y0SU5Va3NoSlp6d0V5RTdjN2FGQkY3QTMzc081aXFtWFhHaGt0ZTV2cmxZYkR3dDRMNk9vcFBJSzBxYjVua0M5UjhjaU4zWF9wcVlJUEZrN2ZoY1B0eldLMFNPdGFPVk0wblM3MUpvZmhBb1hFaFB1bXhuek54Zy1xMklkM2pNWWtYcm5NSUpneXlnWURsQ0EwbFNHRDhpZmRnX3V1UWNqZU9YS2hubDJxNjdVU2RZeTNGU3J3YnpGYXJ6NUpG?oc=5",
-    "title": "NapTapGo raises ₹8 Cr seed funding led by Inflection Point Ventures"
-   },
-   {
     "outlet": "Indian Startup News",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZWNYM0g0LWtlczhPUkZCZVZkOHN6TldSMkFPbmpPNWpsWXI3ZFdaVEljRklHTXFiRUs1RTd3MWNoTVZvT01obTVaUmo3b2FZcVB2UkhiRncwODhqb2VVX2RSNlJPbldJb2FDUlBXcElPbXQteXhDWmt5cjBrNXJxVkFWeUt5SGVnSXU4am1McHJyVFRsTVYtWG00OHZleTlxdmhTcGxaa0tCTFloZm45Z1JvaktDeHlrUXloXzRsQzFfeTZpaTBJZFhwVVFBZ9IBzgFBVV95cUxNZWNYM0g0LWtlczhPUkZCZVZkOHN6TldSMkFPbmpPNWpsWXI3ZFdaVEljRklHTXFiRUs1RTd3MWNoTVZvT01obTVaUmo3b2FZcVB2UkhiRncwODhqb2VVX2RSNlJPbldJb2FDUlBXcElPbXQteXhDWmt5cjBrNXJxVkFWeUt5SGVnSXU4am1McHJyVFRsTVYtWG00OHZleTlxdmhTcGxaa0tCTFloZm45Z1JvaktDeHlrUXloXzRsQzFfeTZpaTBJZFhwVVFBZw?oc=5",
     "title": "Pod hotel startup NapTapGo raises Rs 8 crore in funding from Inflection Point Ventures"
@@ -13069,6 +13024,11 @@
     "outlet": "BW Disrupt",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc28zd2M0Q1RGVi02a2xUMXlNa2JKTDV2N1gyMTVxN3NlMUFoUXcwaEVkV1ZQLWl3djJQeU02aWM3R3pRRW5kZWgwSW4zZHpwRzI4NkFYdEx4Yjh2blBaN0FiMVJXTUY3NndGcWJwTHlYa1Ywd2tmZkc0Q203b2xDNXc1NWNUOFF5QVNvOXl1M2htRVJLVnRZbE5vTXlkZWx0dG12NUx2TFA1ckI3Y0pEX3c3eDBBdGJCMFJENWJTNUYzVHpKaHF3YjUyWjZKZw?oc=5",
     "title": "Capsule Hotel Startup NapTapGo Raises Rs 8 Cr In Seed Round Led By Inflection Point Ventures"
+   },
+   {
+    "outlet": "https://ascendants.in/",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGJVVTBjMjNaaHM1cHRtLVVEOVphMng4blg5Nnp2QTF1SG1uN3ZYN293UlRVZDN2STQtRDRVemVuU1FOR3lDdFZra3hKRTJreG9PeDFfWXJ0NFBrX0h0SE1ReG1BdlJZd2JSdWh6NXdkRTVOdi1NUXhWVk1GMm9ZNkROcTJVTUNZVlhfT1NDdEVWUWtYdDVETGJTMDE?oc=5",
+    "title": "NapTapGo Raises ₹8 Crore Seed Funding to Expand Pod Hotel Network"
    }
   ],
   "indiaSignal": "strong"
@@ -13281,7 +13241,7 @@
   "id": "sortmyprep-2026-07-13",
   "company": "Sortmyprep",
   "key": "sortmyprep",
-  "descriptor": "AI edtech startup",
+  "descriptor": "AI EdTech Startup",
   "amount": 350000,
   "currency": "USD",
   "usd": 350000,
@@ -13290,89 +13250,19 @@
   "date": "2026-07-13",
   "sources": [
    {
-    "outlet": "Dealroom",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0FmdzhDME9xQ1I3c25zMEJEcmR2UDRUTlZ4OXJ5Z2d0cHl3NFRnUnhQOTdXMFZmSzBFQnU3NWE2R0c2YjZhNE1ROVl1VjR3NVE3bnJHcjYteEdOZEotLTZaNzRrVEZHcmoyMHhQdFAtcFBwZUZ2T2QxSGViMHkwY1JULVJkMTRfSkhZWlloV1F4ekhENlU0?oc=5",
-    "title": "Sortmyprep raises $350K pre-seed for its AI exam-prep tutor"
-   },
-   {
     "outlet": "Business Today",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYWVzM1B1ZUpZQjQ3S2Ffa29SaDk1aXBiWE5aZlBCaTA2VlQydW5DWE1vbkllVFFEWkprSVdGczF5aXZOdENTQlR2MVE5d2F2T3VxSF9LOEhHdXNSMXZNdFQ3SWs2VnVwZFZDRjU1Z295WXdKQkFzUDhTWEl4NzJGeXNUaG9HWTRuRWhodzBoMHdheHRoc3I3bDZ4RzdMZE9FV1Q5VzNPWmVOQzg5SG4wSWxLcWw0Q0JCNjZ0c0dhakdDaWh2Um9CQjNVSmsxZm1hWVlXOHdMYUFfWkJmNUc2eFBfWE95RHNFcWtGbmxR0gHzAUFVX3lxTFBuNC15SnZDVW0xMDg0b1hrZjVhUHFtZ0JFZ1ZNSWhRUGxySDBXNExFWC1yYVAwOV9naVV3OW5HLUtMTUVYZTY3dllYeTZ3S1FXZ2F5ZFV3cVlhZ2dUbXE3SkRTQzl0UWZkQ0xUQnJPcTRFSjU4QkxxVzZqejdUbDVGTUtBNjNoU2RtMnp1YTY2R3RwamhfZml4c2hkNHItWlE3NEppZDBOUVRwcFZqMHJBRWVyYWl4a0JLYURlTmVja3AwSm5SVjlsSUFwdUFsZUlvLXk1M0t3LWF3WFZLeVRXOUdTYkxoZS1nR1ZlMWVLSTBRcw?oc=5",
     "title": "BITS Pilani-backed sortmyprep raises $350,000 in pre-seed funding to expand AI education platform"
    },
    {
-    "outlet": "Moneycontrol.com",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVI3cldCcXBOZkF6LVByYWVIXzRYS3FzX2VoWUxkekdJZ2d1QVY3OXd2NDJiT0MxTU9yUWs3YWI5OGE5OFhVZVZDOUhzcHhZVUJPSG5tVDVBNFVoaDZnUG5sYklwQXRaVXRLWXp2cGl5a3JNajE3WlVPbkU2Z1d0ODRTaldCRk9WVEhPX3hoMUY3SHNkZ1pOV3M1eFdZNy11ZldzdENZZGNKdjVjUkRSWld6Y3kybENYOVozSXZmZTRNMk1EU3FPQWZvb21Gb0FLT0tqddIB2gFBVV95cUxONXI5MVhEbTJ3aEdVaUN1YXMwRkkzaEp6UUU4Q1lqVTU3dHBqYVY1LTlCR2JJUWdkOGJwaXY5U1FqZmduV3VVUGd1bFI5ZmcycXFxcWZNU2RrNGMwYjdNblY2UWo1T1ZFSnVzZEowb1RqNzVKRG00NUJFN3hUY0ZLRTZCUWYtcFJzODZORTROQ3lOWEIxTGZyejJZYWRyc0pDeHUzUDlXNUotTmYyNEZ5S29YYTU5bDE4cjl4UjctSFlCb045bTVHcUJwZGZDYk1BZ3ZtRmU5Q1Zodw?oc=5",
-    "title": "BITS Pilani-backed AI edtech startup Sortmyprep raises $350,000 in funding"
-   },
-   {
     "outlet": "Entrepreneur India",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaUhrNG1PbDBMQWRYWFlsUkxQbVdjOHJ6M19LZmdldTlaMWJXRHc1R285TWZ2eXc5alRmYUxBT2FoXzUzU1FYZFU4c2FTQzVRWHZwSUhnX18tQmo0T08tTEo5ZVp3dENtMmhoQlN3aVJpaTN6a2VhUER1QUhuYTVXRXotMkVxaGc0VlBlYmtWQk1EMW9JUFBFOHdHQ0VraEZEakloX05pUkhnbkxjazFXUUNsdzc4UEc2YmVnd0hTaXNwNVJYQkNtQm10Qm1pZnRKdkY2Xw?oc=5",
     "title": "BITS Pilani-Backed AI EdTech Startup Sortmyprep Raises USD 350,000 in Pre-Seed Funding"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "wheelocity-2026-07-11",
-  "company": "Wheelocity",
-  "key": "wheelocity",
-  "descriptor": "Rural commerce startup",
-  "amount": 820000000,
-  "currency": "INR",
-  "usd": 9318181.818181818,
-  "round": null,
-  "investors": [],
-  "date": "2026-07-11",
-  "sources": [
+   },
    {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZlVSNTVjbFlmNWdSdVh1Mk1ONnRRZHVublRBWk5VZVNvbmNQSGVjVGpNN3FyY3BFOFVYZS0xOHVIdjRkY1Z2WjFJNzVUaC1HZk4wRmJoSzVoczhpWnFFNlZnTGFwWkFTUV9uNl9IdnBZUmRLV25sV3hFUlBrbmNvdTdyWXowVkRVYzVzSFJWN0JMUDRLUXB1RzIySjVGTXI3VGRRYng3ZnZCc2FUczdLYnNIU0lWSm1CcDVGRzI5QkRlN3lHWndla2ZSRlBhRUg5MGZ3Y09n0gHWAUFVX3lxTE9mVVI1NWNsWWY1Z1J1WHUyTU42dFFkdW5uVEFaTlVlU29uY1BIZWNUak03cXJjcEU4VVhlLTE4dUh2NGRjVnZaMUk3NVRoLUdmTjBGYmhLNWhzOGlacUU2VmdMYXBaQVNRX242X0h2cFlSZEtXbmxXeEVSUGtuY291N3JZejBWRFVjNXNIUlY3QkxQNEtRcHVHMjJKNUZNcjdUZFFieDdmdkJzYVRzN0tic0hTSVZKbUJwNUZHMjlCRGU3eUdad2VrZlJGUGFFSDkwZndjT2c?oc=5",
-    "title": "Chennai-based rural commerce startup Wheelocity raises Rs 82 crore in funding from investors"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "econovus-2026-07-11",
-  "company": "Econovus",
-  "key": "econovus",
-  "descriptor": "Pune packaging startup",
-  "amount": 400000000,
-  "currency": "INR",
-  "usd": 4545454.545454546,
-  "round": null,
-  "investors": [
-   "Rainmatter",
-   "Rockstud Capital"
-  ],
-  "date": "2026-07-11",
-  "sources": [
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFJONTdkazN3dk0xV2NNSDhyLVdiNkljYmRVVXMtc01WdzNadDBrOW9QUENmb19PLWpvUzFnZ3B2cTI5R0dxSktDT2M1N1N0c2E2RzN1ZDN1TjJDbzFmUGNsREc3RHNQMFBhVHBLcDR1RlFwdXRUWkFNUENjc2VvOUNpdlRFUDJ2NndTN0QtUEtPNGdsQU9jb3JnZ2RLamcwcklsS1Yzclh5N3BublI4M1JJM3A2OVRKQVpsY0YwZDFERHRwQVVtbW530gHKAUFVX3lxTE9wUk41N2RrM3d2TTFXY01IOHItV2I2SWNiZFVVcy1zTVZ3M1p0MGs5b1BQQ2ZvX08tam9TMWdncHZxMjlHR3FKS0NPYzU3U3RzYTZHM3VkM3VOMkNvMWZQY2xERzdEc1AwUGFUcEtwNHVGUXB1dFRaQU1QQ2NzZW85Q2l2VEVQMnY2d1M3RC1QS080Z2xBT2NvcmdnZEtqZzBySWxLVjNyWHk3cG5uUjgzUkkzcDY5VEpBWmxjRjBkMUREdHBBVW1tbnc?oc=5",
-    "title": "Pune packaging startup Econovus raises Rs 40 crore from Rainmatter, Rockstud Capital"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "stylework-2026-07-11",
-  "company": "Stylework",
-  "key": "stylework",
-  "descriptor": null,
-  "amount": 1000000,
-  "currency": "USD",
-  "usd": 1000000,
-  "round": "Pre-series B",
-  "investors": [
-   "Auxano Capital"
-  ],
-  "date": "2026-07-11",
-  "sources": [
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEV1OG5uR0VsTjNHZU9Ibkl5TENvS3ZMMWVtSFN3VGJ3cmxWVWdaU3VTYW9zYnEtMUJDSVlaaHJieU1aLTVURUhYbHI4RE84TUlIV0F0NzE2SzhtRFlIOU9vQ3NVYklscGdWQ2dCNTZsbWk5SXRVYnR3Vk9rd2xRaWR1Mk1fN24xVjVqbGRfR1FFa0h5X0ZxOEc0bVp2RzdCMTFpMHUwYmhnZlFqZHQyQ3pIYlJVR1hHak1F0gG7AUFVX3lxTE5YRXU4bm5HRWxOM0dlT0huSXlMQ29LdkwxZW1IU3dUYndybFZVZ1pTdVNhb3NicS0xQkNJWVpocmJ5TVotNVRFSFhscjhETzhNSUhXQXQ3MTZLOG1EWUg5T29Dc1ViSWxwZ1ZDZ0I1NmxtaTlJdFVidHdWT2t3bFFpZHUyTV83bjFWNWpsZF9HUUVrSHlfRnE4RzRtWnZHN0IxMWkwdTBiaGdmUWpkdDJDekhiUlVHWEdqTUU?oc=5",
-    "title": "Stylework raises $1 million in pre-Series B funding led by Auxano Capital"
+    "outlet": "Daily Pioneer",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQy0weFc5eXVfdklkQnExLXRET242N1BUQjBSTGNfaHdGakhMbGNhVDF3N014QnFSTDdUbV9EZ1psSkRRUlhnaU5RRDZFTkVMaVlkV0pBWkpOMlk4UUFWVHdLM1FuZXJabWtMdm9LaTdkNWhHTUJDTWg1X1lBWXpVZkhuVmQ3YlJwS1hhamh3eXdDQy110gGiAUFVX3lxTE00eWpOTTZNT2FNUThoYUUyZ0lObVVGTXlTQkhNaUtWajdoTHdLSElmSFlINFdSbjZnaGhFNU5uWHlpaGdpUDRWZ2V5MmEzRVZtZmR1aFlZc056MDYtd3U5b2FtaTJWSFY2VWdMTU5vRXB3cXFLbGJ6ZHkzaHBJVHloa195SkdwUTBibU5DZEE5d1Q3cjk4MkhRMVAzdVpnR0xNZw?oc=5",
+    "title": "Edtech startup sortmyprep raises $350,000 in pre-seed funding"
    }
   ],
   "indiaSignal": "strong"
