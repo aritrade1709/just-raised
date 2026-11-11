@@ -818,17 +818,6 @@
   "india": true,
   "checkedAt": "2026-11-10T04:15:15.891Z"
  },
- "built": {
-  "key": "built",
-  "company": "BUILT",
-  "domain": null,
-  "board": null,
-  "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-09-13T15:05:27.896Z",
-  "via": "override",
-  "note": "site withheld by override"
- },
  "businessnext": {
   "key": "businessnext",
   "company": "BusinessNext",
@@ -1457,7 +1446,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-10T04:25:37.739Z",
+  "checkedAt": "2026-11-11T02:04:59.264Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1883,6 +1872,15 @@
   "india": true,
   "checkedAt": "2026-09-21T00:29:02.454Z",
   "via": "probe"
+ },
+ "froncort": {
+  "key": "froncort",
+  "company": "Froncort.AI",
+  "domain": "froncort.ai",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-11-11T02:04:59.263Z"
  },
  "fundly": {
   "key": "fundly",
@@ -3973,6 +3971,16 @@
   "careersUrl": null,
   "india": null,
   "checkedAt": "2026-11-05T02:40:38.907Z",
+  "note": "no site found (36 candidates)"
+ },
+ "shortgungames": {
+  "key": "shortgungames",
+  "company": "Shortgun Games",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-11-11T02:04:59.264Z",
   "note": "no site found (36 candidates)"
  },
  "shyammetalics": {
