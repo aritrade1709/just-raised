@@ -418,15 +418,6 @@
   "checkedAt": "2026-09-13T10:21:17.745Z",
   "via": "site"
  },
- "baas": {
-  "key": "baas",
-  "company": "Baas Technologies",
-  "domain": "baastechnologies.com",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-11-12T03:19:58.830Z"
- },
  "bakingo": {
   "key": "bakingo",
   "company": "Bakingo",
@@ -1443,7 +1434,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-17T04:51:39.299Z",
+  "checkedAt": "2026-11-18T03:47:39.453Z",
   "note": "excluded by override"
  },
  "dialflo": {
@@ -1736,15 +1727,6 @@
   "checkedAt": "2026-11-17T04:42:03.628Z",
   "note": "no site found (36 candidates)"
  },
- "fireai": {
-  "key": "fireai",
-  "company": "FireAI",
-  "domain": "fireai.io",
-  "board": null,
-  "careersUrl": null,
-  "india": true,
-  "checkedAt": "2026-11-12T03:19:52.390Z"
- },
  "firi": {
   "key": "firi",
   "company": "Firi",
@@ -1795,20 +1777,6 @@
   "india": false,
   "checkedAt": "2026-11-12T03:18:17.117Z"
  },
- "flex": {
-  "key": "flex",
-  "company": "Flex",
-  "domain": "flex.com",
-  "board": {
-   "provider": "other",
-   "slug": "workday:flextronics/Careers",
-   "url": "https://flextronics.myworkdayjobs.com/Careers"
-  },
-  "careersUrl": "https://flex.com/careers",
-  "india": false,
-  "checkedAt": "2026-09-26T00:47:09.640Z",
-  "via": "site"
- },
  "focusprism": {
   "key": "focusprism",
   "company": "Focus Prism",
@@ -1822,6 +1790,16 @@
   "india": true,
   "checkedAt": "2026-10-21T00:46:05.344Z",
   "via": "probe"
+ },
+ "formerlybebetta": {
+  "key": "formerlybebetta",
+  "company": "Formerly BeBetta",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-11-18T03:47:37.986Z",
+  "note": "no site found (36 candidates)"
  },
  "formial": {
   "key": "formial",
@@ -1877,7 +1855,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-11-11T02:04:59.263Z"
+  "checkedAt": "2026-11-18T03:47:30.318Z"
  },
  "fundly": {
   "key": "fundly",
@@ -2609,6 +2587,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-11-14T02:37:13.531Z"
+ },
+ "lemonpeel": {
+  "key": "lemonpeel",
+  "company": "Lemonpeel",
+  "domain": "lemonpeel.ai",
+  "board": null,
+  "careersUrl": null,
+  "india": false,
+  "checkedAt": "2026-11-18T03:47:30.318Z"
  },
  "lickicious": {
   "key": "lickicious",
@@ -3601,16 +3588,6 @@
   "india": false,
   "checkedAt": "2026-11-12T03:15:16.669Z"
  },
- "raghuvamsiaerospace": {
-  "key": "raghuvamsiaerospace",
-  "company": "Raghu Vamsi Aerospace",
-  "domain": null,
-  "board": null,
-  "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-11-12T03:19:52.730Z",
-  "note": "no site found (36 candidates)"
- },
  "raindrop": {
   "key": "raindrop",
   "company": "Raindrop",
@@ -3647,6 +3624,15 @@
   "india": true,
   "checkedAt": "2026-11-03T03:36:11.301Z",
   "via": "site"
+ },
+ "redbrickoffices": {
+  "key": "redbrickoffices",
+  "company": "Redbrick Offices",
+  "domain": "redbrickoffices.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-11-18T03:47:30.318Z"
  },
  "refitglobal": {
   "key": "refitglobal",
@@ -3939,7 +3925,17 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-11T02:04:59.264Z",
+  "checkedAt": "2026-11-18T03:47:35.011Z",
+  "note": "no site found (36 candidates)"
+ },
+ "shreeanandhaas": {
+  "key": "shreeanandhaas",
+  "company": "Shree Anandhaas",
+  "domain": null,
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-11-18T03:47:30.318Z",
   "note": "no site found (36 candidates)"
  },
  "shyammetalics": {
@@ -4064,21 +4060,6 @@
   "india": true,
   "checkedAt": "2026-09-23T00:50:17.341Z",
   "via": "probe"
- },
- "solarsquare": {
-  "key": "solarsquare",
-  "company": "SolarSquare",
-  "domain": "solarsquare.in",
-  "board": {
-   "provider": "keka",
-   "slug": "solarsquare",
-   "url": "https://solarsquare.keka.com/careers/"
-  },
-  "careersUrl": "https://solarsquare.keka.com/careers/",
-  "india": true,
-  "checkedAt": "2026-09-13T14:57:55.346Z",
-  "note": "board found on site but unreadable: no Keka embed id in careers page",
-  "via": "site"
  },
  "solfoundry": {
   "key": "solfoundry",
@@ -4228,15 +4209,6 @@
   "careersUrl": "https://suind.com/careers-at-suind/",
   "india": true,
   "checkedAt": "2026-11-17T04:51:30.818Z"
- },
- "suminterorganics": {
-  "key": "suminterorganics",
-  "company": "Suminter India Organics",
-  "domain": "suminterindiaorganics.com",
-  "board": null,
-  "careersUrl": "https://suminterindiaorganics.com/careers/",
-  "india": true,
-  "checkedAt": "2026-11-12T03:19:49.519Z"
  },
  "sunfox": {
   "key": "sunfox",
@@ -4568,6 +4540,15 @@
   "careersUrl": null,
   "india": false,
   "checkedAt": "2026-11-12T03:19:33.819Z"
+ },
+ "urbancompany": {
+  "key": "urbancompany",
+  "company": "Urban Company",
+  "domain": "urbancompany.com",
+  "board": null,
+  "careersUrl": "https://careers.urbanclap.com/",
+  "india": true,
+  "checkedAt": "2026-11-18T03:47:30.318Z"
  },
  "utsav": {
   "key": "utsav",
