@@ -1,5 +1,225 @@
 [
  {
+  "id": "styleunion-2026-11-19",
+  "company": "Style Union",
+  "key": "styleunion",
+  "descriptor": "Omnichannel Fashion Brand",
+  "amount": 4850000000,
+  "currency": "INR",
+  "usd": 55113636.36363637,
+  "round": "Series E",
+  "investors": [
+   "Elev8 Venture",
+   "Venturi Partners"
+  ],
+  "date": "2026-11-19",
+  "sources": [
+   {
+    "outlet": "Entrackr",
+    "url": "https://entrackr.com/news/style-union-raises-rs-485-cr-in-series-e-round-led-by-elev8-venture-venturi-partners-12821452",
+    "title": "Style Union raises Rs 485 Cr in Series E round led by Elev8 Venture, Venturi Partners"
+   },
+   {
+    "outlet": "Inc42",
+    "url": "https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/",
+    "title": "Omnichannel Fashion Brand Style Union Bags ₹485 Cr To Expand Store Network"
+   },
+   {
+    "outlet": "Inc42 Buzz",
+    "url": "https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/",
+    "title": "Omnichannel Fashion Brand Style Union Bags ₹485 Cr To Expand Store Network"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "bobabhai-2026-11-19",
+  "company": "Boba Bhai",
+  "key": "bobabhai",
+  "descriptor": "Quick service restaurant chain",
+  "amount": 18000000,
+  "currency": "USD",
+  "usd": 18000000,
+  "round": "Series B",
+  "investors": [
+   "Left Lane",
+   "Titan",
+   "BIG Capital"
+  ],
+  "date": "2026-11-19",
+  "sources": [
+   {
+    "outlet": "Entrackr",
+    "url": "https://entrackr.com/news/boba-bhai-raises-18-mn-from-left-lane-titan-and-big-capital-12821882",
+    "title": "Boba Bhai raises $18 Mn from Left Lane, Titan and BIG Capital"
+   },
+   {
+    "outlet": "Inc42",
+    "url": "https://inc42.com/buzz/boba-bhai-bags-18-mn-to-build-a-multi-brand-qsr-chain/",
+    "title": "Boba Bhai Bags $18 Mn To Build A Multi-Brand QSR Chain"
+   },
+   {
+    "outlet": "Inc42 Buzz",
+    "url": "https://inc42.com/buzz/boba-bhai-bags-18-mn-to-build-a-multi-brand-qsr-chain/",
+    "title": "Boba Bhai Bags $18 Mn To Build A Multi-Brand QSR Chain"
+   },
+   {
+    "outlet": "YourStory",
+    "url": "https://yourstory.com/2026/11/boba-bhai-raises-18-million-in-series-b-round",
+    "title": "Quick service restaurant chain Boba Bhai raises $18M in Series B round"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "humyn-2026-11-18",
+  "company": "Humyn Labs",
+  "key": "humyn",
+  "descriptor": "Physical AI startup",
+  "amount": 47000000,
+  "currency": "USD",
+  "usd": 47000000,
+  "round": "Debt",
+  "investors": [],
+  "date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "Entrackr",
+    "url": "https://entrackr.com/news/physical-ai-startup-humyn-labs-raises-47-mn-in-equity-and-debt-12820886",
+    "title": "Physical AI startup Humyn Labs raises $47 Mn in equity and debt"
+   },
+   {
+    "outlet": "Inc42",
+    "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
+    "title": "Humyn Labs Raises $47 Mn To Collect Training Data For Robots"
+   },
+   {
+    "outlet": "Inc42 Buzz",
+    "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
+    "title": "Humyn Labs Raises $47 Mn To Collect Training Data For Robots"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "henfruit-2026-11-18",
+  "company": "Henfruit",
+  "key": "henfruit",
+  "descriptor": "Egg brand",
+  "amount": 15000000,
+  "currency": "USD",
+  "usd": 15000000,
+  "round": null,
+  "investors": [
+   "Lok Capital",
+   "DSG",
+   "RPSG Capital"
+  ],
+  "date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "Entrackr",
+    "url": "https://entrackr.com/news/egg-brand-henfruit-raises-15-mn-from-lok-capital-dsg-and-rpsg-capital-12818932",
+    "title": "Egg brand Henfruit raises $15 Mn from Lok Capital, DSG and RPSG Capital"
+   },
+   {
+    "outlet": "Inc42",
+    "url": "https://inc42.com/buzz/egg-brand-henfruit-raises-15-mn-in-first-external-funding-round/",
+    "title": "Egg Brand Henfruit Raises $15 Mn In First External Funding Round"
+   },
+   {
+    "outlet": "Inc42 Buzz",
+    "url": "https://inc42.com/buzz/egg-brand-henfruit-raises-15-mn-in-first-external-funding-round/",
+    "title": "Egg Brand Henfruit Raises $15 Mn In First External Funding Round"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "fatehpuriahygiene-2026-11-18",
+  "company": "Fatehpuria Hygiene",
+  "key": "fatehpuriahygiene",
+  "descriptor": null,
+  "amount": 1000000000,
+  "currency": "INR",
+  "usd": 11363636.363636363,
+  "round": null,
+  "investors": [
+   "Madhu Kela"
+  ],
+  "date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "Entrackr",
+    "url": "https://entrackr.com/news/fatehpuria-hygiene-raises-rs-100-cr-in-maiden-equity-round-led-by-madhu-kela-12819616",
+    "title": "Fatehpuria Hygiene raises Rs 100 Cr in maiden equity round led by Madhu Kela"
+   },
+   {
+    "outlet": "YourStory",
+    "url": "https://yourstory.com/2026/11/fatehpuria-hygiene-secures-rs-100-cr-first-equity-fundraise",
+    "title": "Fatehpuria Hygiene secures Rs 100 Cr in first equity fundraise"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "botsync-2026-11-18",
+  "company": "Botsync",
+  "key": "botsync",
+  "descriptor": null,
+  "amount": 11000000,
+  "currency": "USD",
+  "usd": 11000000,
+  "round": null,
+  "investors": [],
+  "date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "Inc42",
+    "url": "https://inc42.com/buzz/botsync-raises-11-mn-to-connect-robots-and-machines-on-factory-floors/",
+    "title": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors"
+   },
+   {
+    "outlet": "Inc42 Buzz",
+    "url": "https://inc42.com/buzz/botsync-raises-11-mn-to-connect-robots-and-machines-on-factory-floors/",
+    "title": "Botsync Raises $11 Mn To Connect Robots And Machines On Factory Floors"
+   },
+   {
+    "outlet": "YourStory",
+    "url": "https://yourstory.com/2026/11/botsync-raises-11m-to-expand-industrial-automation",
+    "title": "Botsync raises $11M to expand industrial automation"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "soket-2026-11-18",
+  "company": "Soket AI",
+  "key": "soket",
+  "descriptor": null,
+  "amount": 4000000,
+  "currency": "USD",
+  "usd": 4000000,
+  "round": null,
+  "investors": [
+   "Bajaj Finserv"
+  ],
+  "date": "2026-11-18",
+  "sources": [
+   {
+    "outlet": "Inc42",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon"
+   },
+   {
+    "outlet": "Inc42 Buzz",
+    "url": "https://inc42.com/buzz/soket-ai-raises-4-mn-from-bajaj-finserv-to-expand-its-ai-model-horizon/",
+    "title": "Soket AI Raises $4 Mn From Bajaj Finserv To Expand Its AI Model Horizon"
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
   "id": "redbrickoffices-2026-11-17",
   "company": "Redbrick Offices",
   "key": "redbrickoffices",
@@ -84,30 +304,13 @@
   "currency": "USD",
   "usd": 1900000,
   "round": "Pre-seed",
-  "investors": [
-   "Crane Venture Partners"
-  ],
+  "investors": [],
   "date": "2026-11-17",
   "sources": [
    {
     "outlet": "Entrackr",
     "url": "https://entrackr.com/snippets/ai-infra-startup-johnaic-raises-19-mn-in-pre-seed-round-12815778",
     "title": "AI infra startup JohnAIC raises $1.9 Mn in pre-seed round"
-   },
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1dpaFM1Qk91bFVBbVRjMWh3ZmZGUmw3TnNyUlFXQnMtOGpQSXozNU8xWGxGSWg4SjI5Qnlhek5SOXA5dE1Kcng5UFd6bjZ6UVFVYlJDZlREcGs3eDJCV2FUd0xxNzNoeTJveklDTlJFVmZfeWJhazRuOHY3MU8ycFNrY2E4QzBjYk9QeEpScmlOVDc5ZXR4akhfSnRqOUtnM2xFcGR0NjFidkxxOWVrLWE3NV8wa2FP?oc=5",
-    "title": "JohnAIC Raises $1.9 Million in Pre-Seed Funding Led by Crane Venture Partners"
-   },
-   {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmVaWDhkeUdrQktxTFhBMXVsYnhhZnZ3UEZjVFhTRmRhNlBKeWd4RjJsbS0yVi11YkM4Szc3b3pYZkZaYjg5d002U2JEeDJKQ0doUXVQUEFvOVZZTmtJZy12VnR3aFB5d29DSFdPeXVVdUp6TDQ5ZHdKZDU4N1BKUDRiR1c2Y1U4NmJz?oc=5",
-    "title": "JohnAIC Raises $1.9 Million as Its AI Server Finds a Role in Andhra Pradesh Power Surveys"
-   },
-   {
-    "outlet": "Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZS1PWW9PYUtUaHBjTUE3TEFuQkdhdEdseTFzbUJfYWpVbGVVR2dtLTZHMU5WWl81YjgwRnpYY29teXFxaEdfNUJDMEtqNkNiZi00TXZxWTV2ZDlQN3ZPaV9PVUI3ZDZRV3ZqOXR0UDlkS0lHWWhvUVNSTEZqN2tIeWVlcDNxUm9lbjVmRzJ0UENpRHFPN1FZOXA2dmd4eGhseXpjb2F2TjZhQ21OT0FWMW1heUlPS2lyMEpTNW1HSkU1bXlJNk1YcW9kY1c4ZTBC0gHWAUFVX3lxTE4xbjdDcGJQd1JORG1ZS2E3MHR1Y2l0VmJjNnhFRjZnUjloOUt2VFRDWVM1eTk3LWZRc3Zfa1FhSV9BRkZFZ2pESWQ2XzhJUlVaU0pGaktDODZVVUUyTmlUR1NJblBOeXFlSmRTSHZ2SjdWc0hfVElXckpSSExHTW1yU0hhNTVJaUNtVEthR1UyQ3dtM1RJcTJFQ04zY2lsVDNKX0tpTUVOazVhRHNaSlZrSjFBU2Y1X2tqcmwtbTBUcDNtRDNkOThKUmFqOGpZc1Jhc1FtQlE?oc=5",
-    "title": "JohnAIC raises $1.9 million to scale on-premise AI server infrastructure"
    }
   ],
   "indiaSignal": "strong"
@@ -130,28 +333,13 @@
     "outlet": "Entrackr",
     "url": "https://entrackr.com/snippets/ai-video-production-startup-lemonpeel-raises-1-mn-in-pre-seed-round-led-by-shastra-vc-12816726",
     "title": "AI video production startup Lemonpeel raises $1 Mn in pre-seed round led by Shastra VC"
-   },
-   {
-    "outlet": "Tech in Asia",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1laRWlNNFptT245QzViU2tvaXhwSWYtRi0waDdMN2p5WmNocTNOVUVlYVQ0MnVlUHdIM0VreUlDUmNWUHdWMXk4WklfcVdGWTIzcWdNQUtmcGpuamJMMFlzWDhQdHJPelJJajRFbGdNbTZMaG5XRGFNWkt6X2FMQ0w4Y1d0OUp3Y2R3?oc=5",
-    "title": "Indian AI video startup Lemonpeel raises $1m pre-seed round"
-   },
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa0ZJQzBCODNoNnRQc21xR0VucVR6MUJ1ei1IWnNlN3JRNlZ1cGV5MGdBajlGVUZJOURnOFoxczNwMy1aNzVjNXdyaGRnYWctOWRNZTdUYTBiZDR2SHRqUkpISEpoSVQ1RWd4MHYzaXNKTzkzSzJoM0JXbWhXckVWV2NEemVGa1h1Q3ZvTExWZkhMSl8yNklQSTdob0pPQmQ0QkZtWXcxNUhQeXJJazdHYk9ST3dBM04zZnBibTdCbmp1bWFTcGMyYmpsLVp3eEJUOWVSNUhlOGxvZEh4SHZOcQ?oc=5",
-    "title": "Lemonpeel Raises $1 Million in Pre-Seed Round Led by Shastra VC to Build AI Video Production Infrastructure"
-   },
-   {
-    "outlet": "ET Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc3lBc3Z3VXdGVGVzbEhXM0s3b2lXYnBvSTdqUmxCMHlpQU13OVdiR0VleGNvWjQ3VFVNZUQ4TG83akJCVGhocFBRb0s2WnA5UGppa1dFOUVGYUVXSUs2MXFtTTdmSmdhNkZnSGgwcDluNHM2YmFJTHdRa2xGNW03TFNGYm9GWjRRUXRBdmhHZENMQVM2bDYzR2d4Umxwb1NpVXdGSGF3RFlXd0M5NWk5UEoyYnlPZVYxVFJUYVFvaXZwTVVpZmhaaNIBzgFBVV95cUxQTGNhYUsybFhxRVR0V0NrUTdnSlNWcG1zMUo0eEJnWEpqUURYbktIbU00MDFNSDlOc1F5XzFPZ0Rqcm1pb2lZZ0tPOVRWclZCdjgwUWNVSHNRWHJPb1JQbHh0R0V1M0RVbkVFWVNDVUVlckMzd29pYmZEaHhhLTQzU3BJVHVvRnVFS3puSV91SXNjUFdZb0FiNWliZmQ5b09ITWNTaU5qOGpVTU5wZXlhdDRQclFDaXl5ektfRXkzYnVGVE5Gc0pOYlpVeHFmdw?oc=5",
-    "title": "Lemonpeel raises $1 mn pre-seed funding led by Shastra VC"
    }
   ],
   "indiaSignal": "strong"
  },
  {
   "id": "finnyclub-2026-11-17",
-  "company": "Finny Club",
+  "company": "finny.club",
   "key": "finnyclub",
   "descriptor": "Wealthtech startup",
   "amount": 53000000,
@@ -165,21 +353,6 @@
     "outlet": "Entrackr",
     "url": "https://entrackr.com/snippets/wealthtech-startup-finnyclub-raises-rs-53-cr-in-angel-round-12814337",
     "title": "Wealthtech startup finny.club raises Rs 5.3 Cr in angel round"
-   },
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRnl3Ymd5bWRlanhHMTdXUHlBYy1KRE9maUZTM0szM2htNDdMYjEyemRJZlFMM1k0U09GTmxnaW9jYnFxb0lod1hHQzhQMDVIZ1RKRUw1R2ZGV3l2V2pndlRxc09nbkdmQXIxX3F6OEdBRzZISGVuNGhUMmJwMER6RGI3alF1SlN2NDIwdjlqeGoybWIzSmFwQXdFTXlaWktfeVNRWDV4dUM5YlY4dXE2M1RPT1I5OWFadkRZUXc5T0d6MC1udElfN1NHRW9MNW1rNnRCNkVESk1uWFdUeEEyd1NKNDJyZEJiUHNtQ0dST2I4bWlsQ1d2cHAxc2I3Z0F1UWdJ?oc=5",
-    "title": "Wealthtech Startup finny.club Raises ₹5.3 Crore in Angel Round to Help Salaried Indians Achieve Financial Independence"
-   },
-   {
-    "outlet": "Venture Intelligence News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOVk2MUpNbm5yaTdZeHFIbFJJa3RCeWdCX1o1WWdJYnMzWHIwVXQ4LU1UVVZtWkU1X3VJOXNfWDRkcUUyWVVKb2dxeHVBNlJNbHJ6QmlQTUV1M0I1ZkZheUpScDdvR2hNUUlTQUQ1aUsxaTFad2lpc3h5djlFZHZvUm9RRTNzSC03b3g3VUNrUjJlZGktNkN2ZUVSNHJqMnc?oc=5",
-    "title": "Wealthtech startup Finny Club raises Rs 5.3 Cr"
-   },
-   {
-    "outlet": "ET Entrepreneur",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjBETnFfYU1US3dYM1dManpQQm9hN1RJUmkxU3A1ZWlZS2tOR1VHZGRfYjNPcVpvazdkLWZXMjBYTzNoakRFZTVRd29MUGpac2VuZHlKUl9NRDlPUTk2RVNMcEc5NWZ2YU4xTEJ1MUZtb0EwVDMzZnJyb2hDS1VfNWF3QWpGYkxUWmpIcGlTZUh1V1FWd0h5RXo4NUtVMHFGdnVKTUtqTmhaSW56UWN6M2NBVW5QVjQ2WHfSAboBQVVfeXFMUE4wRE5xX2FNVEt3WDNXTGp6UEJvYTdUSVJpMVNwNWVpWUtrTkdVR2RkX2IzT3Fab2s3ZC1mVzIwWE8zaGpERWU1UXdvTFBqWnNlbmR5SlJfTUQ5T1E5NkVTTHBHOTVmdmFOMUxCdTFGbW9BMFQzM2Zycm9oQ0tVXzVhd0FqRmJMVFpqSHBpU2VIdVdRVndIeUV6ODVLVTBxRnZ1Sk1Lak5oWkluelFjejNjQVVuUFY0Nlh3?oc=5",
-    "title": "Finny.club raises ₹5.3 crore angel funding"
    }
   ],
   "indiaSignal": "strong"
@@ -203,21 +376,29 @@
     "outlet": "Entrackr",
     "url": "https://entrackr.com/news/ai-crm-startup-dreamteam-raises-53-mn-from-accel-premji-invest-others-12814853",
     "title": "AI CRM startup Dreamteam raises $53 Mn from Accel, Premji Invest, others"
-   },
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "bharatsemi-2026-11-16",
+  "company": "Bharat Semi",
+  "key": "bharatsemi",
+  "descriptor": null,
+  "amount": 24000000,
+  "currency": "USD",
+  "usd": 24000000,
+  "round": "Seed",
+  "investors": [
+   "Info Edge",
+   "South Park Common"
+  ],
+  "date": "2026-11-16",
+  "sources": [
    {
-    "outlet": "Inc42",
-    "url": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/",
-    "title": "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI"
-   },
-   {
-    "outlet": "Inc42 Buzz",
-    "url": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/",
-    "title": "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI"
-   },
-   {
-    "outlet": "News India Times",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOblNBNHBMNnlza0xReG92YzFkTmFMYm93VFZRXy1qdmhmV1dESVpNQm9XdW9NNnRINGFtclBUTUpDVkZMMlJUQzlnX1NsOUpVTXhtM08zeWFuUjV4X3dzMWNlTGRId09CSG0weXdlM0xyVVZTTE1PQkFsOXZEUjhQWXZrbDJuV0JSb1AzVXM4WEVEQmpPQXc?oc=5",
-    "title": "AI Startup Dreamteam Raises Capital To Challenge Salesforce, SAP"
+    "outlet": "Entrackr",
+    "url": "https://entrackr.com/news/bharat-semi-raises-24-mn-in-seed-round-from-info-edge-south-park-common-others-12812801",
+    "title": "Bharat Semi raises $24 Mn in seed round from Info Edge, South Park Common, others"
    }
   ],
   "indiaSignal": "strong"
@@ -240,11 +421,6 @@
     "outlet": "Entrackr",
     "url": "https://entrackr.com/exclusive/exclusive-xpressbees-raises-rs-100-cr-debt-from-blacksoil-12813197",
     "title": "Xpressbees raises Rs 100 Cr debt from BlackSoil"
-   },
-   {
-    "outlet": "Siliconindia",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0U1cGFmR21hQ1RwRGE1aE5mY3pKYmxjR1JDak4wMmd5UGlHT0JoS0swNG12bklQVktRa1BCd2h4VjNpRWtEMmwwZTBucWhwRC1SMURGZlVvVkVkLVF3c1BidjRRbE5mdzNDclVmZ2FQTWdEQml6dEdHNmRPZTFjTXBDYk1XdnBHaVUxTjVuWDh2TXRnQ3BVLWo5d1pkQTZqS0phTHpyQ09EX1o0QkhmRW5hM0JnWkRGN0E4cU1QTnFhYS10VG9oTUVvWXhXcUpfOEZfTVo3SVc?oc=5",
-    "title": "Xpressbees Raises Rs 100 Crore Debt from BlackSoil to Support Operations"
    }
   ],
   "indiaSignal": "strong"
@@ -303,44 +479,6 @@
     "outlet": "Sahyadri Startups",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1VyYjAwVEdXZkhFZ0xJajRhdXg1ODRLTllLMUpsYmRlVHlPZUZYa04zSVotQ085VXNmZlkwNjVINFBidWplRC1lN3dxeU9iR3JrMkFwTU1FVVI0U2x3OHBkYWVSbU0zYmhlQ0g3SnlUcE50V1dzeUpQOW14ckV1a3BfRUZYTWVzMmd3c3NmZVNVUjJyRDV1clRPaERHUC1WMnJKSWxMRnB2NFM4MHo5US13?oc=5",
     "title": "Urban Company Gets ₹2,500 Crore Fundraise Nod: Is InstaHelp The Big Bet?"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "bharatsemi-2026-11-15",
-  "company": "Bharat Semi",
-  "key": "bharatsemi",
-  "descriptor": "Semiconductor Startup",
-  "amount": 24000000,
-  "currency": "USD",
-  "usd": 24000000,
-  "round": "Seed",
-  "investors": [
-   "Info Edge",
-   "South Park Common"
-  ],
-  "date": "2026-11-15",
-  "sources": [
-   {
-    "outlet": "Entrackr",
-    "url": "https://entrackr.com/news/bharat-semi-raises-24-mn-in-seed-round-from-info-edge-south-park-common-others-12812801",
-    "title": "Bharat Semi raises $24 Mn in seed round from Info Edge, South Park Common, others"
-   },
-   {
-    "outlet": "TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlp0dzgwTTFLWm5FZ25md2xZM1hldHoxRmhaVHJncWNmYUd2WVJRZGZlQVlycUlRMENUblNDSHpudlV2ZlRvTFhMaUFCb1hVUndRRHMtMmRaSnFiV1Yxb19kQ3ppVTQ0X29hZG1FVlBmVW8yWWJ6aVh6R0xESlJMWElCQ2kzN19rX29feWFJeV9EQzc3dmdYQmRoWUg3d1lTc2xaRUV5Y2FBa3lZNWpFNVMzdEZrNGRVQk0yX3h3NA?oc=5",
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market"
-   },
-   {
-    "outlet": "Dealroom",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjAtcmpIOE9mWUE1OFVFcXZGcjB1b2I2TDNhcmkyZ0ZKU0lpTi1KYWJHU0VwM01oblgwOGtIWk96djdPS3JPdGt3TnZaNFFSXzdSRU16bFV5eHZuSWY5VzdqbkxpV1c3ekpEMzRYZjBOTjNpVWdrcWItX1daX2xBY01sR2JWSEl6SkJ0aG1iUnRDOUhlWXBqWnpaQQ?oc=5",
-    "title": "India's Bharat Semi raises $24M seed to build AI image sensors"
-   },
-   {
-    "outlet": "Mezha.net",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc2lPM2ZrUGZrVzF2V1cwU011OGhzbTFGNUdaRFB2cGNwUHhfZjZkWHpIbmxacE9mUHhhRE1HTXdyNVBpWGRwaWVmcXBMVGxlY25ZU2dWbE1LT2R1YlQwVVRMbEZvc05pT3FHbkJmbG1nbnBPYU5NdE1JNHJ0SGVmVjlJVQ?oc=5",
-    "title": "Bharat Semi raises $24 million seed round to develop AI image sensors"
    }
   ],
   "indiaSignal": "strong"
@@ -408,11 +546,28 @@
     "outlet": "Entrackr",
     "url": "https://entrackr.com/snippets/kutlerriai-raises-4-mn-from-narahari-investments-to-expand-ai-solutions-for-restaurants-12806062",
     "title": "Kutlerri.ai raises $4 Mn from Narahari Investments to expand AI solutions for restaurants"
-   },
+   }
+  ],
+  "indiaSignal": "strong"
+ },
+ {
+  "id": "desible-2026-11-13",
+  "company": "Desible.ai",
+  "key": "desible",
+  "descriptor": null,
+  "amount": 320000000,
+  "currency": "INR",
+  "usd": 3636363.6363636362,
+  "round": null,
+  "investors": [
+   "Prime Venture Partners"
+  ],
+  "date": "2026-11-13",
+  "sources": [
    {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMWdnVWRRNm5lWWdCbkNoTzMycUIwYmRYOGdob0c3M3M5eWJWdDBnTEc0OGVQdW9iaVEzUUxqdjNvd3I0VllZWkY4eEJ6ejJpdXF1VUZfRVFKUENPZjQ0bElHRzhMV1hFSWxnVFIxRkxnLW1kUzc0aU1ldHVPZUhZa2w5cDkwY1M1enAtelIwaW5JQW9mSkJDWWhadVV1TzhTLUtlMDBRdVZrQlZNdXV4TGg5MWJmQkc4VllTN292N2V0Qy14T0RUMFA3VHNQNFU?oc=5",
-    "title": "Kutlerri.ai Raises $4 Million from Narahari Investments to Expand AI Solutions for Restaurants"
+    "outlet": "Entrackr",
+    "url": "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523",
+    "title": "Desible.ai raises Rs 32 Cr led by Prime Venture Partners"
    }
   ],
   "indiaSignal": "strong"
@@ -475,43 +630,6 @@
     "outlet": "Inc42 Buzz",
     "url": "https://inc42.com/buzz/olyv-raises-6-mn-to-expand-financial-services-play-beyond-lending/",
     "title": "Olyv Raises $6 Mn To Expand Financial Services Play Beyond Lending"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "desible-2026-11-12",
-  "company": "Desible AI",
-  "key": "desible",
-  "descriptor": null,
-  "amount": 320000000,
-  "currency": "INR",
-  "usd": 3636363.6363636362,
-  "round": null,
-  "investors": [
-   "Prime Venture Partners"
-  ],
-  "date": "2026-11-12",
-  "sources": [
-   {
-    "outlet": "Entrackr",
-    "url": "https://entrackr.com/snippets/desibleai-raises-rs-32-cr-led-by-prime-venture-partners-12805523",
-    "title": "Desible.ai raises Rs 32 Cr led by Prime Venture Partners"
-   },
-   {
-    "outlet": "The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTltRzgwaDlsT2ZwcUlRM05KaFhOeUlIVG1WZUo3bkd2VmZNYlA3TnZheE5Jd2dYNWxIYl90WWdXc25ITEdlTXlBZ091cVJtc0NWNVBvQVQ0a2ppSU1iSkd1QWRCYmtwcl9xRGkwNXFISFVheXpuOGRYVGF2MVk2NzQ1a2JTRUc4bERBWGxueGFFTzQ5d1ZjVUdnZHRCZGJ0R0VOQU5YZXNIc0hGWHlmMGlSNG52b0pLRzd1MW1QZDZ2TE93VmlFZGotbUJqOGw10gHWAUFVX3lxTE1SeHl1Q204ampBc2UxdnhLUXVfM1FGRXJ0Y25xN3luR19odXJGQWJTVDdyajFjV1R2MGZpUDgwcVNmR1UyZUlSaFQ5eE5mWWxlcHpISmFxMGFqZFh4Qm9tM3ZVOTVlOG9QYy1CNlZ5aVRLcUFZbk1QaVBMNnBaRTBtc1V2R0lmV0VXMUwxR0lPYWVVNEhJcnFGZTkweUdaZTExWFNGMjRHZk1uU3lpUzlwT0ZRLUNwMHBfdTE1anZRcFEwWmY0S2NUem9SMXo2Wk9sOFNRVlE?oc=5",
-    "title": "Desible.ai raises Rs 32 crore in round led by Prime Venture Partners"
-   },
-   {
-    "outlet": "https://ascendants.in/",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFUweE5pd0ZaUkJEOGc4RG9iaHFwQWl0eGF1TXpXT0V3dGdKNkp4T21vSVFoYUNDTG9vT19TTlgzMmJiVXIwMFdwVFU3ZVFScEFIUHFvam9jVUtKR2FLN2lLVXdsWTd6VmFPa0FSVExEUHBOUlZqQnYxSUhnNzVVcUVqdkJXMV9kX3pOWjdKSVhZbzdmM25r?oc=5",
-    "title": "Desible AI Raises Rs 32 Crore as Its AI Platform Expands Across 25-Plus BFSI Workflows"
-   },
-   {
-    "outlet": "Indian Startup News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDAxdDlNa2VPeldWUWN5aUVMcWVaYTFZRHUyNkE4WmpaenY1T2MyQ01WbUhiZ2YwS1h3emdGM2xnT1QtSE1fZS11WE5NNnZLTXQ1SWl3UGJfcUtCZ0N0MFhzbUNYQXd1VG5aQWhGRFRtd0M1SXpydnY0bDVJY1RtakRiNU1RdzNpakRCOExHUWQ2T09jYkItV3Rsb1FQNUlNUnhSeUFDY1VvNV9heHRDV2xNYU1YT1czbHRUZC1kNlZDVG1oMXFlREpn0gHKAUFVX3lxTE1MMDF0OU1rZU96V1ZRY3lpRUxxZVphMVlEdTI2QThaalp6djVPYzJDTVZtSGJnZjBLWHd6Z0YzbGdPVC1ITV9lLXVYTk02dktNdDVJaXdQYl9xS0JnQ3QwWHNtQ1hBd3VUblpBaEZEVG13QzVJenJ2djRsNUljVG1qRGI1TVF3M2lqREI4TEdRZDZPT2NiQi1XdGxvUVA1SU1SeFJ5QUNjVW81X2F4dENXbE1hTVhPVzNsdFRkLWQ2VkNUbWgxcWVESmc?oc=5",
-    "title": "'Voice AI is our entry point': Desible.ai raises Rs 32 crore to automate BFSI workflows"
    }
   ],
   "indiaSignal": "strong"
@@ -13075,112 +13193,6 @@
     "outlet": "Entrackr",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbE44eFRMYXNidWtDUlA4ejZ1Zmg4ZEpFTmZBNTBSYWVlcmFrUnBvZXJIS1phMkJlNm5TYnFCdnFYTXY2TmtPTjJUZ2Y1ODFQZnZ0WGZuVHFHa3I5UXUyWUFmLVEzcVVFOHd2b0FhOHM4VXE5VFJFMnpWM0w0S1l2Z25sdkRFcVk4eFRaYzZ3SUFacEVoMkZUUllwSU5Vc2ZIZm5mdkg0TDdkT0VfVXlrd05IX2xXVzhjUjJLOXA3SC3SAcABQVVfeXFMT2xOOHhUTGFzYnVrQ1JQOHo2dWZoOGRKRU5mQTUwUmFlZXJha1Jwb2VySEtaYTJCZTZuU2JxQnZxWE12Nk5rT04yVGdmNTgxUGZ2dFhmblRxR2tyOVF1MllBZi1RM3FVRTh3dm9BYThzOFVxOVRSRTJ6VjNMNEtZdmdubHZERXFZOHhUWmM2d0lBWnBFaDJGVFJZcElOVXNmSGZuZnZINEw3ZE9FX1V5a3dOSF9sV1c4Y1IySzlwN0gt?oc=5",
     "title": "AI insurtech startup NeuralKart raises seed funding led by Inflection Point Ventures"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "bioscanresearch-2026-07-22",
-  "company": "Bioscan Research",
-  "key": "bioscanresearch",
-  "descriptor": "Medtech startup",
-  "amount": 1000000,
-  "currency": "USD",
-  "usd": 1000000,
-  "round": "Seed",
-  "investors": [
-   "Unicorn India Ventures"
-  ],
-  "date": "2026-07-22",
-  "sources": [
-   {
-    "outlet": "Entrackr",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTkNaOGdXLVJaNVFEOV90TG9jRjhEQkozVDFYWjhzSGZVNEFVcmhuY1VNYm9lMzB6T3lIdGpaeVh0WlExQXRKMzBRN3oyQlNVb09TQWFIQnN6Y19KZzBvZFJNUnpKQ2FzOUx6OFhiMGRBM252M1lPcFpROGZaMmJIOFdzeXpJSDFNVTFxYXFMS3dyZEl3eGVQNThMTGUzZlFsS2NPTHB3a3lsR2g0RE9RS1ZfSzhpeFJnSURSNjVRd1RHOHhHWGfSAcYBQVVfeXFMUE5DWjhnVy1SWjVRRDlfdExvY0Y4REJKM1QxWFo4c0hmVTRBVXJobmNVTWJvZTMwek95SHRqWnlYdFpRMUF0SjMwUTd6MkJTVW9PU0FhSEJzemNfSmcwb2RSTVJ6SkNhczlMejhYYjBkQTNudjNZT3BaUThmWjJiSDhXc3l6SUgxTVUxcWFxTEt3cmRJd3hlUDU4TExlM2ZRbEtjT0xwd2t5bEdoNERPUUtWX0s4aXhSZ0lEUjY1UXdURzh4R1hn?oc=5",
-    "title": "Medtech startup Bioscan Research raises $1 Mn in seed round led by Unicorn India Ventures"
-   },
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVUw4ZVR6ZzEzU213YU5fajV6eENOa2M1TFE0Sk02WnRUZWNMaFNrZEl3SDdocXJzWWpfcDhiQ28xYmdKN0hiSm14ZVRSNkVqVnJQSWxGSTkwa0VUVEVpWE5IS0NVanJYMHVhTG1ic3RzNTBUa1ptYTB4dHpZRmJxbHBHcUNxS1Q1cnliR2tJUEYwUVhjazlMS2prM2ZzbUFlNXphNk5sR3hNUDdCV2hXdjFiRXNPUGZ0ejQtYXJFajRoYnFRMDVlbEpzalhmWTU2YWxkNFJQbV9PdUNtWFF3SkV0Y1VCWDVUdG82d01rNkhSQkFzTlAyVEV4NE4?oc=5",
-    "title": "Bioscan Research Raises $1 Million Seed Funding Led by Unicorn India Ventures to Advance AI-Powered Brain Injury Detection"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "kat-2026-07-22",
-  "company": "K.A.T",
-  "key": "kat",
-  "descriptor": null,
-  "amount": null,
-  "currency": null,
-  "usd": null,
-  "round": "Pre-seed",
-  "investors": [],
-  "date": "2026-07-22",
-  "sources": [
-   {
-    "outlet": "Dealroom",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZm01UHdZV3ZoTkNTLVJJNmkyMTk5dy11d2VqYWdNNk5pZGhmSnRkY2Q4d1dfTHBNbHl1YWNncElXeG5NSzdWN1lraWc4SjR0b3U4WVdSR3h2Wm5rbnZoYTAyeHFpcUhMRV9KYVQydF9vLXNIenc4WUNPVEc4QTNqdDhwZWxGSGVWNnpGaWtodUxScHA3WkE?oc=5",
-    "title": "India's K.A.T raises pre-seed to build cargo eVTOL drones"
-   }
-  ],
-  "indiaSignal": "weak"
- },
- {
-  "id": "30sundays-2026-07-21",
-  "company": "30 Sundays",
-  "key": "30sundays",
-  "descriptor": "Travel-tech startup",
-  "amount": 610000000,
-  "currency": "INR",
-  "usd": 6931818.181818182,
-  "round": null,
-  "investors": [
-   "Bessemer Venture Partners"
-  ],
-  "date": "2026-07-21",
-  "sources": [
-   {
-    "outlet": "Inc42",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQam9fZ2Z4RFY2Z3JyZ1g2QmdkN3UxdjNCWEhQaThXWTJCWVJpUXZ1NGlwc1dvTzhtWnBRNzM4NExnMmpXYk9QdXY0X0c5eHVCcVo4ZzdwcXpGemtTNGNyMUJaSGJmMWktV3d2bWJSa2k1ZU5BaVVHMnFwZFAyay01cWgwVE9hSFY4QjZ6LWd6Q3lsaGc1bGJHX2RZdl83V0pqMmpMSHRVWTZjZVR2RnEzdGg3WQ?oc=5",
-    "title": "Traveltech Startup 30 Sundays Raises ₹61 Cr To Expand AI-Powered Holiday Planning"
-   },
-   {
-    "outlet": "YourStory.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaXQzbEN5NFV2bFppSmhQaWdwbE9fZlIxMlFfbnN0bmxqbEpYNTVHbW56RUk1VkJoeGd3ekd6NzZ1V2pUbEJ1T3IyNzItU0xYcDNDYTBkdk8ydXExelI0VVdnbWl0QmR6blVLaU9panZsZ3R6a3VxcWJyTXAtRDJTbG9USmxkR3ZNOU80ZFVsZVRqeW96dWhHa2FZQk9WUQ?oc=5",
-    "title": "Traveltech startup 30 Sundays raises Rs 61 Cr led by Bessemer Venture Partners"
-   },
-   {
-    "outlet": "Moneycontrol.com",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekNXOVJIdlVGTWRNbVE2Yk1NdC1TZjFkc1gyVGNiVmlQZzVvdG1XQnlkeEc2aDNxcGJRYnl3bFhuVW8zcmZ2bE1nbzI0WkU2WGtpejZuemVwS3NVMFpUS0FDM3QwbGVJT1VwbGVYaklNWUptd1c5VkxJdGRrbXh4MGpzNzF0aDUxTnFpeVZTTFYxTVF4OEJjMnRsSm5LVXY2R214d0RZM2Z2TlFzTWNQREoxaGduWjVwbWNJdW9RcHkzN1hVRUgyS09HbUF1eXBz0gHWAUFVX3lxTE9TWU94dXhDX2pVdWRMVkVtR21kUGk4V2dja0VlMmY4MXJNMUZLbW1BWnRZMDJJT3E1X09tdW9GdzdNRmp1VmI0SnJ1Wng3TnJ5eFdKM1BBTkxGeWp5X2xubXpWLXIzQ1VTYkMtNUxnUTZyeXpQYS1pTXlSSzhtR25vVUt1THVrekJBZTFjcXBMWk5zNzNJS28tU3lYS3FHeE5wM0RnWENqSFBTNWRiR3dsbllHWlVTUkxUMU9ra2JnNFZtaGJabk1rVnJ3TTJHSEZ0N1FPZEE?oc=5",
-    "title": "Travel-tech startup 30 Sundays raises Rs 61 crore led by Bessemer Venture"
-   },
-   {
-    "outlet": "Indian Startup Times",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWY2VDJ6TURydTRrWjZtQzZpR1E3RXU3WGQxR0pyNVZRYjdWTE9QY3NuVGZvcE9Hc3FIbHVSM0VfeU03R3luN0daTWxGQzUtcHdLUEpaRFFYRlF6dDk4QTdFX0dOZmJxX01YOEpOTTB0bHNudHZpLXN2eUdfTHZzNDY4NnJpVkVsT2NFQlZuYWN1bW1TU3E1bEFVY3lzY1o4WkpwTXpaYkVVY2Y1a1c2VWtfZ19IdEVGZ0pSc1plTmtvZ3ZPMUZLR0JmMkNMbzhJalVRdWVPejRuTE1nM0Ew?oc=5",
-    "title": "30 Sundays Raises $6.7 Million Led by Bessemer Venture Partners to Expand AI-Powered Travel Platform"
-   }
-  ],
-  "indiaSignal": "strong"
- },
- {
-  "id": "lngvty-2026-07-21",
-  "company": "LNGVTY",
-  "key": "lngvty",
-  "descriptor": "Skin longevity startup",
-  "amount": 50000000,
-  "currency": "INR",
-  "usd": 568181.8181818182,
-  "round": "Seed",
-  "investors": [
-   "Rukam Capital"
-  ],
-  "date": "2026-07-21",
-  "sources": [
-   {
-    "outlet": "ET Retail",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNFBZbVN4ZTJDejI1VlNRZy1faG83Sk5kbWFRelJQTjh3SlFIaTlPQjJ3NHo2aGpVOHhoR0ptelRyVGNoQkUyeGhKd3JDWnQtRUVIbHJWZ1UyTHhwWGxwU2tQNUN4c2cyMk5pdDMzQU41Z3VQWnMyYlBkTG9MZXBIaHoxcUdYb2hSU0Z4T2wzWTBPZVFteU4yWVFOMXpKemkyZGhKX0JzckM5X0I5T1Y2WkRPOEhMVlEyb0dzOEpObmVlVkU3cXI4OGhsVFpKcXdOU3BzT1E2WEdIckhZU2JMZnRGX180MExBdEFOVkx3Z9IB9AFBVV95cUxOcmVLSlZhQXNFZmRZNERCNzM2TFd1bnhsc2lvQmpyeFpHRHo2SGw3QjlmNlY4RTZucFh1emJtVlN0RWl5Nml0MWRpWGU3aElmbnBSSm9yUjdVZlFSTEJ3NTRvcHFma2dYcmU0bmEtMmpYWHFEWjV5bGVTeHp3NU43WXVVY2dpTXk5cEJaN1hkb2RSc21FdFhiTzBrdXpYcnBmNVg3cGRRYkhiWHJWOFpOTkNTREJUd1QtZkljaHpRZTBPYUZsTy0xZFN4eExDSFVONnBxMXJNZlBiUlA4V3FBTFMwMVpfWENBZDVtTW9rdTR3NjlE?oc=5",
-    "title": "Skin longevity startup LNGVTY raises Rs 5 crore in seed round led by Rukam Capital"
    }
   ],
   "indiaSignal": "strong"
