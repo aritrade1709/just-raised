@@ -478,7 +478,7 @@
   "board": null,
   "careersUrl": "https://barm.in/careers",
   "india": true,
-  "checkedAt": "2026-11-16T02:19:31.450Z"
+  "checkedAt": "2026-11-23T02:58:16.452Z"
  },
  "batterysmart": {
   "key": "batterysmart",
@@ -578,7 +578,7 @@
   "board": null,
   "careersUrl": "https://www.ga.com/ga-asi-and-3rditech-announce-joint-strategic-partnership-for-cutting-edge-semiconductor-technologies",
   "india": true,
-  "checkedAt": "2026-11-16T02:19:18.780Z"
+  "checkedAt": "2026-11-23T02:58:01.212Z"
  },
  "bhel": {
   "key": "bhel",
@@ -937,7 +937,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-11-16T02:19:18.780Z"
+  "checkedAt": "2026-11-23T02:58:01.212Z"
  },
  "cent": {
   "key": "cent",
@@ -1450,7 +1450,7 @@
   "board": null,
   "careersUrl": "https://www.dhruvaspace.com/careers",
   "india": true,
-  "checkedAt": "2026-11-16T02:19:18.780Z"
+  "checkedAt": "2026-11-23T02:58:01.212Z"
  },
  "dialflo": {
   "key": "dialflo",
@@ -1927,6 +1927,20 @@
   "india": true,
   "checkedAt": "2026-11-19T03:53:08.765Z"
  },
+ "genesis": {
+  "key": "genesis",
+  "company": "Genesis AI",
+  "domain": "genesisai.com",
+  "board": {
+   "provider": "ashby",
+   "slug": "genesis",
+   "url": "https://jobs.ashbyhq.com/genesis"
+  },
+  "careersUrl": "https://jobs.ashbyhq.com/genesis",
+  "india": true,
+  "checkedAt": "2026-11-23T02:58:01.212Z",
+  "via": "probe"
+ },
  "getvantage": {
   "key": "getvantage",
   "company": "GetVantage",
@@ -1961,7 +1975,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-16T02:19:33.549Z",
+  "checkedAt": "2026-11-23T02:58:19.061Z",
   "note": "no site found (36 candidates)"
  },
  "gramiyaa": {
@@ -2498,6 +2512,15 @@
   "india": true,
   "checkedAt": "2026-11-17T04:51:04.703Z"
  },
+ "karnataka": {
+  "key": "karnataka",
+  "company": "Karnataka",
+  "domain": "karnataka.com",
+  "board": null,
+  "careersUrl": null,
+  "india": null,
+  "checkedAt": "2026-11-23T02:58:01.212Z"
+ },
  "karta": {
   "key": "karta",
   "company": "Karta AI",
@@ -2716,7 +2739,7 @@
   "board": null,
   "careersUrl": "https://littlebox.in/careers",
   "india": true,
-  "checkedAt": "2026-11-16T02:19:39.106Z"
+  "checkedAt": "2026-11-23T02:58:43.967Z"
  },
  "live2": {
   "key": "live2",
@@ -2957,7 +2980,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-16T02:19:35.211Z"
+  "checkedAt": "2026-11-23T02:58:27.939Z"
  },
  "mochatrade": {
   "key": "mochatrade",
@@ -4064,8 +4087,8 @@
   "domain": "shyammetalics.com",
   "board": null,
   "careersUrl": "https://shyammetalics.com/careers",
-  "india": null,
-  "checkedAt": "2026-11-16T02:19:18.780Z"
+  "india": false,
+  "checkedAt": "2026-11-23T02:58:14.005Z"
  },
  "sidsfarm": {
   "key": "sidsfarm",
@@ -4408,7 +4431,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-16T02:19:29.391Z",
+  "checkedAt": "2026-11-23T02:58:14.331Z",
   "note": "no site found (36 candidates)"
  },
  "swish": {
@@ -4616,7 +4639,7 @@
   "board": null,
   "careersUrl": "https://two-point-o.com/jobs/",
   "india": false,
-  "checkedAt": "2026-11-16T02:19:18.780Z"
+  "checkedAt": "2026-11-23T02:58:12.487Z"
  },
  "typsybeauty": {
   "key": "typsybeauty",
@@ -4708,15 +4731,6 @@
   "careersUrl": "https://unveilrai.com/careers",
   "india": true,
   "checkedAt": "2026-11-21T03:22:16.233Z"
- },
- "upkraft": {
-  "key": "upkraft",
-  "company": "UpKraft",
-  "domain": "upkraft.in",
-  "board": null,
-  "careersUrl": null,
-  "india": false,
-  "checkedAt": "2026-11-19T03:56:58.100Z"
  },
  "urbancompany": {
   "key": "urbancompany",
@@ -5023,9 +5037,9 @@
   "company": "YOGa",
   "domain": "yoga.in",
   "board": null,
-  "careersUrl": "https://yoga.in/join",
+  "careersUrl": "https://yoga.in/join-our-team/",
   "india": true,
-  "checkedAt": "2026-11-16T02:19:34.844Z"
+  "checkedAt": "2026-11-23T02:58:24.808Z"
  },
  "yogacleanair": {
   "key": "yogacleanair",
