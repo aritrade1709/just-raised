@@ -125,6 +125,23 @@
   "india": false,
   "checkedAt": "2026-11-24T06:24:30.666Z"
  },
+ "aidenai": {
+  "key": "aidenai",
+  "company": "AidenAI",
+  "domain": "aidenai.com",
+  "board": {
+   "provider": "keka",
+   "slug": "aidenai",
+   "url": "https://aidenai.keka.com/careers/",
+   "meta": {
+    "guid": "7159a120-94d0-4bec-83fe-30b283210841"
+   }
+  },
+  "careersUrl": "https://aidenai.com/careers/",
+  "india": true,
+  "checkedAt": "2026-11-25T04:59:06.125Z",
+  "via": "site"
+ },
  "aignosis": {
   "key": "aignosis",
   "company": "Aignosis",
@@ -677,6 +694,20 @@
   "india": null,
   "checkedAt": "2026-11-20T03:40:17.564Z"
  },
+ "bloom": {
+  "key": "bloom",
+  "company": "Bloom",
+  "domain": "mybloom.in",
+  "board": {
+   "provider": "lever",
+   "slug": "bloom",
+   "url": "https://jobs.lever.co/bloom"
+  },
+  "careersUrl": "https://jobs.lever.co/bloom",
+  "india": true,
+  "checkedAt": "2026-11-25T04:59:06.125Z",
+  "via": "probe"
+ },
  "bobabhai": {
   "key": "bobabhai",
   "company": "Boba Bhai",
@@ -1164,6 +1195,15 @@
   "careersUrl": "https://coratia.com/career",
   "india": true,
   "checkedAt": "2026-11-20T03:40:23.556Z"
+ },
+ "cosine": {
+  "key": "cosine",
+  "company": "Cosine",
+  "domain": "cosinehq.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-11-25T04:59:06.126Z"
  },
  "cosinerobots": {
   "key": "cosinerobots",
@@ -1841,7 +1881,7 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-18T03:47:37.986Z",
+  "checkedAt": "2026-11-25T04:59:29.432Z",
   "note": "no site found (36 candidates)"
  },
  "formial": {
@@ -1898,7 +1938,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-11-18T03:47:30.318Z"
+  "checkedAt": "2026-11-25T04:59:27.255Z"
  },
  "fundly": {
   "key": "fundly",
@@ -2732,7 +2772,7 @@
   "board": null,
   "careersUrl": null,
   "india": false,
-  "checkedAt": "2026-11-18T03:47:30.318Z"
+  "checkedAt": "2026-11-25T04:59:15.536Z"
  },
  "lemonpeelaivideoproductionplatform": {
   "key": "lemonpeelaivideoproductionplatform",
@@ -3196,6 +3236,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-11-21T03:21:59.849Z"
+ },
+ "neoseekermetals": {
+  "key": "neoseekermetals",
+  "company": "NeoSeeker Metals",
+  "domain": "neoseekermetals.com",
+  "board": null,
+  "careersUrl": null,
+  "india": true,
+  "checkedAt": "2026-11-25T04:59:18.863Z"
  },
  "nepra": {
   "key": "nepra",
@@ -3839,7 +3888,7 @@
   "board": null,
   "careersUrl": null,
   "india": true,
-  "checkedAt": "2026-11-18T03:47:30.318Z"
+  "checkedAt": "2026-11-25T04:59:06.126Z"
  },
  "refitglobal": {
   "key": "refitglobal",
@@ -4148,18 +4197,17 @@
   "board": null,
   "careersUrl": null,
   "india": null,
-  "checkedAt": "2026-11-18T03:47:35.011Z",
+  "checkedAt": "2026-11-25T04:59:27.662Z",
   "note": "no site found (36 candidates)"
  },
  "shreeanandhaas": {
   "key": "shreeanandhaas",
   "company": "Shree Anandhaas",
-  "domain": null,
+  "domain": "shreeanandhaas.com",
   "board": null,
   "careersUrl": null,
-  "india": null,
-  "checkedAt": "2026-11-18T03:47:30.318Z",
-  "note": "no site found (36 candidates)"
+  "india": true,
+  "checkedAt": "2026-11-25T04:59:11.104Z"
  },
  "shyammetalics": {
   "key": "shyammetalics",
@@ -4819,7 +4867,7 @@
   "board": null,
   "careersUrl": "https://careers.urbanclap.com/",
   "india": true,
-  "checkedAt": "2026-11-18T03:47:30.318Z"
+  "checkedAt": "2026-11-25T04:59:21.166Z"
  },
  "utsav": {
   "key": "utsav",
@@ -4902,6 +4950,15 @@
   "careersUrl": null,
   "india": true,
   "checkedAt": "2026-11-21T03:23:01.891Z"
+ },
+ "vidyakul": {
+  "key": "vidyakul",
+  "company": "Vidyakul",
+  "domain": "vidyakul.com",
+  "board": null,
+  "careersUrl": "https://vidyakul.com/careers",
+  "india": true,
+  "checkedAt": "2026-11-25T04:59:06.126Z"
  },
  "vingo": {
   "key": "vingo",
